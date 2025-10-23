@@ -258,18 +258,18 @@
 			}
 		},
 		"ranked_description": {
-			"MISSING-title": "Ranked Mode",
-			"MISSING-description": "Challenge yourself against your friends and the AMQ community by joining ranked games. Each ranked game will earn you ranked points, unlocking new exclusive rewards and getting you closer to joining the best of the best in the region championship hosted at the end of each month. _BREAK_ Do note that your account has to be level 10 or higher to join ranked matches.",
-			"MISSING-how_it_works": "How It Works",
-			"MISSING-regions": "Regions",
-			"MISSING-region_description": "The ranked mode is split up into three separate regions (west, central, east), each with their own leaderboard, start time and championship. You will be able to participate in all regions, but ranked points only count for the region in which they're earned in.",
-			"MISSING-ranked_game": "Ranked Game",
-			"MISSING-ranked_game_description_one": "30 minutes before start time, you will be able to join either the novice or expert ranked lobby from the main menu. _BREAK_ The novice room is geared towards new and less hardcore players, and consists of 45 mainly medium and easy songs with 20 seconds guess time. _BREAK_ The expert room is geared towards hardcore and competitive players, and consists of 85 fully random songs with 15 seconds guess time.",
-			"MISSING-ranked_game_description_two": "At the end of each ranked game, you'll earn ranked points based on the amount of songs you’ve guessed. _BREAK_ In novice games, you earn 3 points for each correct guess. _BREAK_ In expert games, the points per song increases with the number of songs you guessed. The first five songs reward 4 points each, the next five reward 5 points each, then 6 points each of the next 5 and so on.",
-			"MISSING-end_of_season": "End of Season",
-			"MISSING-end_of_season_description": "The last Saturday of each month, instead of the normal ranked game, a championship game is hosted instead. The championship games function like a normal ranked game, except only the top 150 players in the region are able to participate, with the winner earning the title of Region Champion. _BREAK_ The Monday after the championship, all ranked points are reset and a new season starts.",
-			"MISSING-rules": "Rules",
-			"MISSING-rules_description": "The ranked game mode is a test of individual skills, so it's important that you don’t share hints or answers with other players. All tools, methods or software that give an unfair advantage are banned as well (as it is for all game modes). _BREAK_ Breaking the above rules can result in your account getting banned and all ranked rewards removed."
+			"title": "Tävlingsinriktat läge",
+			"description": "Utmana dig själv mot dina vänner och mot AMQ gemenskapen genom att gå med i tävlingsinriktade spel. Varje tävlingsinriktat spel ger dig poäng vilket låser upp exclusiva belöningar och tar dig närmare att gå med de bästa av de bästa i regions mästarskapet som körs i slutet av varje månad. _BREAK_ Notera att ditt konto måste vara level 10 eller högre för att delta i tävlingsinriktade matcher.",
+			"how_it_works": "Hur det funkar",
+			"regions": "Regioner",
+			"region_description": "Det tävlingsinriktade läget är uppdelat i tre olika regioner (väst, centralt, öst), varje med sin egna toplista, startid och mästerskap. Du kan delta i alla regioner men poäng räknas endast till den region du tävlade i",
+			"ranked_game": "Ranked Game",
+			"ranked_game_description_one": "30 innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expert rummet är riktat mot tävlingsinriktade och mer hardcore spelar och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
+			"MISSING-ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjar rummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expert rum ökar mängden poäng baserat på hur många korrekta gissingar du fått. De första 5 korrekta gissningarna ger 4 poäng var, nästa 5 ger 5 poäng var, nästa 5 ger 6 poäng var och så vidare.",
+			"MISSING-end_of_season": "Säsongs slut",
+			"MISSING-end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
+			"MISSING-rules": "Regler",
+			"MISSING-rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet så det är viktigt att inte dela hints eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spel lägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir banlyst och dina tävlingsinriktade belöningar tas bort."
 		},
 		"avatar_drive": {
 			"MISSING-standings": "Standings",
