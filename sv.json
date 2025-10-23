@@ -265,11 +265,11 @@
 			"region_description": "Det tävlingsinriktade läget är uppdelat i tre olika regioner (väst, centralt, öst), varje med sin egna toplista, startid och mästerskap. Du kan delta i alla regioner men poäng räknas endast till den region du tävlade i",
 			"ranked_game": "Ranked Game",
 			"ranked_game_description_one": "30 innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expert rummet är riktat mot tävlingsinriktade och mer hardcore spelar och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
-			"MISSING-ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjar rummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expert rum ökar mängden poäng baserat på hur många korrekta gissingar du fått. De första 5 korrekta gissningarna ger 4 poäng var, nästa 5 ger 5 poäng var, nästa 5 ger 6 poäng var och så vidare.",
-			"MISSING-end_of_season": "Säsongs slut",
-			"MISSING-end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
-			"MISSING-rules": "Regler",
-			"MISSING-rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet så det är viktigt att inte dela hints eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spel lägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir banlyst och dina tävlingsinriktade belöningar tas bort."
+			"ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjar rummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expert rum ökar mängden poäng baserat på hur många korrekta gissingar du fått. De första 5 korrekta gissningarna ger 4 poäng var, nästa 5 ger 5 poäng var, nästa 5 ger 6 poäng var och så vidare.",
+			"end_of_season": "Säsongs slut",
+			"end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
+			"rules": "Regler",
+			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet så det är viktigt att inte dela hints eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spel lägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir banlyst och dina tävlingsinriktade belöningar tas bort."
 		},
 		"avatar_drive": {
 			"MISSING-standings": "Standings",
