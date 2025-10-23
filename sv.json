@@ -1,5 +1,5 @@
 {
-	"meta": { "language_name": "Swedish", "language_name_native": "Svenska", "language_code": "sv", "creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster)" },
+	"meta": { "language_name": "Swedish", "language_name_native": "Svenska", "language_code": "sv", "creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster), Oscar Andersson (6FacedWorldGuru)" },
 	"common": {
 		"ui": {
 			"translation_coverage": "Översättningstäckning",
@@ -67,86 +67,86 @@
 	},
 	"login_page": {
 		"ui": {
-			"MISSING-play_now": "Play Now",
-			"MISSING-login": "Login",
-			"MISSING-send_button": "Send",
-			"MISSING-return_to_login": "Return to login",
-			"MISSING-stay_signed_in": "Stay signed in",
-			"MISSING-forgot_password": "Forgot password?",
-			"MISSING-forgot_username": "Forgot username?",
-			"MISSING-country_of_residence": "Country of Residence",
-			"MISSING-agree_terms_of_service": "I agree to the _LINK_ Terms of Service _LINK_",
-			"MISSING-start_playing_now": "Start Playing Now"
+			"MISSING-play_now": "Spela nu",
+			"MISSING-login": "Logga in",
+			"MISSING-send_button": "Skicka",
+			"MISSING-return_to_login": "Återgå till inloggningen",
+			"MISSING-stay_signed_in": "Förbli inloggad",
+			"MISSING-forgot_password": "Glömt lösenord?",
+			"MISSING-forgot_username": "Glömt användarnamn?",
+			"MISSING-country_of_residence": "Bosättningsland",
+			"MISSING-agree_terms_of_service": "Jag godkänner _LINK_ Användarvillkoren _LINK_",
+			"MISSING-start_playing_now": "Börja Spela Nu"
 		},
 		"popout_messages": {
 			"create_guest_account": {
-				"MISSING-title": "Create Guest Account",
-				"MISSING-text": "By creating a guest account you agree to the _LINK_ Terms of Service _LINK_ and _LINK_ Privacy Policy _LINK_.",
-				"MISSING-error_title": "Error creating guest account",
-				"MISSING-error_disabled": "Guest accounts are disabled"
+				"MISSING-title": "Skapa Gästkonto",
+				"MISSING-text": "Genom att skapa ett gästkonto godänner du _LINK_ Användarvillkoren _LINK_ and _LINK_ Sekretesspolicyn _LINK_.",
+				"MISSING-error_title": "Fel vid skapande av gästkonto",
+				"MISSING-error_disabled": "Gästkonton är inaktiverade"
 			},
-			"MISSING-select_country": "Please select your country of residence",
-			"MISSING-country_error": "Error registering country",
+			"MISSING-select_country": "Vänligen ange ditt bosättningsland",
+			"MISSING-country_error": "Fel vid registrering av land",
 			"already_online": {
-				"MISSING-title": "Account Already Online",
-				"MISSING-text": "Continue login, logging out the other sessions?"
+				"MISSING-title": "Kontot är redan inloggat",
+				"MISSING-text": "Fortsätt inloggning och logga ut från de andra sessionerna"
 			},
-			"MISSING-guest_timeout": "Guest account timed out, please create a new one"
+			"MISSING-guest_timeout": "Gästkontot har gått ut, vänligen skapa ett nytt"
 		},
 		"text": {
-			"MISSING-create_account": "Create Account",
-			"MISSING-recover_username_title": "Recover Username",
-			"MISSING-recover_username_text": "Enter the email used to register your account, to have your username sent to it.",
-			"MISSING-forgot_password_title": "Forgot Password",
-			"MISSING-forgot_password_text": "Enter the email used to register your account, to have a password reset link sent to it.",
-			"MISSING-reset_password_title": "Reset Password",
-			"MISSING-missing_information": "Missing Account Information",
-			"MISSING-missing_country": "Account is missing your country of residence, please select it below.",
-			"MISSING-promo_title": "The #1 Anime Music Quiz!",
+			"MISSING-create_account": "Skapa Konto",
+			"MISSING-recover_username_title": "Hämta Användarnamn",
+			"MISSING-recover_username_text": "Ange den e-postadress som användes för att registrera ditt konto för att få ditt användarnamn skickat dit.",
+			"MISSING-forgot_password_title": "Glömt lösenord",
+			"MISSING-forgot_password_text": "Ange den e-postadress som användes för att registrera ditt konto för att få en länk för återställning av lösenord skickad dit.",
+			"MISSING-reset_password_title": "Återställ lösenord",
+			"MISSING-missing_information": "Saknas kontoinformation",
+			"MISSING-missing_country": "Kontot saknar information om ditt bosättningsland, vänligen välj det nedan.",
+			"MISSING-promo_title": "Nummer 1 anime musikquiz!",
 			"promo_one": {
-				"MISSING-title": "Unending Number of Quizzes",
-				"MISSING-line_one": "35,000+ Songs From 8,000+ Anime",
-				"MISSING-line_two": "Each Quiz Uniquely Generated",
-				"MISSING-line_three": "Custom built quizzes from your MyAnimeList, AniList or Kitsu",
-				"MISSING-line_four": "Free to Play"
+				"MISSING-title": "Oändligt antal quiz",
+				"MISSING-line_one": "35,000+ låtar från 8,000+ anime",
+				"MISSING-line_two": "Varje quiz genereras unikt",
+				"MISSING-line_three": "Skräddarsydda quiz från din MyAnimeList, AniList eller Kitsu",
+				"MISSING-line_four": "Gratis att spela"
 			},
 			"promo_two": {
-				"MISSING-title": "Play Your Way",
-				"MISSING-line_one": "With Friends",
-				"MISSING-line_two": "Challenge Yourself",
-				"MISSING-line_three": "Climb the Ranked Ladder",
-				"MISSING-line_four": "Explore the Dungeon Crawler"
+				"MISSING-title": "Spela på ditt sätt",
+				"MISSING-line_one": "Med vänner",
+				"MISSING-line_two": "Utmana dig själv",
+				"MISSING-line_three": "Klättra upp i rankningen",
+				"MISSING-line_four": "Utforska Dungeon Crawler-läget"
 			},
 			"login_queue": {
-				"MISSING-title": "Login Queue",
-				"MISSING-text": "The login server is experiencing a heavy load, you will be logged in momentarily",
-				"MISSING-position": "Position in queue: _SPAN_ 0 _SPAN_"
+				"MISSING-title": "Inloggningskö",
+				"MISSING-text": "Inloggningsservern har hög belastning, du kommer att loggas in inom kort",
+				"MISSING-position": "Din plats i kön: _SPAN_ 0 _SPAN_"
 			}
 		},
 		"messages": {
-			"MISSING-account_verified": "Account Verified, you can now login",
-			"MISSING-account_verified_guest": "Account Verified, you can close this tab",
-			"MISSING-verification_error": "Error Verifying Account: An Unexpected Error Happened",
-			"MISSING-unknown_reset_code": "Unknown Reset Code",
-			"MISSING-wrong_username_password": "Wrong username or password",
-			"MISSING-email_sent": "Email sent",
-			"MISSING-password_updated": "Password Updated"
+			"MISSING-account_verified": "Kontot är verifierat, du kan nu logga in",
+			"MISSING-account_verified_guest": "Kontot är verifierat, du kan nu stänga den här fliken",
+			"MISSING-verification_error": "Fel vid verifiering av konto: Ett oväntat fel har inträffat",
+			"MISSING-unknown_reset_code": "Okänd återställningskod",
+			"MISSING-wrong_username_password": "Fel användarnamn eller lösenord",
+			"MISSING-email_sent": "Mejl skickat",
+			"MISSING-password_updated": "Lösenord uppdaterat"
 		},
 		"account_verification": {
-			"MISSING-title": "Account Verification",
-			"MISSING-text_one": "_SPAN_ Account not verified _SPAN_, please verify your email by clicking the link sent to _BOLD_ _EMAIL_ _BOLD_.",
-			"MISSING-text_two": "Didn't receive the email? Please allow up to a minute for the email to arrive and check your spam folder. If you still didn't receive the email you can resend it or change email using the field below."
+			"MISSING-title": "Kontoverifiering",
+			"MISSING-text_one": "_SPAN_ Kontot är inte verifierat _SPAN_, vänligen verifiera din e-post genom att klicka på länken som skickades till _BOLD_ _EMAIL_ _BOLD_.",
+			"MISSING-text_two": "Har du inte fått e-postmeddelandet? Vänta upp till en minut på att det ska komma och kontrollera skräppostmappen. Om du fortfarande inte fått e-postmeddelandet kan du skicka det igen eller ändra e-postadress med fältet nedan."
 		},
 		"banned_messages": {
-			"MISSING-title_temp": "Account Temporarily Banned",
-			"MISSING-title_ban": "Account Banned",
-			"MISSING-text_one": "Your account has been flagged for cheating. Using plugins, code snippets, changing the site layout or any other methods to get an unfair advantage is against the Terms of Service of the game.",
-			"MISSING-text_two": "Your account has been flagged for breaking the Terms of Service by a moderator, and you have therefore been banned. You should have received an email detailing why you were banned.",
-			"MISSING-text_three": "Your account has been flagged for cheating. Using plugins, code snippets, changing the site layout or any other methods to get an unfair advantage is against the Terms of Service of the game.",
-			"MISSING-text_temp": "As this is your first offence, your account has only been temporarily banned. But if you continue cheating after the ban has been removed, your account will be permanently banned.",
-			"MISSING-text_perm": "As this is your second offence, your account has been permanently banned.",
-			"MISSING-text_end": "If you believe this ban to be an error, you can create a ticket over on the game’s _LINK_ Discord _LINK_ in the #open-a-ticket channel.",
-			"MISSING-suspended_until": "Suspended Until"
+			"MISSING-title_temp": "Kontot är tillfälligt avstängt",
+			"MISSING-title_ban": "Kontot är avstängt",
+			"MISSING-text_one": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
+			"MISSING-text_two": "Ditt konto har markerats av en moderator för brott mot användarvillkoren och du har därför blivit avstängd. Du borde ha fått ett e-postmeddelande som förklarar varför du blev avstängd.",
+			"MISSING-text_three": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
+			"MISSING-text_temp": "Eftersom detta är din första överträdelse har ditt konto endast blivit tillfälligt avstängt. Om du däremot fortsätter fuska efter att avstängningen har upphört kommer ditt konto att bli permanent avstängt.",
+			"MISSING-text_perm": "Eftersom detta är din andra överträdelse har ditt konto blivit permanent avstängt.",
+			"MISSING-text_end": "Om du anser att denna avstängning är ett misstag kan du skapa en supportticket på spelets _LINK_ Discord _LINK_ i kanalen #open-a-ticket.",
+			"MISSING-suspended_until": "Avstängd till"
 		}
 	},
 	"main_menu": {
