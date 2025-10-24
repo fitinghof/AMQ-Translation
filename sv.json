@@ -235,13 +235,13 @@
 				}
 			},
 			"week_days": {
-				"MISSING-monday": "Monday",
-				"MISSING-tuesday": "Tuesday",
-				"MISSING-wednesday": "Wednesday",
-				"MISSING-thursday": "Thursday",
-				"MISSING-friday": "Friday",
-				"MISSING-saturday": "Saturday",
-				"MISSING-sunday": "Sunday"
+				"monday": "Måndag",
+				"tuesday": "Tisdag",
+				"wednesday": "Onsdag",
+				"thursday": "Torsdag",
+				"friday": "Fredag",
+				"saturday": "Lördag",
+				"sunday": "Söndag"
 			},
 			"popout_messages": {
 				"weekly_quiz": {
