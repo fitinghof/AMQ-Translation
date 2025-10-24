@@ -171,7 +171,7 @@
 				"valentine": "Alla hjärtans dag rea!",
 				"summer_games": "Sommarspelenrea!"
 			},
-			"MISSING-sale_text": "Get the best ticket value!",
+			"sale_text": "Få det bästa biljett värdet!",
 			"skin_header": "Exklusiva",
 			"skin_seasons": {
 				"spring": "Vårutklädnader",
@@ -206,11 +206,11 @@
 			"ranked_types": {
 				"novice": {
 					"title": "Nybörjare",
-					"MISSING-description": "45 låtar riktade mot nya spelare"
+					"description": "45 låtar riktade mot nya spelare"
 				},
 				"expert": {
 					"title": "Expert",
-					"MISSING-description": "85 låtar riktade mot erfarna spelare. Ger fler poäng"
+					"description": "85 låtar riktade mot erfarna spelare. Ger fler poäng"
 				}
 			},
 			"states": {
@@ -272,14 +272,14 @@
 			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet så det är viktigt att inte dela hints eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spel lägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir banlyst och dina tävlingsinriktade belöningar tas bort."
 		},
 		"avatar_drive": {
-			"MISSING-standings": "Ställning",
-			"recent": "Nyligen",
-			"weekly": "Veckans",
+			"standings": "Ställning",
+			"recent": "Senast",
+			"weekly": "Vecka",
 			"weekly_short": "V",
-			"monthly": "Månadens",
+			"monthly": "Månad",
 			"monthly_short": "M",
-			"all_time": "Genom Tiderna",
-			"all_time_short": "GT",
+			"all_time": "Alltid",
+			"all_time_short": "A",
 			"donate": "Donera",
 			"faq": "FAQ",
 			"amount": "Belopp",
@@ -293,7 +293,7 @@
 				"MISSING-text": "You can nominate any type of avatar you can think of, as long as they are not offensive, can legally be added to the game and fit into the design of the game. All nominations are reviewed, and can be rejected if they don't follow the guidelines mentioned above."
 			},
 			"faq_existing_avatar": {
-				"MISSING-title": "Kan jag nomindera en befintlig karaktär?",
+				"title": "Kan jag nominera en befintlig karaktär?",
 				"MISSING-text": "You are more than welcome to nominate an existing avatar for the Avatar Drive. If an existing avatar wins the drive, a new skin will be added for that avatar. You are also more than welcome to specify what you want the skin to be, let's say you want to give Hibiki a ninja outfit, you can nominate \"Ninja Hibiki\"."
 			},
 			"donate_towards": "Donera för",
@@ -304,24 +304,24 @@
 			"avatar_description_placeholder": "Kort beskrivning av avataren",
 			"nomination": "Nominering",
 			"anonymous_donation": "Anonym donation",
-			"MISSING-free_donation": "Use Free Donation",
+			"free_donation": "Använd gratis donation",
 			"free_donation_amount": "Belopp: _NUMBER_€",
-			"MISSING-approx_dollars": "Approx. $",
-			"MISSING-checkout": "Utcheckning",
-			"popover": { "MISSING-no_free_donation": "Free donation already used this month" },
+			"approx_dollars": "ca. $",
+			"checkout": "Kassa",
+			"popover": { "no_free_donation": "Gratis donation redan använd denna månaden" },
 			"alerts": {
 				"invalid_amount": {
-					"title": "Olgiltig donationsbelopp",
+					"title": "Ogiltig donationsbelopp",
 					"text": "Du måste skriva in ett donationsbelopp."
 				},
-				"donation_error": { "MISSING-title": "Donationsfel" },
+				"donation_error": { "title": "Donationsfel" },
 				"donation_received": {
 					"title": "Donation mottagen",
-					"text": "Tack för att ni stöttar vårt spel!"
+					"text": "Tack för att ni stöttar spelet!"
 				},
 				"use_free_donation": {
-					"MISSING-title": "Use Free Donation",
-					"MISSING-text": "You only get one free donation per month"
+					"title": "Använd gratis donation",
+					"text": "Du får endast en gratis donation per månad"
 				}
 			}
 		},
@@ -333,22 +333,22 @@
 			"title": "Spelläge",
 			"solo": {
 				"title": "Solo",
-				"MISSING-description": "Challenge yourself with an unlimited amount of personalized unique quizzes"
+				"description": "Utmana dig själv med en obegränsad mängd personliga och unika quiz"
 			},
 			"multiplayer": {
 				"title": "Flerspelarläge",
 				"description": "Spela unika quiz med vänner eller andra animefans"
 			},
 			"community": {
-				"MISSING-title": "Community",
-				"MISSING-description": "Play custom quizzes created by the community or craft your own"
+				"title": "Gemenskap",
+				"description": "Spela quizzes skapade av dina vänner eller AMQ gemenskapen"
 			},
 			"jam": {
-				"title": "Jammande quiz",
+				"title": "Jam quiz",
 				"description": "Ett oändligt quiz där spelare kan hoppa in och ut närsomhelst"
 			},
 			"nexus": {
-				"MISSING-title": "Nexus",
+				"title": "Nexus",
 				"description": "Utamana Nexuskryptan, ett unikt rougelike spelläge, kan spelas solo eller med vänner"
 			}
 		}
@@ -356,18 +356,18 @@
 	"menu_bar": {
 		"settings": {
 			"language": {
-				"MISSING-custom": "Custom",
-				"MISSING-custom_description": "Provide a translation file to test it in-game.",
-				"MISSING-custom_title": "Custom Language File",
-				"MISSING-custom_placeholder": "URL to translation file",
-				"MISSING-custom_alert_description": "Provide the URL to your translation file",
+				"custom": "Anpassat",
+				"custom_description": "Ladda upp en översättingsfil för att testa i spelet",
+				"custom_title": "Anpassad språkfil",
+				"custom_placeholder": "URL till översättingsfil",
+				"custom_alert_description": "Förse url:en till språkfilen",
 				"custom_failed_to_load": {
-					"MISSING-title": "Failed to Load Custom Language",
-					"MISSING-text": "Could not load the custom language file from the provided URL."
+					"title": "Misslyckades att ladda den anpassade språkfilen",
+					"text": "Kunde inte ladda den anpassade språkfilen från den försedda URL:en."
 				},
 				"custom_wrong_format": {
-					"MISSING-title": "Localization File Format Error",
-					"MISSING-text": "The provided language file is not in the correct format. See the browser console for more details."
+					"title": "Lokalizeringsfil format fel",
+					"text": "Den försedda språkfilen är inte i ett korrekt format. Kolla browsern konsolen för mer detaljer."
 				}
 			}
 		}
