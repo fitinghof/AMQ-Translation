@@ -1,12 +1,12 @@
 {
-	"meta": { "language_name": "Swedish", "language_name_native": "Svenska", "language_code": "sv", "creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster), Oscar Andersson (6FacedWorldGuru)" },
+	"meta": { "language_name": "Swedish", "language_name_native": "Svenska", "language_code": "sv", "creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster), Oscar Andersson (6FacedWorldGuru), Pengvinen" },
 	"common": {
 		"ui": {
 			"translation_coverage": "Översättningstäckning",
 			"translation_by": "Översättning av",
 			"username": "Användarnamn",
 			"password": "Lösenord",
-			"email": "Email",
+			"email": "E-post",
 			"repeat_password": "Upprepa Lösenord",
 			"back_button": "Tillbaka",
 			"resend_button": "Skicka om",
@@ -18,10 +18,10 @@
 			"ok_button": "OK",
 			"cancel_button": "Avbryt",
 			"load_button": "Ladda",
-			"new_password": "Nytt Lösenord",
-			"repeat_new_password": "Upprepa Nytt Lösenord",
+			"new_password": "Nytt lösenord",
+			"repeat_new_password": "Upprepa nytt lösenord",
 			"contact": "Kontakta",
-			"socials": "Sociala Medier",
+			"socials": "Sociala medier",
 			"MISSING-legal": "Legal",
 			"community_translations": "Gemenskaps översättningar",
 			"loading": "Laddar",
@@ -30,11 +30,11 @@
 			"claim_button": "Ta emot"
 		},
 		"popout_messages": {
-			"unexpected_error": "Oväntat Fel",
-			"please_try_again": "Vänligen försök igen",
+			"unexpected_error": "Oväntat fel",
+			"please_try_again": "Va vänlig och försök igen",
 			"error_contacting_server": "Fel vid kontakt av server",
 			"internal_server_error": "Internt server fel",
-			"down_for_maintenance": "Servern Nere För Underhåll",
+			"down_for_maintenance": "Servern nere för underhåll",
 			"guest_account": "Otillgängligt för gästkonton",
 			"guest_account_text": "Denna funktionen är otillgänglig för gästkonton"
 		},
@@ -47,22 +47,22 @@
 			"password_too_short": "Lösenordet måste vara minst 5 tecken",
 			"password_too_long": "Lösenord får som högst vara 9999 tecken",
 			"passwords_not_matching": "Lösenorden matchar inte",
-			"no_email": "Ingen email angiven",
-			"invalid_email": "Inte en giltig email",
+			"no_email": "Ingen e-postadress angiven",
+			"invalid_email": "Ogiltig e-postadress",
 			"no_country": "Inget bosättningsland angett",
 			"disabled": "Registrering är avstängd",
 			"unknown_country": "Okänt bosättningsland",
 			"username_taken": "Användarnamnet är redan taget",
-			"email_taken": "Emailen är redan registrerad",
-			"email_sent": "Verifierings email har skickats till _EMAIL_",
-			"email_length": "Email får vara som mest 255 tecken",
-			"account_created": "Kontot _NAME_ skapades lyckat"
+			"email_taken": "E-postadressen är redan registrerad",
+			"email_sent": "Verifiering mejl har skickats till _EMAIL_",
+			"email_length": "E-postadressen får max vara 255 tecken",
+			"account_created": "Kontot _NAME_ lyckades att skapas"
 		},
 		"guest_account": {
-			"title": "Gäst Konto",
+			"title": "Gästkonto",
 			"click_to_register": "Klicka här för att slutföra registrering",
-			"complete_registration": "Slutför Registrering",
-			"complete_registration_message": "För att slutföra registreringen vänligen verifiera din email genom att klicka på länken som skickats till _BOLD_ _EMAIL_ _BOLD_"
+			"complete_registration": "Slutför registrering",
+			"complete_registration_message": "För att slutföra registreringen, va vänlig verifiera din e-postadress genom att klicka på länken som har skickats till _BOLD_ _EMAIL_ _BOLD_"
 		}
 	},
 	"login_page": {
@@ -81,7 +81,7 @@
 		"popout_messages": {
 			"create_guest_account": {
 				"title": "Skapa Gästkonto",
-				"text": "Genom att skapa ett gästkonto godänner du _LINK_ Användarvillkoren _LINK_ and _LINK_ Sekretesspolicyn _LINK_.",
+				"text": "Genom att skapa ett gästkonto godänner du _LINK_ Användarvillkoren _LINK_ och _LINK_ Sekretesspolicyn _LINK_.",
 				"error_title": "Fel vid skapande av gästkonto",
 				"error_disabled": "Gästkonton är inaktiverade"
 			},
@@ -128,8 +128,8 @@
 			"account_verified_guest": "Kontot är verifierat, du kan nu stänga den här fliken",
 			"verification_error": "Fel vid verifiering av konto: Ett oväntat fel har inträffat",
 			"unknown_reset_code": "Okänd återställningskod",
-			"wrong_username_password": "Fel användarnamn eller lösenord",
-			"email_sent": "Mejl skickat",
+			"wrong_username_password": "Felaktigt användarnamn eller lösenord",
+			"email_sent": "E-post skickat",
 			"password_updated": "Lösenord uppdaterat"
 		},
 		"account_verification": {
@@ -152,14 +152,14 @@
 	"main_menu": {
 		"ui": {
 			"news": "Nyheter",
-			"stay_connected": "Håll Kontakten",
-			"merch_store": "Merchbutik",
+			"stay_connected": "Håll kontakten",
+			"merch_store": "Merch-butik",
 			"song_library": "Låtbibliotek",
 			"leaderboard": "Topplista"
 		},
 		"carousel": {
 			"social_promo": "Tjäna gratis biljetter genom att följa AMQ på Discord och Patreon.",
-			"patreon_promo": "Stöd spelet och lås upp exklusiva belöningar.",
+			"patreon_promo": "Stötta spelet och lås upp exklusiva belöningar.",
 			"sale_names": {
 				"fall": "Höstrea!",
 				"summer": "Sommarrea!",
@@ -167,9 +167,9 @@
 				"spring": "Vårrea!",
 				"halloween": "Halloweenrea!",
 				"christmas": "Julrea!",
-				"MISSING-lunar": "Lunar Sale!",
+				"lunar": "Månfestivalrea!",
 				"valentine": "Alla hjärtans dag rea!",
-				"summer_games": "Sommar spels rea!"
+				"summer_games": "Sommarspelenrea!"
 			},
 			"MISSING-sale_text": "Get the best ticket value!",
 			"skin_header": "Exklusiva",
@@ -180,16 +180,16 @@
 				"winter": "Vinterutklädnader",
 				"halloween": "Halloweenutklädnader",
 				"christmas": "Julutklädnader",
-				"MISSING-lunar": "Lunar Skins",
+				"lunar": "Månfestfestival-utklädnader",
 				"valentine": "Alla hjärtans dag utklädnader",
-				"summer_games": "Sommar spels utklädnader"
+				"summer_games": "Sommarspelen-utklädnader"
 			},
 			"skin_text": "Få exklusiva utklädnader för att stödja AMQ!",
-			"skin_footer": "Tillgängliga Nu"
+			"skin_footer": "Tillgängliga nu"
 		},
 		"quiz_of_the_day": {
 			"title": "Dagens Quiz",
-			"time_slots": "Tidsluckor för Quiz",
+			"time_slots": "Tidsluckor för quiz",
 			"weekly_schedule": "Veckoschema",
 			"current_week": "Aktuell Vecka",
 			"what_is": "Vad är Dagens Quiz?",
@@ -246,14 +246,14 @@
 			"popout_messages": {
 				"weekly_quiz": {
 					"title": "Veckans quiz schema",
-					"MISSING-text": "Se veckans quiz schema och kolla upp mer info om spel läget"
+					"text": "Se veckans quiz schema och kolla upp mer info om spelläget"
 				},
 				"region_time": { "text": "Region och tid till nästa quiz" }
 			},
 			"alerts": {
 				"ranked_rules": {
-					"MISSING-title": "Tävlingsinriktade regler",
-					"MISSING-text": "Genom att spela tävlingsinriktat går du med på att inte dela hints eller svar med andra spelare eller använda några verktyg, metoder eller mjukvaror som ger dig en orättvis fördel."
+					"title": "Regler för tävlingsinriktat",
+					"text": "Genom att spela tävlingsinriktat går du med på att inte dela hints eller svar med andra spelare eller använda några verktyg, metoder eller mjukvaror som ger dig en orättvis fördel."
 				}
 			}
 		},
@@ -272,7 +272,7 @@
 			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet så det är viktigt att inte dela hints eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spel lägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir banlyst och dina tävlingsinriktade belöningar tas bort."
 		},
 		"avatar_drive": {
-			"MISSING-standings": "Standings",
+			"MISSING-standings": "Ställning",
 			"recent": "Nyligen",
 			"weekly": "Veckans",
 			"weekly_short": "V",
@@ -282,42 +282,42 @@
 			"all_time_short": "GT",
 			"donate": "Donera",
 			"faq": "FAQ",
-			"amount": "Mängd",
+			"amount": "Belopp",
 			"MISSING-description": "Donate towards who the next avatar will be! Once the drive ends, the avatar leading the drive will be added to the game! Do note that the drive will continue a couple of days after the goal has been reached.",
 			"faq_what_is": {
-				"MISSING-title": "What is the Avatar Drive?",
+				"title": "Vad är avatardriven?",
 				"MISSING-text": "The Avatar Drive is your way to support the game, while at the same time influencing what the future avatars will be. The system is pretty straightforward, when donating you can choose to donate towards any avatar in the Avatar Drive or nominate a new avatar. The value donated is then added to that avatar's score, and once the goal of the drive is reached, the avatar with the highest score will be added to the game as a future avatar."
 			},
 			"faq_nomination_type": {
-				"MISSING-title": "What Type of Avatars Can I Nominate?",
+				"title": "Vad för typer av avatarer kan jag nominera?",
 				"MISSING-text": "You can nominate any type of avatar you can think of, as long as they are not offensive, can legally be added to the game and fit into the design of the game. All nominations are reviewed, and can be rejected if they don't follow the guidelines mentioned above."
 			},
 			"faq_existing_avatar": {
-				"MISSING-title": "Can I Nominate an Existing Character?",
+				"MISSING-title": "Kan jag nomindera en befintlig karaktär?",
 				"MISSING-text": "You are more than welcome to nominate an existing avatar for the Avatar Drive. If an existing avatar wins the drive, a new skin will be added for that avatar. You are also more than welcome to specify what you want the skin to be, let's say you want to give Hibiki a ninja outfit, you can nominate \"Ninja Hibiki\"."
 			},
-			"MISSING-donate_towards": "Donate Towards",
-			"MISSING-nominated_avatar": "Nominated Avatar",
-			"MISSING-new_avatar": "New Avatar",
-			"MISSING-none": "None",
-			"MISSING-avatar_description": "Avatar Description",
-			"MISSING-avatar_description_placeholder": "Short Description of the Avatar",
-			"MISSING-nomination": "Nomination",
-			"MISSING-anonymous_donation": "Anonymous Donation",
+			"donate_towards": "Donera för",
+			"nominated_avatar": "Nominerad avatar",
+			"new_avatar": "Ny avatar",
+			"none": "Inget",
+			"avatar_description": "Avatar beskrivning",
+			"avatar_description_placeholder": "Kort beskrivning av avataren",
+			"nomination": "Nominering",
+			"anonymous_donation": "Anonym donation",
 			"MISSING-free_donation": "Use Free Donation",
-			"MISSING-free_donation_amount": "Amount: _NUMBER_€",
+			"free_donation_amount": "Belopp: _NUMBER_€",
 			"MISSING-approx_dollars": "Approx. $",
-			"MISSING-checkout": "Checkout",
+			"MISSING-checkout": "Utcheckning",
 			"popover": { "MISSING-no_free_donation": "Free donation already used this month" },
 			"alerts": {
 				"invalid_amount": {
-					"MISSING-title": "Invalid Donation Amount",
-					"MISSING-text": "You must enter a donation amount."
+					"title": "Olgiltig donationsbelopp",
+					"text": "Du måste skriva in ett donationsbelopp."
 				},
-				"donation_error": { "MISSING-title": "Donation Error" },
+				"donation_error": { "MISSING-title": "Donationsfel" },
 				"donation_received": {
-					"MISSING-title": "Donation Received",
-					"MISSING-text": "Thank you for supporting the game!"
+					"title": "Donation mottagen",
+					"text": "Tack för att ni stöttar vårt spel!"
 				},
 				"use_free_donation": {
 					"MISSING-title": "Use Free Donation",
@@ -326,30 +326,30 @@
 			}
 		},
 		"social_rewards": {
-			"MISSING-title": "Social Rewards",
+			"title": "Sociala medier belöning",
 			"MISSING-description": "As a thanks for following the game’s Discord and Patreon, you can claim an 8 ticket reward from following each. _BREAK_ Make sure to join the _LINK_ Discord _LINK_ before claiming the Discord reward. _BREAK_ Make sure to join (free) or back the _LINK_ Patreon _LINK_ before claiming the Patreon reward."
 		},
 		"game_mode": {
-			"MISSING-title": "Game Mode",
+			"title": "Spelläge",
 			"solo": {
-				"MISSING-title": "Solo",
+				"title": "Solo",
 				"MISSING-description": "Challenge yourself with an unlimited amount of personalized unique quizzes"
 			},
 			"multiplayer": {
-				"MISSING-title": "Multiplayer",
-				"MISSING-description": "Play unique quizzes with friends and other anime fans"
+				"title": "Flerspelarläge",
+				"description": "Spela unika quiz med vänner eller andra animefans"
 			},
 			"community": {
 				"MISSING-title": "Community",
 				"MISSING-description": "Play custom quizzes created by the community or craft your own"
 			},
 			"jam": {
-				"MISSING-title": "Jam Quiz",
-				"MISSING-description": "A never-ending quiz where players can drop in and out at any time"
+				"title": "Jammande quiz",
+				"description": "Ett oändligt quiz där spelare kan hoppa in och ut närsomhelst"
 			},
 			"nexus": {
 				"MISSING-title": "Nexus",
-				"MISSING-description": "Challenge the Nexus dungeon, a unique roguelike quiz mode, that can be played solo or with friends"
+				"description": "Utamana Nexuskryptan, ett unikt rougelike spelläge, kan spelas solo eller med vänner"
 			}
 		}
 	},
