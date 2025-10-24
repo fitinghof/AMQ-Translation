@@ -67,86 +67,86 @@
 	},
 	"login_page": {
 		"ui": {
-			"MISSING-play_now": "Spela nu",
-			"MISSING-login": "Logga in",
-			"MISSING-send_button": "Skicka",
-			"MISSING-return_to_login": "Återgå till inloggningen",
-			"MISSING-stay_signed_in": "Förbli inloggad",
-			"MISSING-forgot_password": "Glömt lösenord?",
-			"MISSING-forgot_username": "Glömt användarnamn?",
-			"MISSING-country_of_residence": "Bosättningsland",
-			"MISSING-agree_terms_of_service": "Jag godkänner _LINK_ Användarvillkoren _LINK_",
-			"MISSING-start_playing_now": "Börja Spela Nu"
+			"play_now": "Spela nu",
+			"login": "Logga in",
+			"send_button": "Skicka",
+			"return_to_login": "Återgå till inloggningen",
+			"stay_signed_in": "Förbli inloggad",
+			"forgot_password": "Glömt lösenord?",
+			"forgot_username": "Glömt användarnamn?",
+			"country_of_residence": "Bosättningsland",
+			"agree_terms_of_service": "Jag godkänner _LINK_ Användarvillkoren _LINK_",
+			"start_playing_now": "Börja Spela Nu"
 		},
 		"popout_messages": {
 			"create_guest_account": {
-				"MISSING-title": "Skapa Gästkonto",
-				"MISSING-text": "Genom att skapa ett gästkonto godänner du _LINK_ Användarvillkoren _LINK_ and _LINK_ Sekretesspolicyn _LINK_.",
-				"MISSING-error_title": "Fel vid skapande av gästkonto",
-				"MISSING-error_disabled": "Gästkonton är inaktiverade"
+				"title": "Skapa Gästkonto",
+				"text": "Genom att skapa ett gästkonto godänner du _LINK_ Användarvillkoren _LINK_ and _LINK_ Sekretesspolicyn _LINK_.",
+				"error_title": "Fel vid skapande av gästkonto",
+				"error_disabled": "Gästkonton är inaktiverade"
 			},
-			"MISSING-select_country": "Vänligen ange ditt bosättningsland",
-			"MISSING-country_error": "Fel vid registrering av land",
+			"select_country": "Vänligen ange ditt bosättningsland",
+			"country_error": "Fel vid registrering av land",
 			"already_online": {
-				"MISSING-title": "Kontot är redan inloggat",
-				"MISSING-text": "Fortsätt inloggning och logga ut från de andra sessionerna"
+				"title": "Kontot är redan inloggat",
+				"text": "Fortsätt inloggning och logga ut från de andra sessionerna"
 			},
-			"MISSING-guest_timeout": "Gästkontot har gått ut, vänligen skapa ett nytt"
+			"guest_timeout": "Gästkontot har gått ut, vänligen skapa ett nytt"
 		},
 		"text": {
-			"MISSING-create_account": "Skapa Konto",
-			"MISSING-recover_username_title": "Hämta Användarnamn",
-			"MISSING-recover_username_text": "Ange den e-postadress som användes för att registrera ditt konto för att få ditt användarnamn skickat dit.",
-			"MISSING-forgot_password_title": "Glömt lösenord",
-			"MISSING-forgot_password_text": "Ange den e-postadress som användes för att registrera ditt konto för att få en länk för återställning av lösenord skickad dit.",
-			"MISSING-reset_password_title": "Återställ lösenord",
-			"MISSING-missing_information": "Saknas kontoinformation",
-			"MISSING-missing_country": "Kontot saknar information om ditt bosättningsland, vänligen välj det nedan.",
-			"MISSING-promo_title": "Nummer 1 anime musikquiz!",
+			"create_account": "Skapa Konto",
+			"recover_username_title": "Hämta Användarnamn",
+			"recover_username_text": "Ange den e-postadress som användes för att registrera ditt konto för att få ditt användarnamn skickat dit.",
+			"forgot_password_title": "Glömt lösenord",
+			"forgot_password_text": "Ange den e-postadress som användes för att registrera ditt konto för att få en länk för återställning av lösenord skickad dit.",
+			"reset_password_title": "Återställ lösenord",
+			"missing_information": "Saknas kontoinformation",
+			"missing_country": "Kontot saknar information om ditt bosättningsland, vänligen välj det nedan.",
+			"promo_title": "Nummer 1 anime musikquiz!",
 			"promo_one": {
-				"MISSING-title": "Oändligt antal quiz",
-				"MISSING-line_one": "35,000+ låtar från 8,000+ anime",
-				"MISSING-line_two": "Varje quiz genereras unikt",
-				"MISSING-line_three": "Skräddarsydda quiz från din MyAnimeList, AniList eller Kitsu",
-				"MISSING-line_four": "Gratis att spela"
+				"title": "Oändligt antal quiz",
+				"line_one": "35,000+ låtar från 8,000+ anime",
+				"line_two": "Varje quiz genereras unikt",
+				"line_three": "Skräddarsydda quiz från din MyAnimeList, AniList eller Kitsu",
+				"line_four": "Gratis att spela"
 			},
 			"promo_two": {
-				"MISSING-title": "Spela på ditt sätt",
-				"MISSING-line_one": "Med vänner",
-				"MISSING-line_two": "Utmana dig själv",
-				"MISSING-line_three": "Klättra upp i rankningen",
-				"MISSING-line_four": "Utforska Dungeon Crawler-läget"
+				"title": "Spela på ditt sätt",
+				"line_one": "Med vänner",
+				"line_two": "Utmana dig själv",
+				"line_three": "Klättra upp i rankningen",
+				"line_four": "Utforska Dungeon Crawler-läget"
 			},
 			"login_queue": {
-				"MISSING-title": "Inloggningskö",
-				"MISSING-text": "Inloggningsservern har hög belastning, du kommer att loggas in inom kort",
-				"MISSING-position": "Din plats i kön: _SPAN_ 0 _SPAN_"
+				"title": "Inloggningskö",
+				"text": "Inloggningsservern har hög belastning, du kommer att loggas in inom kort",
+				"position": "Din plats i kön: _SPAN_ 0 _SPAN_"
 			}
 		},
 		"messages": {
-			"MISSING-account_verified": "Kontot är verifierat, du kan nu logga in",
-			"MISSING-account_verified_guest": "Kontot är verifierat, du kan nu stänga den här fliken",
-			"MISSING-verification_error": "Fel vid verifiering av konto: Ett oväntat fel har inträffat",
-			"MISSING-unknown_reset_code": "Okänd återställningskod",
-			"MISSING-wrong_username_password": "Fel användarnamn eller lösenord",
-			"MISSING-email_sent": "Mejl skickat",
-			"MISSING-password_updated": "Lösenord uppdaterat"
+			"account_verified": "Kontot är verifierat, du kan nu logga in",
+			"account_verified_guest": "Kontot är verifierat, du kan nu stänga den här fliken",
+			"verification_error": "Fel vid verifiering av konto: Ett oväntat fel har inträffat",
+			"unknown_reset_code": "Okänd återställningskod",
+			"wrong_username_password": "Fel användarnamn eller lösenord",
+			"email_sent": "Mejl skickat",
+			"password_updated": "Lösenord uppdaterat"
 		},
 		"account_verification": {
-			"MISSING-title": "Kontoverifiering",
-			"MISSING-text_one": "_SPAN_ Kontot är inte verifierat _SPAN_, vänligen verifiera din e-post genom att klicka på länken som skickades till _BOLD_ _EMAIL_ _BOLD_.",
-			"MISSING-text_two": "Har du inte fått e-postmeddelandet? Vänta upp till en minut på att det ska komma och kontrollera skräppostmappen. Om du fortfarande inte fått e-postmeddelandet kan du skicka det igen eller ändra e-postadress med fältet nedan."
+			"title": "Kontoverifiering",
+			"text_one": "_SPAN_ Kontot är inte verifierat _SPAN_, vänligen verifiera din e-post genom att klicka på länken som skickades till _BOLD_ _EMAIL_ _BOLD_.",
+			"text_two": "Har du inte fått e-postmeddelandet? Vänta upp till en minut på att det ska komma och kontrollera skräppostmappen. Om du fortfarande inte fått e-postmeddelandet kan du skicka det igen eller ändra e-postadress med fältet nedan."
 		},
 		"banned_messages": {
-			"MISSING-title_temp": "Kontot är tillfälligt avstängt",
-			"MISSING-title_ban": "Kontot är avstängt",
-			"MISSING-text_one": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
-			"MISSING-text_two": "Ditt konto har markerats av en moderator för brott mot användarvillkoren och du har därför blivit avstängd. Du borde ha fått ett e-postmeddelande som förklarar varför du blev avstängd.",
-			"MISSING-text_three": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
-			"MISSING-text_temp": "Eftersom detta är din första överträdelse har ditt konto endast blivit tillfälligt avstängt. Om du däremot fortsätter fuska efter att avstängningen har upphört kommer ditt konto att bli permanent avstängt.",
-			"MISSING-text_perm": "Eftersom detta är din andra överträdelse har ditt konto blivit permanent avstängt.",
-			"MISSING-text_end": "Om du anser att denna avstängning är ett misstag kan du skapa en supportticket på spelets _LINK_ Discord _LINK_ i kanalen #open-a-ticket.",
-			"MISSING-suspended_until": "Avstängd till"
+			"title_temp": "Kontot är tillfälligt avstängt",
+			"title_ban": "Kontot är avstängt",
+			"text_one": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
+			"text_two": "Ditt konto har markerats av en moderator för brott mot användarvillkoren och du har därför blivit avstängd. Du borde ha fått ett e-postmeddelande som förklarar varför du blev avstängd.",
+			"text_three": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
+			"text_temp": "Eftersom detta är din första överträdelse har ditt konto endast blivit tillfälligt avstängt. Om du däremot fortsätter fuska efter att avstängningen har upphört kommer ditt konto att bli permanent avstängt.",
+			"text_perm": "Eftersom detta är din andra överträdelse har ditt konto blivit permanent avstängt.",
+			"text_end": "Om du anser att denna avstängning är ett misstag kan du skapa en supportticket på spelets _LINK_ Discord _LINK_ i kanalen #open-a-ticket.",
+			"suspended_until": "Avstängd till"
 		}
 	},
 	"main_menu": {
@@ -168,8 +168,8 @@
 				"halloween": "Halloweenrea!",
 				"christmas": "Julrea!",
 				"MISSING-lunar": "Lunar Sale!",
-				"MISSING-valentine": "Valentine's Sale!",
-				"MISSING-summer_games": "Summer Games Sale!"
+				"valentine": "Alla hjärtans dag rea!",
+				"summer_games": "Sommar spels rea!"
 			},
 			"MISSING-sale_text": "Get the best ticket value!",
 			"skin_header": "Exklusiva",
@@ -181,8 +181,8 @@
 				"halloween": "Halloweenutklädnader",
 				"christmas": "Julutklädnader",
 				"MISSING-lunar": "Lunar Skins",
-				"MISSING-valentine": "Valentine Skins",
-				"MISSING-summer_games": "Summer Games Skins"
+				"valentine": "Alla hjärtans dag utklädnader",
+				"summer_games": "Sommar spels utklädnader"
 			},
 			"skin_text": "Få exklusiva utklädnader för att stödja AMQ!",
 			"skin_footer": "Tillgängliga Nu"
@@ -194,66 +194,66 @@
 			"current_week": "Aktuell Vecka",
 			"what_is": "Vad är Dagens Quiz?",
 			"MISSING-what_is_description": "Quiz of the day is a daily occurring unlimited size quiz where players can test their skills against the rest of the community. It’s currently split between ranked quizzes, a highly competitive mode, and themed quizzes which feature different community quizzes designed to give a unique and fun experience.",
-			"MISSING-ranked_description": "Ranked Description",
-			"MISSING-week": "Week _NUMBER_",
-			"MISSING-week_year": "Week _NUMBER_ of _NUMBER_",
-			"MISSING-championship": "Championship",
-			"MISSING-championship_description": "The top 150 ranked players of the month battle it out for the chance to become the monthly champion!",
-			"MISSING-rest_day": "Rest Day",
-			"MISSING-rest_day_description": "No quizzes on the day after the championship.",
-			"MISSING-ranked": "Ranked",
-			"MISSING-ranked_finished": "Finished",
+			"ranked_description": "beskrivning för tävlingsinriktat",
+			"week": "vecka _NUMBER_",
+			"week_year": "vecka _NUMBER_ av _NUMBER_",
+			"championship": "Mästerskap",
+			"championship_description": "De top 150 rankade spelarna för månaden tävlar om att bli månades mästare!",
+			"rest_day": "Vilo dag",
+			"rest_day_description": "Det finns inga quiz dagen efter mästerskapet.",
+			"ranked": "Tävlingsinriktat",
+			"ranked_finished": "Färdigt",
 			"ranked_types": {
 				"novice": {
-					"MISSING-title": "Novice",
-					"MISSING-description": "45 songs geared towards new and upcoming players"
+					"title": "Nybörjare",
+					"MISSING-description": "45 låtar riktade mot nya spelare"
 				},
 				"expert": {
-					"MISSING-title": "Expert",
-					"MISSING-description": "85 songs geared towards experienced players. Rewards additional ranked points"
+					"title": "Expert",
+					"MISSING-description": "85 låtar riktade mot erfarna spelare. Ger fler poäng"
 				}
 			},
 			"states": {
 				"ranked": {
-					"MISSING-offline": "Ranked - Offline",
-					"MISSING-lobby": "Ranked - Lobby Up",
-					"MISSING-playing": "Ranked - Playing",
-					"MISSING-completed": "Ranked - Completed",
-					"MISSING-rest_day": "Ranked - Rest Day"
+					"offline": "Tävlingsinriktat - Offline",
+					"lobby": "Tävlingsinriktat - Lobby finns",
+					"playing": "Tävlingsinriktat - Pågår",
+					"completed": "Tävlingsinriktat - Färdigt",
+					"rest_day": "Tävlingsinriktat - Vilodag"
 				},
 				"themed": {
-					"MISSING-offline": "Themed - Offline",
-					"MISSING-lobby_up": "Themed - Lobby Up",
-					"MISSING-playing": "Themed - Playing",
-					"MISSING-completed": "Themed - Completed"
+					"offline": "Tema - Offline",
+					"lobby_up": "Tema - Lobby finns",
+					"playing": "Tema - Pågår",
+					"completed": "Tema - Färdigt"
 				},
 				"championship": {
-					"MISSING-offline": "Championship - Offline",
-					"MISSING-lobby_up": "Championship - Lobby Up",
-					"MISSING-playing": "Championship - Playing",
-					"MISSING-completed": "Championship - Completed"
+					"offline": "Mästerskap - Offline",
+					"lobby_up": "Mästerskap - Lobby finns",
+					"playing": "Mästerskap - Pågår",
+					"completed": "Mästerskap - Färdigt"
 				}
 			},
 			"week_days": {
-				"MISSING-monday": "Monday",
-				"MISSING-tuesday": "Tuesday",
-				"MISSING-wednesday": "Wednesday",
-				"MISSING-thursday": "Thursday",
-				"MISSING-friday": "Friday",
-				"MISSING-saturday": "Saturday",
-				"MISSING-sunday": "Sunday"
+				"monday": "Måndag",
+				"tuesday": "Tisdag",
+				"wednesday": "Onsdag",
+				"thursday": "Torsdag",
+				"friday": "Fredag",
+				"saturday": "Lördag",
+				"sunday": "Söndag"
 			},
 			"popout_messages": {
 				"weekly_quiz": {
-					"MISSING-title": "Weekly Quiz Schedule",
-					"MISSING-text": "See the weekly quiz schedule and look up more info about the mode"
+					"title": "Veckans quiz schema",
+					"MISSING-text": "Se veckans quiz schema och kolla upp mer info om spel läget"
 				},
-				"region_time": { "MISSING-text": "Region and time until next quiz" }
+				"region_time": { "text": "Region och tid till nästa quiz" }
 			},
 			"alerts": {
 				"ranked_rules": {
-					"MISSING-title": "Ranked Rules",
-					"MISSING-text": "By playing ranked, you agree that you won't share hints or answers with other players, or use any tool, method or software that grants you an unfair advantage."
+					"MISSING-title": "Tävlingsinriktade regler",
+					"MISSING-text": "Genom att spela tävlingsinriktat går du med på att inte dela hints eller svar med andra spelare eller använda några verktyg, metoder eller mjukvaror som ger dig en orättvis fördel."
 				}
 			}
 		},
@@ -273,16 +273,16 @@
 		},
 		"avatar_drive": {
 			"MISSING-standings": "Standings",
-			"MISSING-recent": "Recent",
-			"MISSING-weekly": "Weekly",
-			"MISSING-weekly_short": "W",
-			"MISSING-monthly": "Monthly",
-			"MISSING-monthly_short": "M",
-			"MISSING-all_time": "All Time",
-			"MISSING-all_time_short": "AT",
-			"MISSING-donate": "Donate",
-			"MISSING-faq": "FAQ",
-			"MISSING-amount": "Amount",
+			"recent": "Nyligen",
+			"weekly": "Veckans",
+			"weekly_short": "V",
+			"monthly": "Månadens",
+			"monthly_short": "M",
+			"all_time": "Genom Tiderna",
+			"all_time_short": "GT",
+			"donate": "Donera",
+			"faq": "FAQ",
+			"amount": "Mängd",
 			"MISSING-description": "Donate towards who the next avatar will be! Once the drive ends, the avatar leading the drive will be added to the game! Do note that the drive will continue a couple of days after the goal has been reached.",
 			"faq_what_is": {
 				"MISSING-title": "What is the Avatar Drive?",
