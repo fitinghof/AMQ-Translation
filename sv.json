@@ -171,7 +171,7 @@
 				"valentine": "Alla hjärtans dag rea!",
 				"summer_games": "Sommarspelenrea!"
 			},
-			"sale_text": "Få mest för pengarna på dina biljetter!",
+			"sale_text": "Få mer biljetter för pengarna!",
 			"skin_header": "Exklusiva",
 			"skin_seasons": {
 				"spring": "Vårutklädnader",
@@ -217,21 +217,21 @@
 				"ranked": {
 					"offline": "Tävlingsinriktat - Offline",
 					"lobby": "Tävlingsinriktat - Lobby finns",
-					"playing": "Tävlingsinriktat - Pågår",
-					"completed": "Tävlingsinriktat - Färdigt",
+					"playing": "Tävlingsinriktat - Pågående",
+					"completed": "Tävlingsinriktat - Avslutat",
 					"rest_day": "Tävlingsinriktat - Vilodag"
 				},
 				"themed": {
 					"offline": "Tema - Offline",
 					"lobby_up": "Tema - Lobby finns",
 					"playing": "Tema - Pågår",
-					"completed": "Tema - Färdigt"
+					"completed": "Tema - Avslutat"
 				},
 				"championship": {
 					"offline": "Mästerskap - Offline",
 					"lobby_up": "Mästerskap - Lobby finns",
-					"playing": "Mästerskap - Pågår",
-					"completed": "Mästerskap - Färdigt"
+					"playing": "Mästerskap - Pågående",
+					"completed": "Mästerskap - Avslutat"
 				}
 			},
 			"week_days": {
@@ -265,7 +265,7 @@
 			"region_description": "Det tävlingsinriktade läget är uppdelat i tre olika regioner (väst, centralt, öst), varje med sin egna toplista, startid och mästerskap. Du kan delta i alla regioner men poäng räknas endast till den region du tävlade i",
 			"ranked_game": "Ranked Game",
 			"ranked_game_description_one": "30 minuter innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expert rummet är riktat mot tävlingsinriktade och mer hardcore spelar och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
-			"ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjar rummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expert rum ökar mängden poäng baserat på hur många korrekta gissingar du fått. De första 5 korrekta gissningarna ger 4 poäng var, nästa 5 ger 5 poäng var, nästa 5 ger 6 poäng var och så vidare.",
+			"ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjar rummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expert rum ökar mängden poäng baserat på hur många korrekta gissingar du fått. De första 5 korrekta gissningarna ger 5 poäng var, nästa 5 ger 6 poäng var, nästa ger 7 poäng var och så vidare.",
 			"end_of_season": "Säsongs slut",
 			"end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
 			"rules": "Regler",
