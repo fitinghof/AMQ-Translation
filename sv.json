@@ -194,7 +194,7 @@
 			"current_week": "Aktuell Vecka",
 			"what_is": "Vad är Dagens Quiz?",
 			"what_is_description": "Dagens quiz är ett dagligen återkommande quiz med obegränsat antal deltagare, där spelare kan testa sina kunskaper mot resten av gemenskapen. Det är för närvarande uppdelat i tävlingsinriktade quiz med svårt motstånd från AMQs bästa, och tema quiz som innehåller olika gemenskaps quiz utformade för att ge en unik och rolig upplevelse.",
-			"ranked_description": "beskrivning för tävlingsinriktat",
+			"ranked_description": "Beskrivning för tävlingsinriktat",
 			"week": "vecka _NUMBER_",
 			"week_year": "vecka _NUMBER_ av _NUMBER_",
 			"championship": "Mästerskap",
