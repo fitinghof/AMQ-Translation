@@ -81,7 +81,7 @@
 		"popout_messages": {
 			"create_guest_account": {
 				"title": "Skapa Gästkonto",
-				"text": "Genom att skapa ett gästkonto godänner du _LINK_ Användarvillkoren _LINK_ och _LINK_ Sekretesspolicyn _LINK_.",
+				"text": "Genom att skapa ett gästkonto godkänner du _LINK_ Användarvillkoren _LINK_ och _LINK_ Sekretesspolicyn _LINK_.",
 				"error_title": "Fel vid skapande av gästkonto",
 				"error_disabled": "Gästkonton är inaktiverade"
 			},
@@ -169,7 +169,7 @@
 				"christmas": "Julrea!",
 				"lunar": "Månfestivalrea!",
 				"valentine": "Alla hjärtans dag rea!",
-				"summer_games": "Sommarspelenrea!"
+				"summer_games": "Sommarspelsrea!"
 			},
 			"sale_text": "Få mest för pengarna!",
 			"skin_header": "Exklusiva",
@@ -182,7 +182,7 @@
 				"christmas": "Julutklädnader",
 				"lunar": "Månfestival-utklädnader",
 				"valentine": "Alla hjärtans dag utklädnader",
-				"summer_games": "Sommarspelen-utklädnader"
+				"summer_games": "Sommarspels-utklädnader"
 			},
 			"skin_text": "Få exklusiva utklädnader för att stödja AMQ!",
 			"skin_footer": "Tillgängliga nu"
@@ -263,7 +263,7 @@
 			"how_it_works": "Hur det funkar",
 			"regions": "Regioner",
 			"region_description": "Det tävlingsinriktade läget är uppdelat i tre olika regioner (väst, centralt, öst), varje med sin egna toplista, startid och mästerskap. Du kan delta i alla regioner men poäng räknas endast till den region du tävlade i",
-			"ranked_game": "Ranked Game",
+			"ranked_game": "Tävlingsinriktat Spel",
 			"ranked_game_description_one": "30 minuter innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expert rummet är riktat mot tävlingsinriktade och mer hardcore spelar och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
 			"ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjar rummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expert rum ökar mängden poäng baserat på hur många korrekta gissingar du fått. De första 5 korrekta gissningarna ger 5 poäng var, nästa 5 ger 6 poäng var, nästa ger 7 poäng var och så vidare.",
 			"end_of_season": "Säsongs slut",
