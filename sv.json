@@ -20,10 +20,10 @@
 			"load_button": "Ladda",
 			"new_password": "Nytt lösenord",
 			"repeat_new_password": "Upprepa nytt lösenord",
-			"contact": "Kontakta",
+			"contact": "Kontakt",
 			"socials": "Sociala medier",
-			"MISSING-legal": "Legal",
-			"community_translations": "Gemenskaps översättningar",
+			"legal": "Juridiskt",
+			"community_translations": "Gemenskapsöversättningar",
 			"loading": "Laddar",
 			"play": "Spela",
 			"use_button": "Använd",
@@ -33,7 +33,7 @@
 			"unexpected_error": "Oväntat fel",
 			"please_try_again": "Var vänlig och försök igen",
 			"error_contacting_server": "Fel vid kontakt av server",
-			"internal_server_error": "Internt server fel",
+			"internal_server_error": "Internt serverfel",
 			"down_for_maintenance": "Servern nere för underhåll",
 			"guest_account": "Otillgängligt för gästkonton",
 			"guest_account_text": "Denna funktionen är otillgänglig för gästkonton"
@@ -54,7 +54,7 @@
 			"unknown_country": "Okänt bosättningsland",
 			"username_taken": "Användarnamnet är redan taget",
 			"email_taken": "E-postadressen är redan registrerad",
-			"email_sent": "Verifieringmejl har skickats till _EMAIL_",
+			"email_sent": "Verifieringsmejl har skickats till _EMAIL_",
 			"email_length": "E-postadressen får max vara 255 tecken",
 			"account_created": "Kontot _NAME_ har skapats"
 		},
@@ -134,7 +134,7 @@
 		},
 		"account_verification": {
 			"title": "Kontoverifiering",
-			"text_one": "_SPAN_ Kontot är inte verifierat _SPAN_, vänligen verifiera din e-post genom att klicka på länken som skickades till _BOLD_ _EMAIL_ _BOLD_.",
+			"text_one": "_SPAN_ Kontot är inte verifierat _SPAN_, vänligen verifiera din e-postadress genom att klicka på länken som skickades till _BOLD_ _EMAIL_ _BOLD_.",
 			"text_two": "Har du inte fått e-postmeddelandet? Vänta upp till en minut på att det ska komma och kontrollera skräppostmappen. Om du fortfarande inte fått e-postmeddelandet kan du skicka det igen eller ändra e-postadress med fältet nedan."
 		},
 		"banned_messages": {
@@ -294,7 +294,7 @@
 			},
 			"faq_existing_avatar": {
 				"title": "Kan jag nominera en befintlig karaktär?",
-				"MISSING-text": "Du är mer än välkommen att nominera befintliga avatarer till avatarinsamlingen. Om en redan existerande avatar vinner insamlingen kommer en ny utklädnad att läggas till för avataren. Du får gärna specificera vad du vill att utklädnaden ska bli. Låt oss säga att du vill ge Hibiki en ninja dräkt, då kan du skriva \"Ninja Hibiki\"."
+				"text": "Du är mer än välkommen att nominera befintliga avatarer till avatarinsamlingen. Om en redan existerande avatar vinner insamlingen kommer en ny utklädnad att läggas till för avataren. Du får gärna specificera vad du vill att utklädnaden ska bli. Låt oss säga att du vill ge Hibiki en ninja dräkt, då kan du skriva \"Ninja Hibiki\"."
 			},
 			"donate_towards": "Donera till",
 			"nominated_avatar": "Nominerad avatar",
@@ -326,8 +326,8 @@
 			}
 		},
 		"social_rewards": {
-			"title": "Sociala medier belöningar",
-			"MISSING-description": "Som ett tack för att du följer spelets Discord och Patreon kan du hämta en belöning på 8 biljetter efter att du följt varje. Se till att gå med i __LINK__ Discord-servern __LINK__ innan du hämtar Discord belöningen. __BREAK__ Se till att du går med i (gratis) eller stödjer __LINK__ Patreon __LINK__ innan du hämtar Patreon belöningen."
+			"title": "Belöningar för sociala medier",
+			"description": "Som ett tack för att du följer spelets Discord och Patreon kan du hämta en belöning på 8 biljetter efter att du följt varje. Se till att gå med i __LINK__ Discord-servern __LINK__ innan du hämtar Discord belöningen. __BREAK__ Se till att du går med i (gratis) eller stödjer __LINK__ Patreon __LINK__ innan du hämtar Patreon belöningen."
 		},
 		"game_mode": {
 			"title": "Spelläge",
@@ -349,7 +349,7 @@
 			},
 			"nexus": {
 				"title": "Nexus",
-				"description": "Utamana Nexuskryptan, ett unikt rougelike spelläge, kan spelas solo eller med vänner"
+				"description": "Utmana Nexuskryptan, ett unikt roguelike spelläge, kan spelas solo eller med vänner"
 			}
 		}
 	},
@@ -366,7 +366,7 @@
 					"text": "Kunde inte ladda den anpassade språkfilen från den försedda URL:en."
 				},
 				"custom_wrong_format": {
-					"title": "Lokalizeringsfil format fel",
+					"title": "Lokaliseringsfil format fel",
 					"text": "Den försedda språkfilen är inte i ett korrekt format. Kolla browsern konsolen för mer detaljer."
 				}
 			}
