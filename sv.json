@@ -14,7 +14,7 @@
 			"change_button": "Ändra",
 			"logout_button": "Logga ut",
 			"confirm_button": "Acceptera",
-			"continue_button": "Gå vidare",
+			"continue_button": "Fortsätt",
 			"ok_button": "OK",
 			"cancel_button": "Avbryt",
 			"load_button": "Ladda",
@@ -202,7 +202,7 @@
 			"rest_day": "Vilo dag",
 			"rest_day_description": "Det finns inga quiz dagen efter mästerskapet.",
 			"ranked": "Tävlingsinriktat",
-			"ranked_finished": "Färdigt",
+			"ranked_finished": "Avslutat",
 			"ranked_types": {
 				"novice": {
 					"title": "Nybörjare",
