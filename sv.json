@@ -1,5 +1,5 @@
 {
-	"meta": { "language_name": "Swedish", "language_name_native": "Svenska", "language_code": "sv", "creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster), Oscar Andersson (6FacedWorldGuru), Pengvinen" },
+	"meta": { "language_name": "Swedish", "language_name_native": "Svenska", "language_code": "sv", "creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster), Oscar Andersson (6FacedWorldGuru), Pengvinen, Moo" },
 	"common": {
 		"ui": {
 			"translation_coverage": "Översättningstäckning",
@@ -31,7 +31,7 @@
 		},
 		"popout_messages": {
 			"unexpected_error": "Oväntat fel",
-			"please_try_again": "Va vänlig och försök igen",
+			"please_try_again": "Var vänlig och försök igen",
 			"error_contacting_server": "Fel vid kontakt av server",
 			"internal_server_error": "Internt server fel",
 			"down_for_maintenance": "Servern nere för underhåll",
@@ -54,15 +54,15 @@
 			"unknown_country": "Okänt bosättningsland",
 			"username_taken": "Användarnamnet är redan taget",
 			"email_taken": "E-postadressen är redan registrerad",
-			"email_sent": "Verifiering mejl har skickats till _EMAIL_",
+			"email_sent": "Verifieringmejl har skickats till _EMAIL_",
 			"email_length": "E-postadressen får max vara 255 tecken",
-			"account_created": "Kontot _NAME_ lyckades att skapas"
+			"account_created": "Kontot _NAME_ har skapats"
 		},
 		"guest_account": {
 			"title": "Gästkonto",
 			"click_to_register": "Klicka här för att slutföra registrering",
 			"complete_registration": "Slutför registrering",
-			"complete_registration_message": "För att slutföra registreringen, va vänlig verifiera din e-postadress genom att klicka på länken som har skickats till _BOLD_ _EMAIL_ _BOLD_"
+			"complete_registration_message": "För att slutföra registreringen, var vänlig verifiera din e-postadress genom att klicka på länken som har skickats till _BOLD_ _EMAIL_ _BOLD_"
 		}
 	},
 	"login_page": {
@@ -171,7 +171,7 @@
 				"valentine": "Alla hjärtans dag rea!",
 				"summer_games": "Sommarspelenrea!"
 			},
-			"sale_text": "Få det bästa biljett värdet!",
+			"sale_text": "Få mest för pengarna på dina biljetter!",
 			"skin_header": "Exklusiva",
 			"skin_seasons": {
 				"spring": "Vårutklädnader",
@@ -180,7 +180,7 @@
 				"winter": "Vinterutklädnader",
 				"halloween": "Halloweenutklädnader",
 				"christmas": "Julutklädnader",
-				"lunar": "Månfestfestival-utklädnader",
+				"lunar": "Månfestival-utklädnader",
 				"valentine": "Alla hjärtans dag utklädnader",
 				"summer_games": "Sommarspelen-utklädnader"
 			},
@@ -193,12 +193,12 @@
 			"weekly_schedule": "Veckoschema",
 			"current_week": "Aktuell Vecka",
 			"what_is": "Vad är Dagens Quiz?",
-			"MISSING-what_is_description": "Quiz of the day is a daily occurring unlimited size quiz where players can test their skills against the rest of the community. It’s currently split between ranked quizzes, a highly competitive mode, and themed quizzes which feature different community quizzes designed to give a unique and fun experience.",
+			"what_is_description": "Dagens quiz är ett dagligen återkommande quiz med obegränsat antal deltagare, där spelare kan testa sina kunskaper mot resten av communityn. Det är för närvarande uppdelat i rankade quiz, ett mycket konkurrensinriktat läge, och tematiska quiz som innehåller olika community-skapade quiz utformade för att ge en unik och rolig upplevelse.",
 			"ranked_description": "beskrivning för tävlingsinriktat",
 			"week": "vecka _NUMBER_",
 			"week_year": "vecka _NUMBER_ av _NUMBER_",
 			"championship": "Mästerskap",
-			"championship_description": "De top 150 rankade spelarna för månaden tävlar om att bli månades mästare!",
+			"championship_description": "De 150 högst rankade spelarna under månaden gör upp om chansen att bli månadens mästare!",
 			"rest_day": "Vilo dag",
 			"rest_day_description": "Det finns inga quiz dagen efter mästerskapet.",
 			"ranked": "Tävlingsinriktat",
@@ -246,14 +246,14 @@
 			"popout_messages": {
 				"weekly_quiz": {
 					"title": "Veckans quiz schema",
-					"text": "Se veckans quiz schema och kolla upp mer info om spelläget"
+					"text": "Se schemat för veckans quiz och mer info om spelläget"
 				},
 				"region_time": { "text": "Region och tid till nästa quiz" }
 			},
 			"alerts": {
 				"ranked_rules": {
 					"title": "Regler för tävlingsinriktat",
-					"text": "Genom att spela tävlingsinriktat går du med på att inte dela hints eller svar med andra spelare eller använda några verktyg, metoder eller mjukvaror som ger dig en orättvis fördel."
+					"text": "Genom att spela tävlingsinriktat går du med på att inte dela ledtrådar eller svar med andra spelare eller använda några verktyg, metoder eller mjukvaror som ger dig en orättvis fördel."
 				}
 			}
 		},
@@ -269,7 +269,7 @@
 			"end_of_season": "Säsongs slut",
 			"end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
 			"rules": "Regler",
-			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet så det är viktigt att inte dela hints eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spel lägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir banlyst och dina tävlingsinriktade belöningar tas bort."
+			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet, därav är viktigt att inte dela ledtrådar eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spellägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir banlyst och dina tävlingsinriktade belöningar tas bort."
 		},
 		"avatar_drive": {
 			"standings": "Ställning",
@@ -283,20 +283,20 @@
 			"donate": "Donera",
 			"faq": "FAQ",
 			"amount": "Belopp",
-			"MISSING-description": "Donate towards who the next avatar will be! Once the drive ends, the avatar leading the drive will be added to the game! Do note that the drive will continue a couple of days after the goal has been reached.",
+			"description": "Donera för att bestämma vem nästa avatar blir! När insamlingen avslutas kommer avataren som ligger i topp att läggas till i spelet. Observera att insamlingen fortsätter några dagar efter att målet har uppnåtts.",
 			"faq_what_is": {
-				"title": "Vad är avatardriven?",
-				"MISSING-text": "The Avatar Drive is your way to support the game, while at the same time influencing what the future avatars will be. The system is pretty straightforward, when donating you can choose to donate towards any avatar in the Avatar Drive or nominate a new avatar. The value donated is then added to that avatar's score, and once the goal of the drive is reached, the avatar with the highest score will be added to the game as a future avatar."
+				"title": "Vad är avatarinsamlingen??",
+				"text": "Avatarinsamlingen är ditt sätt att stödja spelet samtidigt som du påverkar vilka framtida avatarer som kommer att läggas till. Systemet är enkelt: när du donerar kan du välja att stödja en befintlig avatar i avatarinsamlingen eller nominera en ny. Det donerade beloppet läggs till den avatarens poäng, och när insamlingsmålet uppnås kommer avataren med högst poäng att läggas till spelet som en framtida avatar."
 			},
 			"faq_nomination_type": {
-				"title": "Vad för typer av avatarer kan jag nominera?",
-				"MISSING-text": "You can nominate any type of avatar you can think of, as long as they are not offensive, can legally be added to the game and fit into the design of the game. All nominations are reviewed, and can be rejected if they don't follow the guidelines mentioned above."
+				"title": "Vilka typer av avatarer kan jag nominera?",
+				"text": "Du kan nominera vilken typ av avatar som helst, såvida den passar in i spelet och inte är kränkande eller olaglig. Alla nomineringar granskas och kan nekas om de inte följer riktlinjerna ovan."
 			},
 			"faq_existing_avatar": {
 				"title": "Kan jag nominera en befintlig karaktär?",
-				"MISSING-text": "You are more than welcome to nominate an existing avatar for the Avatar Drive. If an existing avatar wins the drive, a new skin will be added for that avatar. You are also more than welcome to specify what you want the skin to be, let's say you want to give Hibiki a ninja outfit, you can nominate \"Ninja Hibiki\"."
+				"MISSING-text": "Du är mer än välkommen att nominera befintliga avatarer till avatarinsamlingen. Om en redan existerande avatar vinner insamlingen kommer en ny utklädnad att läggas till för avataren. Du får gärna specificera vad du vill att utklädnaden ska bli. Låt oss säga att du vill ge Hibiki en ninja dräkt, då kan du skriva \"Ninja Hibiki\"."
 			},
-			"donate_towards": "Donera för",
+			"donate_towards": "Donera till",
 			"nominated_avatar": "Nominerad avatar",
 			"new_avatar": "Ny avatar",
 			"none": "Inget",
@@ -306,18 +306,18 @@
 			"anonymous_donation": "Anonym donation",
 			"free_donation": "Använd gratis donation",
 			"free_donation_amount": "Belopp: _NUMBER_€",
-			"approx_dollars": "ca. $",
-			"checkout": "Kassa",
-			"popover": { "no_free_donation": "Gratis donation redan använd denna månaden" },
+			"approx_dollars": "Cirka. $",
+			"checkout": "Utcheckning",
+			"popover": { "no_free_donation": "Din gratis donation är redan använd denna månaden" },
 			"alerts": {
 				"invalid_amount": {
 					"title": "Ogiltig donationsbelopp",
-					"text": "Du måste skriva in ett donationsbelopp."
+					"text": "Du måste ange ett donationsbelopp."
 				},
 				"donation_error": { "title": "Donationsfel" },
 				"donation_received": {
 					"title": "Donation mottagen",
-					"text": "Tack för att ni stöttar spelet!"
+					"text": "Tack för att ni stödjer spelet!"
 				},
 				"use_free_donation": {
 					"title": "Använd gratis donation",
@@ -326,8 +326,8 @@
 			}
 		},
 		"social_rewards": {
-			"title": "Sociala medier belöning",
-			"MISSING-description": "As a thanks for following the game’s Discord and Patreon, you can claim an 8 ticket reward from following each. _BREAK_ Make sure to join the _LINK_ Discord _LINK_ before claiming the Discord reward. _BREAK_ Make sure to join (free) or back the _LINK_ Patreon _LINK_ before claiming the Patreon reward."
+			"title": "Sociala medier belöningar",
+			"MISSING-description": "Som ett tack för att du följer spelets Discord och Patreon kan du hämta en belöning på 8 biljetter efter att du följt varje. Se till att gå med i __LINK__ Discord-servern __LINK__ innan du hämtar Discord belöningen. __BREAK__ Se till att du går med i (gratis) eller stödjer __LINK__ Patreon __LINK__ innan du hämtar Patreon belöningen."
 		},
 		"game_mode": {
 			"title": "Spelläge",
