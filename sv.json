@@ -7,7 +7,7 @@
 			"username": "Användarnamn",
 			"password": "Lösenord",
 			"email": "E-post",
-			"repeat_password": "Upprepa Lösenord",
+			"repeat_password": "Upprepa lösenord",
 			"back_button": "Tillbaka",
 			"resend_button": "Skicka om",
 			"register_button": "Registrera",
@@ -75,12 +75,12 @@
 			"forgot_password": "Glömt lösenord?",
 			"forgot_username": "Glömt användarnamn?",
 			"country_of_residence": "Bosättningsland",
-			"agree_terms_of_service": "Jag godkänner _LINK_ Användarvillkoren _LINK_",
-			"start_playing_now": "Börja Spela Nu"
+			"agree_terms_of_service": "Jag godkänner _LINK_ användarvillkoren _LINK_",
+			"start_playing_now": "Börja spela nu"
 		},
 		"popout_messages": {
 			"create_guest_account": {
-				"title": "Skapa Gästkonto",
+				"title": "Skapa gästkonto",
 				"text": "Genom att skapa ett gästkonto godkänner du _LINK_ Användarvillkoren _LINK_ och _LINK_ Sekretesspolicyn _LINK_.",
 				"error_title": "Fel vid skapande av gästkonto",
 				"error_disabled": "Gästkonton är inaktiverade"
@@ -94,8 +94,8 @@
 			"guest_timeout": "Gästkontot har gått ut, vänligen skapa ett nytt"
 		},
 		"text": {
-			"create_account": "Skapa Konto",
-			"recover_username_title": "Hämta Användarnamn",
+			"create_account": "Skapa konto",
+			"recover_username_title": "Hämta användarnamn",
 			"recover_username_text": "Ange den e-postadress som användes för att registrera ditt konto för att få ditt användarnamn skickat dit.",
 			"forgot_password_title": "Glömt lösenord",
 			"forgot_password_text": "Ange den e-postadress som användes för att registrera ditt konto för att få en länk för återställning av lösenord skickad dit.",
@@ -155,11 +155,11 @@
 			"stay_connected": "Håll kontakten",
 			"merch_store": "Merch-butik",
 			"song_library": "Låtbibliotek",
-			"leaderboard": "Topplista"
+			"leaderboard": "Topplistan"
 		},
 		"carousel": {
 			"social_promo": "Få gratis biljetter genom att följa AMQ på Discord och Patreon.",
-			"patreon_promo": "Stötta spelet och lås upp exklusiva belöningar.",
+			"patreon_promo": "Stödj spelet och lås upp exklusiva belöningar.",
 			"sale_names": {
 				"fall": "Höstrea!",
 				"summer": "Sommarrea!",
@@ -188,14 +188,14 @@
 			"skin_footer": "Tillgängliga nu"
 		},
 		"quiz_of_the_day": {
-			"title": "Dagens Quiz",
+			"title": "Dagens quiz",
 			"time_slots": "Tidsluckor för quiz",
 			"weekly_schedule": "Veckoschema",
-			"current_week": "Aktuell Vecka",
-			"what_is": "Vad är Dagens Quiz?",
+			"current_week": "Aktuell vecka",
+			"what_is": "Vad är Dagens quiz?",
 			"what_is_description": "Dagens quiz är ett dagligen återkommande quiz med obegränsat antal deltagare, där spelare kan testa sina kunskaper mot resten av gemenskapen. Det är för närvarande uppdelat i tävlingsinriktade quiz med svårt motstånd från AMQs bästa, och tema quiz som innehåller olika gemenskaps quiz utformade för att ge en unik och rolig upplevelse.",
 			"ranked_description": "Beskrivning för tävlingsinriktat",
-			"week": "vecka _NUMBER_",
+			"week": "Vecka _NUMBER_",
 			"week_year": "vecka _NUMBER_ av _NUMBER_",
 			"championship": "Mästerskap",
 			"championship_description": "De 150 högst rankade spelarna under månaden gör upp om chansen att bli månadens mästare!",
@@ -224,7 +224,7 @@
 				"themed": {
 					"offline": "Tema - Offline",
 					"lobby_up": "Tema - Lobby finns",
-					"playing": "Tema - Pågår",
+					"playing": "Tema - Pågående",
 					"completed": "Tema - Avslutat"
 				},
 				"championship": {
@@ -245,7 +245,7 @@
 			},
 			"popout_messages": {
 				"weekly_quiz": {
-					"title": "Schema för Veckans Quiz",
+					"title": "Schema för veckans quiz",
 					"text": "Se schemat för veckans quiz och mer info om spelläget"
 				},
 				"region_time": { "text": "Region och tid till nästa quiz" }
@@ -258,15 +258,15 @@
 			}
 		},
 		"ranked_description": {
-			"title": "Tävlingsinriktat läge",
+			"title": "Tävlingsinriktatläge",
 			"description": "Utmana dig själv mot dina vänner och mot AMQ gemenskapen genom att gå med i tävlingsinriktade spel. Varje tävlingsinriktat spel ger dig poäng vilket låser upp exclusiva belöningar och tar dig närmare att gå med de bästa av de bästa i regions mästarskapet som körs i slutet av varje månad. _BREAK_ Notera att ditt konto måste vara level 10 eller högre för att delta i tävlingsinriktade matcher.",
-			"how_it_works": "Hur det funkar",
+			"how_it_works": "Hur det går till",
 			"regions": "Regioner",
 			"region_description": "Det tävlingsinriktade läget är uppdelat i tre olika regioner (väst, centralt, öst), varje med sin egna toplista, startid och mästerskap. Du kan delta i alla regioner men poäng räknas endast till den region du tävlade i",
-			"ranked_game": "Tävlingsinriktat Spel",
+			"ranked_game": "Tävlingsinriktat spel",
 			"ranked_game_description_one": "30 minuter innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expertrummet är riktat mot tävlingsinriktade och mer hardcore spelare och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
 			"ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjarrummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expertrummet ökar mängden poäng baserat på hur många korrekta gissningar du fått. De första 5 korrekta gissningarna ger 5 poäng var, nästa 5 ger 6 poäng var, nästa ger 7 poäng var och så vidare.",
-			"end_of_season": "Säsongs slut",
+			"end_of_season": "Säsongsslut",
 			"end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
 			"rules": "Regler",
 			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet, därav är viktigt att inte dela ledtrådar eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spellägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir bannlyst och dina tävlingsinriktade belöningar tas bort."
@@ -300,7 +300,7 @@
 			"nominated_avatar": "Nominerad avatar",
 			"new_avatar": "Ny avatar",
 			"none": "Inget",
-			"avatar_description": "Avatar beskrivning",
+			"avatar_description": "Avatarbeskrivning",
 			"avatar_description_placeholder": "Kort beskrivning av avataren",
 			"nomination": "Nominering",
 			"anonymous_donation": "Anonym donation",
@@ -317,7 +317,7 @@
 				"donation_error": { "title": "Donationsfel" },
 				"donation_received": {
 					"title": "Donation mottagen",
-					"text": "Tack för att ni stödjer spelet!"
+					"text": "Tack för att ni stödjer vårt spel!"
 				},
 				"use_free_donation": {
 					"title": "Använd gratis donation",
@@ -344,7 +344,7 @@
 				"description": "Spela quizzes skapade av dina vänner eller AMQ gemenskapen"
 			},
 			"jam": {
-				"title": "Jam quiz",
+				"title": "Jamquiz",
 				"description": "Ett oändligt quiz där spelare kan hoppa in och ut närsomhelst"
 			},
 			"nexus": {
