@@ -153,7 +153,7 @@
 		"ui": {
 			"news": "Nyheter",
 			"stay_connected": "Håll kontakten",
-			"merch_store": "Merch-butik",
+			"merch_store": "Merchbutik",
 			"song_library": "Låtbibliotek",
 			"leaderboard": "Topplista"
 		},
@@ -272,7 +272,7 @@
 			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet, därav är viktigt att inte dela ledtrådar eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spellägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir bannlyst och dina tävlingsinriktade belöningar tas bort."
 		},
 		"avatar_drive": {
-			"standings": "Topplista",
+			"standings": "Placeringar",
 			"recent": "Senast",
 			"weekly": "Vecka",
 			"weekly_short": "V",
@@ -336,7 +336,7 @@
 				"description": "Utmana dig själv med en obegränsad mängd personliga och unika quiz"
 			},
 			"multiplayer": {
-				"title": "Flerspelarläge",
+				"title": "Flera spelare",
 				"description": "Spela unika quiz med vänner eller andra animefans"
 			},
 			"community": {
