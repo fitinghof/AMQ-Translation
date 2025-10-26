@@ -155,7 +155,7 @@
 			"stay_connected": "Håll kontakten",
 			"merch_store": "Merch-butik",
 			"song_library": "Låtbibliotek",
-			"leaderboard": "Topplistan"
+			"leaderboard": "Topplista"
 		},
 		"carousel": {
 			"social_promo": "Få gratis biljetter genom att följa AMQ på Discord och Patreon.",
@@ -272,7 +272,7 @@
 			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet, därav är viktigt att inte dela ledtrådar eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spellägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir bannlyst och dina tävlingsinriktade belöningar tas bort."
 		},
 		"avatar_drive": {
-			"standings": "Ställning",
+			"standings": "Topplista",
 			"recent": "Senast",
 			"weekly": "Vecka",
 			"weekly_short": "V",
@@ -317,7 +317,7 @@
 				"donation_error": { "title": "Donationsfel" },
 				"donation_received": {
 					"title": "Donation mottagen",
-					"text": "Tack för att ni stödjer vårt spel!"
+					"text": "Tack för att ni stödjer spelet!"
 				},
 				"use_free_donation": {
 					"title": "Använd gratis donation",
