@@ -1,375 +1,838 @@
 {
-	"meta": { "language_name": "Swedish", "language_name_native": "Svenska", "language_code": "sv", "creators": "" },
+	"meta": {
+		"language_name": "English",
+		"language_name_native": "English",
+		"language_code": "en",
+		"creators": "Egerod"
+	},
 	"common": {
 		"ui": {
-			"MISSING-translation_coverage": "Translation Coverage",
-			"MISSING-translation_by": "Translation By",
-			"MISSING-username": "Username",
-			"MISSING-password": "Password",
-			"MISSING-email": "Email",
-			"MISSING-repeat_password": "Repeat Password",
-			"MISSING-back_button": "Back",
-			"MISSING-resend_button": "Resend",
-			"MISSING-register_button": "Register",
-			"MISSING-change_button": "Change",
-			"MISSING-logout_button": "Logout",
-			"MISSING-confirm_button": "Confirm",
-			"MISSING-continue_button": "Continue",
-			"MISSING-ok_button": "OK",
-			"MISSING-cancel_button": "Cancel",
-			"MISSING-load_button": "Load",
-			"MISSING-new_password": "New Password",
-			"MISSING-repeat_new_password": "Repeat New Password",
-			"MISSING-contact": "Contact",
-			"MISSING-socials": "Socials",
-			"MISSING-legal": "Legal",
-			"MISSING-community_translations": "Community Translations",
-			"MISSING-loading": "Loading",
-			"MISSING-play": "Play",
-			"MISSING-use_button": "Use",
-			"MISSING-claim_button": "Claim"
+			"translation_coverage": "Translation Coverage",
+			"translation_by": "Translation By",
+			"username": "Username",
+			"password": "Password",
+			"email": "Email",
+			"repeat_password": "Repeat Password",
+			"back_button": "Back",
+			"resend_button": "Resend",
+			"register_button": "Register",
+			"change_button": "Change",
+			"logout_button": "Logout",
+			"confirm_button": "Confirm",
+			"continue_button": "Continue",
+			"update_button": "Update",
+			"ok_button": "OK",
+			"cancel_button": "Cancel",
+			"load_button": "Load",
+			"new_password": "New Password",
+			"repeat_new_password": "Repeat New Password",
+			"contact": "Contact",
+			"socials": "Socials",
+			"legal": "Legal",
+			"community_translations": "Community Translations",
+			"loading": "Loading",
+			"play": "Play",
+			"use_button": "Use",
+			"claim_button": "Claim",
+			"chat": "Chat",
+			"block": "Block",
+			"send_friend_request": "Send Friend Request",
+			"invite_to_game": "Invite to Game",
+			"none": "None",
+			"default": "Default",
+			"delete": "Delete"
 		},
 		"popout_messages": {
-			"MISSING-unexpected_error": "Unexpected Error",
-			"MISSING-please_try_again": "Please try again",
-			"MISSING-error_contacting_server": "Error contacting server",
-			"MISSING-internal_server_error": "Internal server error",
-			"MISSING-down_for_maintenance": "Server Down for Maintenance",
-			"MISSING-guest_account": "Unavailable for Guest Accounts",
-			"MISSING-guest_account_text": "This feature is unavailable for guest accounts."
+			"unexpected_error": "Unexpected Error",
+			"please_try_again": "Please try again",
+			"error_contacting_server": "Error contacting server",
+			"internal_server_error": "Internal server error",
+			"down_for_maintenance": "Server Down for Maintenance",
+			"guest_account": "Unavailable for Guest Accounts",
+			"guest_account_text": "This feature is unavailable for guest accounts.",
+			"block_player": {
+				"title": "Block _NAME_",
+				"text": "You won't see messages or get friend/game invites from blocked players",
+				"confirm": "Block",
+				"cancel": "Cancel"
+			}
 		},
 		"registration": {
-			"MISSING-terms_of_service": "You must agree to the Terms of Service to register",
-			"MISSING-no_username": "No username provided",
-			"MISSING-username_length": "Username can't be over 16 characters",
-			"MISSING-invalid_username": "Username can only contain letters, numbers and underscores",
-			"MISSING-amq_username": "Username \"AMQ\" is reserved and can't be used",
-			"MISSING-password_too_short": "Password must be at least 5 characters",
-			"MISSING-password_too_long": "Password must be at most 9999 characters",
-			"MISSING-passwords_not_matching": "Passwords don't match",
-			"MISSING-no_email": "No email provided",
-			"MISSING-invalid_email": "Not a valid email",
-			"MISSING-no_country": "No country of residence provided",
-			"MISSING-disabled": "Registration is disabled",
-			"MISSING-unknown_country": "Unknown country of residence",
-			"MISSING-username_taken": "Username is already taken",
-			"MISSING-email_taken": "Email is already registered",
-			"MISSING-email_sent": "Verification email has been successfully sent to _EMAIL_",
-			"MISSING-email_length": "Email must be at most 255 characters",
-			"MISSING-account_created": "Account _NAME_ was successfully created"
+			"terms_of_service": "You must agree to the Terms of Service to register",
+			"no_username": "No username provided",
+			"username_length": "Username can't be over 16 characters",
+			"invalid_username": "Username can only contain letters, numbers and underscores",
+			"amq_username": "Username \"AMQ\" is reserved and can't be used",
+			"password_too_short": "Password must be at least 5 characters",
+			"password_too_long": "Password must be at most 9999 characters",
+			"passwords_not_matching": "Passwords don't match",
+			"no_email": "No email provided",
+			"invalid_email": "Not a valid email",
+			"no_country": "No country of residence provided",
+			"disabled": "Registration is disabled",
+			"unknown_country": "Unknown country of residence",
+			"username_taken": "Username is already taken",
+			"email_taken": "Email is already registered",
+			"email_sent": "Verification email has been successfully sent to _EMAIL_",
+			"email_length": "Email must be at most 255 characters",
+			"account_created": "Account _NAME_ was successfully created"
 		},
 		"guest_account": {
-			"MISSING-title": "Guest Account",
-			"MISSING-click_to_register": "Click here to complete registration",
-			"MISSING-complete_registration": "Complete Registration",
-			"MISSING-complete_registration_message": "To complete registration, please verify your email by clicking the link sent to _BOLD_ _EMAIL_ _BOLD_"
+			"title": "Guest Account",
+			"click_to_register": "Click here to complete registration",
+			"complete_registration": "Complete Registration",
+			"complete_registration_message": "To complete registration, please verify your email by clicking the link sent to _BOLD_ _EMAIL_ _BOLD_"
 		}
 	},
 	"login_page": {
 		"ui": {
-			"MISSING-play_now": "Play Now",
-			"MISSING-login": "Login",
-			"MISSING-send_button": "Send",
-			"MISSING-return_to_login": "Return to login",
-			"MISSING-stay_signed_in": "Stay signed in",
-			"MISSING-forgot_password": "Forgot password?",
-			"MISSING-forgot_username": "Forgot username?",
-			"MISSING-country_of_residence": "Country of Residence",
-			"MISSING-agree_terms_of_service": "I agree to the _LINK_ Terms of Service _LINK_",
-			"MISSING-start_playing_now": "Start Playing Now"
+			"play_now": "Play Now",
+			"login": "Login",
+			"send_button": "Send",
+			"return_to_login": "Return to login",
+			"stay_signed_in": "Stay signed in",
+			"forgot_password": "Forgot password?",
+			"forgot_username": "Forgot username?",
+			"country_of_residence": "Country of Residence",
+			"agree_terms_of_service": "I agree to the _LINK_ Terms of Service _LINK_",
+			"start_playing_now": "Start Playing Now"
 		},
 		"popout_messages": {
 			"create_guest_account": {
-				"MISSING-title": "Create Guest Account",
-				"MISSING-text": "By creating a guest account you agree to the _LINK_ Terms of Service _LINK_ and _LINK_ Privacy Policy _LINK_.",
-				"MISSING-error_title": "Error creating guest account",
-				"MISSING-error_disabled": "Guest accounts are disabled"
+				"title": "Create Guest Account",
+				"text": "By creating a guest account you agree to the _LINK_ Terms of Service _LINK_ and _LINK_ Privacy Policy _LINK_.",
+				"error_title": "Error creating guest account",
+				"error_disabled": "Guest accounts are disabled"
 			},
-			"MISSING-select_country": "Please select your country of residence",
-			"MISSING-country_error": "Error registering country",
+			"select_country": "Please select your country of residence",
+			"country_error": "Error registering country",
 			"already_online": {
-				"MISSING-title": "Account Already Online",
-				"MISSING-text": "Continue login, logging out the other sessions?"
+				"title": "Account Already Online",
+				"text": "Continue login, logging out the other sessions?"
 			},
-			"MISSING-guest_timeout": "Guest account timed out, please create a new one"
+			"guest_timeout": "Guest account timed out, please create a new one"
 		},
 		"text": {
-			"MISSING-create_account": "Create Account",
-			"MISSING-recover_username_title": "Recover Username",
-			"MISSING-recover_username_text": "Enter the email used to register your account, to have your username sent to it.",
-			"MISSING-forgot_password_title": "Forgot Password",
-			"MISSING-forgot_password_text": "Enter the email used to register your account, to have a password reset link sent to it.",
-			"MISSING-reset_password_title": "Reset Password",
-			"MISSING-missing_information": "Missing Account Information",
-			"MISSING-missing_country": "Account is missing your country of residence, please select it below.",
-			"MISSING-promo_title": "The #1 Anime Music Quiz!",
+			"create_account": "Create Account",
+			"recover_username_title": "Recover Username",
+			"recover_username_text": "Enter the email used to register your account, to have your username sent to it.",
+			"forgot_password_title": "Forgot Password",
+			"forgot_password_text": "Enter the email used to register your account, to have a password reset link sent to it.",
+			"reset_password_title": "Reset Password",
+			"missing_information": "Missing Account Information",
+			"missing_country": "Account is missing your country of residence, please select it below.",
+			"promo_title": "The #1 Anime Music Quiz!",
 			"promo_one": {
-				"MISSING-title": "Unending Number of Quizzes",
-				"MISSING-line_one": "35,000+ Songs From 8,000+ Anime",
-				"MISSING-line_two": "Each Quiz Uniquely Generated",
-				"MISSING-line_three": "Custom built quizzes from your MyAnimeList, AniList or Kitsu",
-				"MISSING-line_four": "Free to Play"
+				"title": "Unending Number of Quizzes",
+				"line_one": "35,000+ Songs From 8,000+ Anime",
+				"line_two": "Each Quiz Uniquely Generated",
+				"line_three": "Custom built quizzes from your MyAnimeList, AniList or Kitsu",
+				"line_four": "Free to Play"
 			},
 			"promo_two": {
-				"MISSING-title": "Play Your Way",
-				"MISSING-line_one": "With Friends",
-				"MISSING-line_two": "Challenge Yourself",
-				"MISSING-line_three": "Climb the Ranked Ladder",
-				"MISSING-line_four": "Explore the Dungeon Crawler"
+				"title": "Play Your Way",
+				"line_one": "With Friends",
+				"line_two": "Challenge Yourself",
+				"line_three": "Climb the Ranked Ladder",
+				"line_four": "Explore the Dungeon Crawler"
 			},
 			"login_queue": {
-				"MISSING-title": "Login Queue",
-				"MISSING-text": "The login server is experiencing a heavy load, you will be logged in momentarily",
-				"MISSING-position": "Position in queue: _SPAN_ 0 _SPAN_"
+				"title": "Login Queue",
+				"text": "The login server is experiencing a heavy load, you will be logged in momentarily",
+				"position": "Position in queue: _SPAN_ 0 _SPAN_"
 			}
 		},
 		"messages": {
-			"MISSING-account_verified": "Account Verified, you can now login",
-			"MISSING-account_verified_guest": "Account Verified, you can close this tab",
-			"MISSING-verification_error": "Error Verifying Account: An Unexpected Error Happened",
-			"MISSING-unknown_reset_code": "Unknown Reset Code",
-			"MISSING-wrong_username_password": "Wrong username or password",
-			"MISSING-email_sent": "Email sent",
-			"MISSING-password_updated": "Password Updated"
+			"account_verified": "Account Verified, you can now login",
+			"account_verified_guest": "Account Verified, you can close this tab",
+			"verification_error": "Error Verifying Account: An Unexpected Error Happened",
+			"unknown_reset_code": "Unknown Reset Code",
+			"wrong_username_password": "Wrong username or password",
+			"email_sent": "Email sent",
+			"password_updated": "Password Updated"
 		},
 		"account_verification": {
-			"MISSING-title": "Account Verification",
-			"MISSING-text_one": "_SPAN_ Account not verified _SPAN_, please verify your email by clicking the link sent to _BOLD_ _EMAIL_ _BOLD_.",
-			"MISSING-text_two": "Didn't receive the email? Please allow up to a minute for the email to arrive and check your spam folder. If you still didn't receive the email you can resend it or change email using the field below."
+			"title": "Account Verification",
+			"text_one": "_SPAN_ Account not verified _SPAN_, please verify your email by clicking the link sent to _BOLD_ _EMAIL_ _BOLD_.",
+			"text_two": "Didn't receive the email? Please allow up to a minute for the email to arrive and check your spam folder. If you still didn't receive the email you can resend it or change email using the field below."
 		},
 		"banned_messages": {
-			"MISSING-title_temp": "Account Temporarily Banned",
-			"MISSING-title_ban": "Account Banned",
-			"MISSING-text_one": "Your account has been flagged for cheating. Using plugins, code snippets, changing the site layout or any other methods to get an unfair advantage is against the Terms of Service of the game.",
-			"MISSING-text_two": "Your account has been flagged for breaking the Terms of Service by a moderator, and you have therefore been banned. You should have received an email detailing why you were banned.",
-			"MISSING-text_three": "Your account has been flagged for cheating. Using plugins, code snippets, changing the site layout or any other methods to get an unfair advantage is against the Terms of Service of the game.",
-			"MISSING-text_temp": "As this is your first offence, your account has only been temporarily banned. But if you continue cheating after the ban has been removed, your account will be permanently banned.",
-			"MISSING-text_perm": "As this is your second offence, your account has been permanently banned.",
-			"MISSING-text_end": "If you believe this ban to be an error, you can create a ticket over on the game’s _LINK_ Discord _LINK_ in the #open-a-ticket channel.",
-			"MISSING-suspended_until": "Suspended Until"
+			"title_temp": "Account Temporarily Banned",
+			"title_ban": "Account Banned",
+			"text_one": "Your account has been flagged for cheating. Using plugins, code snippets, changing the site layout or any other methods to get an unfair advantage is against the Terms of Service of the game.",
+			"text_two": "Your account has been flagged for breaking the Terms of Service by a moderator, and you have therefore been banned. You should have received an email detailing why you were banned.",
+			"text_three": "Your account has been flagged for cheating. Using plugins, code snippets, changing the site layout or any other methods to get an unfair advantage is against the Terms of Service of the game.",
+			"text_temp": "As this is your first offence, your account has only been temporarily banned. But if you continue cheating after the ban has been removed, your account will be permanently banned.",
+			"text_perm": "As this is your second offence, your account has been permanently banned.",
+			"text_end": "If you believe this ban to be an error, you can create a ticket over on the game’s _LINK_ Discord _LINK_ in the #open-a-ticket channel.",
+			"suspended_until": "Suspended Until"
 		}
 	},
 	"main_menu": {
 		"ui": {
-			"MISSING-news": "News",
-			"MISSING-stay_connected": "Stay Connected",
-			"MISSING-merch_store": "Merch Store",
-			"MISSING-song_library": "Song Library",
-			"MISSING-leaderboard": "Leaderboard"
+			"news": "News",
+			"stay_connected": "Stay Connected",
+			"merch_store": "Merch Store",
+			"song_library": "Song Library",
+			"leaderboard": "Leaderboard"
 		},
 		"carousel": {
-			"MISSING-social_promo": "Earn Free Tickets by Following AMQ on Discord and Patreon!",
-			"MISSING-patreon_promo": "Support the Game and Unlock Exclusive Rewards",
+			"social_promo": "Earn Free Tickets by Following AMQ on Discord and Patreon!",
+			"patreon_promo": "Support the Game and Unlock Exclusive Rewards",
 			"sale_names": {
-				"MISSING-fall": "Fall Sale!",
-				"MISSING-summer": "Summer Sale!",
-				"MISSING-winter": "Winter Sale!",
-				"MISSING-spring": "Spring Sale!",
-				"MISSING-halloween": "Halloween Sale!",
-				"MISSING-christmas": "Christmas Sale!",
-				"MISSING-lunar": "Lunar Sale!",
-				"MISSING-valentine": "Valentine's Sale!",
-				"MISSING-summer_games": "Summer Games Sale!"
+				"fall": "Fall Sale!",
+				"summer": "Summer Sale!",
+				"winter": "Winter Sale!",
+				"spring": "Spring Sale!",
+				"halloween": "Halloween Sale!",
+				"christmas": "Christmas Sale!",
+				"lunar": "Lunar Sale!",
+				"valentine": "Valentine's Sale!",
+				"summer_games": "Summer Games Sale!"
 			},
-			"MISSING-sale_text": "Get the best ticket value!",
-			"MISSING-skin_header": "Exclusive",
+			"sale_text": "Get the best ticket value!",
+			"skin_header": "Exclusive",
 			"skin_seasons": {
-				"MISSING-spring": "Spring Skins",
-				"MISSING-summer": "Summer Skins",
-				"MISSING-fall": "Fall Skins",
-				"MISSING-winter": "Winter Skins",
-				"MISSING-halloween": "Halloween Skins",
-				"MISSING-christmas": "Christmas Skins",
-				"MISSING-lunar": "Lunar Skins",
-				"MISSING-valentine": "Valentine Skins",
-				"MISSING-summer_games": "Summer Games Skins"
+				"spring": "Spring Skins",
+				"summer": "Summer Skins",
+				"fall": "Fall Skins",
+				"winter": "Winter Skins",
+				"halloween": "Halloween Skins",
+				"christmas": "Christmas Skins",
+				"lunar": "Lunar Skins",
+				"valentine": "Valentine Skins",
+				"summer_games": "Summer Games Skins"
 			},
-			"MISSING-skin_text": "Get exclusive skins for supporting AMQ!",
-			"MISSING-skin_footer": "Available Now"
+			"skin_footer": "Available Now"
 		},
 		"quiz_of_the_day": {
-			"MISSING-title": "Quiz of the Day",
-			"MISSING-time_slots": "Quiz Time Slots",
-			"MISSING-weekly_schedule": "Weekly Schedule",
-			"MISSING-current_week": "Current Week",
-			"MISSING-what_is": "What's the Quiz of the Day?",
-			"MISSING-what_is_description": "Quiz of the day is a daily occurring unlimited size quiz where players can test their skills against the rest of the community. It’s currently split between ranked quizzes, a highly competitive mode, and themed quizzes which feature different community quizzes designed to give a unique and fun experience.",
-			"MISSING-ranked_description": "Ranked Description",
-			"MISSING-week": "Week _NUMBER_",
-			"MISSING-week_year": "Week _NUMBER_ of _NUMBER_",
-			"MISSING-championship": "Championship",
-			"MISSING-championship_description": "The top 150 ranked players of the month battle it out for the chance to become the monthly champion!",
-			"MISSING-rest_day": "Rest Day",
-			"MISSING-rest_day_description": "No quizzes on the day after the championship.",
-			"MISSING-ranked": "Ranked",
-			"MISSING-ranked_finished": "Finished",
+			"title": "Quiz of the Day",
+			"time_slots": "Quiz Time Slots",
+			"weekly_schedule": "Weekly Schedule",
+			"current_week": "Current Week",
+			"what_is": "What's the Quiz of the Day?",
+			"what_is_description": "Quiz of the day is a daily occurring unlimited size quiz where players can test their skills against the rest of the community. It’s currently split between ranked quizzes, a highly competitive mode, and themed quizzes which feature different community quizzes designed to give a unique and fun experience.",
+			"ranked_description": "Ranked Description",
+			"week": "Week _NUMBER_",
+			"week_year": "Week _NUMBER_ of _NUMBER_",
+			"championship": "Championship",
+			"championship_description": "The top 150 ranked players of the month battle it out for the chance to become the monthly champion!",
+			"rest_day": "Rest Day",
+			"rest_day_description": "No quizzes on the day after the championship.",
+			"ranked": "Ranked",
+			"ranked_finished": "Finished",
 			"ranked_types": {
 				"novice": {
-					"MISSING-title": "Novice",
-					"MISSING-description": "45 songs geared towards new and upcoming players"
+					"title": "Novice",
+					"description": "45 songs geared towards new and upcoming players"
 				},
 				"expert": {
-					"MISSING-title": "Expert",
-					"MISSING-description": "85 songs geared towards experienced players. Rewards additional ranked points"
+					"title": "Expert",
+					"description": "85 songs geared towards experienced players. Rewards additional ranked points"
+				}
+			},
+			"regions": {
+				"west": {
+					"name": "West",
+					"shorthand": "W"
+				},
+				"east": {
+					"name": "East",
+					"shorthand": "E"
+				},
+				"central": {
+					"name": "Central",
+					"shorthand": "C"
 				}
 			},
 			"states": {
 				"ranked": {
-					"MISSING-offline": "Ranked - Offline",
-					"MISSING-lobby": "Ranked - Lobby Up",
-					"MISSING-playing": "Ranked - Playing",
-					"MISSING-completed": "Ranked - Completed",
-					"MISSING-rest_day": "Ranked - Rest Day"
+					"offline": "Ranked - Offline",
+					"lobby": "Ranked - Lobby Up",
+					"playing": "Ranked - Playing",
+					"completed": "Ranked - Completed",
+					"rest_day": "Ranked - Rest Day"
 				},
 				"themed": {
-					"MISSING-offline": "Themed - Offline",
-					"MISSING-lobby_up": "Themed - Lobby Up",
-					"MISSING-playing": "Themed - Playing",
-					"MISSING-completed": "Themed - Completed"
+					"offline": "Themed - Offline",
+					"lobby": "Themed - Lobby Up",
+					"playing": "Themed - Playing",
+					"completed": "Themed - Completed"
 				},
 				"championship": {
-					"MISSING-offline": "Championship - Offline",
-					"MISSING-lobby_up": "Championship - Lobby Up",
-					"MISSING-playing": "Championship - Playing",
-					"MISSING-completed": "Championship - Completed"
+					"offline": "Championship - Offline",
+					"lobby": "Championship - Lobby Up",
+					"playing": "Championship - Playing",
+					"completed": "Championship - Completed"
 				}
 			},
 			"week_days": {
-				"MISSING-monday": "Monday",
-				"MISSING-tuesday": "Tuesday",
-				"MISSING-wednesday": "Wednesday",
-				"MISSING-thursday": "Thursday",
-				"MISSING-friday": "Friday",
-				"MISSING-saturday": "Saturday",
-				"MISSING-sunday": "Sunday"
+				"monday": "Monday",
+				"tuesday": "Tuesday",
+				"wednesday": "Wednesday",
+				"thursday": "Thursday",
+				"friday": "Friday",
+				"saturday": "Saturday",
+				"sunday": "Sunday"
 			},
 			"popout_messages": {
 				"weekly_quiz": {
-					"MISSING-title": "Weekly Quiz Schedule",
-					"MISSING-text": "See the weekly quiz schedule and look up more info about the mode"
+					"title": "Weekly Quiz Schedule",
+					"text": "See the weekly quiz schedule and look up more info about the mode"
 				},
-				"region_time": { "MISSING-text": "Region and time until next quiz" }
+				"region_time": {
+					"text": "Region and time until next quiz"
+				}
 			},
 			"alerts": {
 				"ranked_rules": {
-					"MISSING-title": "Ranked Rules",
-					"MISSING-text": "By playing ranked, you agree that you won't share hints or answers with other players, or use any tool, method or software that grants you an unfair advantage."
+					"title": "Ranked Rules",
+					"text": "By playing ranked, you agree that you won't share hints or answers with other players, or use any tool, method or software that grants you an unfair advantage."
 				}
 			}
 		},
 		"ranked_description": {
-			"MISSING-title": "Ranked Mode",
-			"MISSING-description": "Challenge yourself against your friends and the AMQ community by joining ranked games. Each ranked game will earn you ranked points, unlocking new exclusive rewards and getting you closer to joining the best of the best in the region championship hosted at the end of each month. _BREAK_ Do note that your account has to be level 10 or higher to join ranked matches.",
-			"MISSING-how_it_works": "How It Works",
-			"MISSING-regions": "Regions",
-			"MISSING-region_description": "The ranked mode is split up into three separate regions (west, central, east), each with their own leaderboard, start time and championship. You will be able to participate in all regions, but ranked points only count for the region in which they're earned in.",
-			"MISSING-ranked_game": "Ranked Game",
-			"MISSING-ranked_game_description_one": "30 minutes before start time, you will be able to join either the novice or expert ranked lobby from the main menu. _BREAK_ The novice room is geared towards new and less hardcore players, and consists of 45 mainly medium and easy songs with 20 seconds guess time. _BREAK_ The expert room is geared towards hardcore and competitive players, and consists of 85 fully random songs with 15 seconds guess time.",
-			"MISSING-ranked_game_description_two": "At the end of each ranked game, you'll earn ranked points based on the amount of songs you’ve guessed. _BREAK_ In novice games, you earn 3 points for each correct guess. _BREAK_ In expert games, the points per song increases with the number of songs you guessed. The first five songs reward 4 points each, the next five reward 5 points each, then 6 points each of the next 5 and so on.",
-			"MISSING-end_of_season": "End of Season",
-			"MISSING-end_of_season_description": "The last Saturday of each month, instead of the normal ranked game, a championship game is hosted instead. The championship games function like a normal ranked game, except only the top 150 players in the region are able to participate, with the winner earning the title of Region Champion. _BREAK_ The Monday after the championship, all ranked points are reset and a new season starts.",
-			"MISSING-rules": "Rules",
-			"MISSING-rules_description": "The ranked game mode is a test of individual skills, so it's important that you don’t share hints or answers with other players. All tools, methods or software that give an unfair advantage are banned as well (as it is for all game modes). _BREAK_ Breaking the above rules can result in your account getting banned and all ranked rewards removed."
+			"title": "Ranked Mode",
+			"description": "Challenge yourself against your friends and the AMQ community by joining ranked games. Each ranked game will earn you ranked points, unlocking new exclusive rewards and getting you closer to joining the best of the best in the region championship hosted at the end of each month. _BREAK_ Do note that your account has to be level 10 or higher to join ranked matches.",
+			"how_it_works": "How It Works",
+			"regions": "Regions",
+			"region_description": "The ranked mode is split up into three separate regions (west, central, east), each with their own leaderboard, start time and championship. You will be able to participate in all regions, but ranked points only count for the region in which they're earned in.",
+			"ranked_game": "Ranked Game",
+			"ranked_game_description_one": "30 minutes before start time, you will be able to join either the novice or expert ranked lobby from the main menu. _BREAK_ The novice room is geared towards new and less hardcore players, and consists of 45 mainly medium and easy songs with 20 seconds guess time. _BREAK_ The expert room is geared towards hardcore and competitive players, and consists of 85 fully random songs with 15 seconds guess time.",
+			"ranked_game_description_two": "At the end of each ranked game, you'll earn ranked points based on the amount of songs you’ve guessed. _BREAK_ In novice games, you earn 3 points for each correct guess. _BREAK_ In expert games, the points per song increases with the number of songs you guessed. The first five songs reward 4 points each, the next five reward 5 points each, then 6 points each of the next 5 and so on.",
+			"end_of_season": "End of Season",
+			"end_of_season_description": "The last Saturday of each month, instead of the normal ranked game, a championship game is hosted instead. The championship games function like a normal ranked game, except only the top 150 players in the region are able to participate, with the winner earning the title of Region Champion. _BREAK_ The Monday after the championship, all ranked points are reset and a new season starts.",
+			"rules": "Rules",
+			"rules_description": "The ranked game mode is a test of individual skills, so it's important that you don’t share hints or answers with other players. All tools, methods or software that give an unfair advantage are banned as well (as it is for all game modes). _BREAK_ Breaking the above rules can result in your account getting banned and all ranked rewards removed."
 		},
 		"avatar_drive": {
-			"MISSING-standings": "Standings",
-			"MISSING-recent": "Recent",
-			"MISSING-weekly": "Weekly",
-			"MISSING-weekly_short": "W",
-			"MISSING-monthly": "Monthly",
-			"MISSING-monthly_short": "M",
-			"MISSING-all_time": "All Time",
-			"MISSING-all_time_short": "AT",
-			"MISSING-donate": "Donate",
-			"MISSING-faq": "FAQ",
-			"MISSING-amount": "Amount",
-			"MISSING-description": "Donate towards who the next avatar will be! Once the drive ends, the avatar leading the drive will be added to the game! Do note that the drive will continue a couple of days after the goal has been reached.",
+			"standings": "Standings",
+			"recent": "Recent",
+			"weekly": "Weekly",
+			"weekly_short": "W",
+			"monthly": "Monthly",
+			"monthly_short": "M",
+			"all_time": "All Time",
+			"all_time_short": "AT",
+			"donate": "Donate",
+			"faq_button": "FAQ",
+			"faq_header": "FAQ",
+			"amount": "Amount",
+			"description": "Donate towards who the next avatar will be! Once the drive ends, the avatar leading the drive will be added to the game! Do note that the drive will continue a couple of days after the goal has been reached.",
 			"faq_what_is": {
-				"MISSING-title": "What is the Avatar Drive?",
-				"MISSING-text": "The Avatar Drive is your way to support the game, while at the same time influencing what the future avatars will be. The system is pretty straightforward, when donating you can choose to donate towards any avatar in the Avatar Drive or nominate a new avatar. The value donated is then added to that avatar's score, and once the goal of the drive is reached, the avatar with the highest score will be added to the game as a future avatar."
+				"title": "What is the Avatar Drive?",
+				"text": "The Avatar Drive is your way to support the game, while at the same time influencing what the future avatars will be. The system is pretty straightforward, when donating you can choose to donate towards any avatar in the Avatar Drive or nominate a new avatar. The value donated is then added to that avatar's score, and once the goal of the drive is reached, the avatar with the highest score will be added to the game as a future avatar."
 			},
 			"faq_nomination_type": {
-				"MISSING-title": "What Type of Avatars Can I Nominate?",
-				"MISSING-text": "You can nominate any type of avatar you can think of, as long as they are not offensive, can legally be added to the game and fit into the design of the game. All nominations are reviewed, and can be rejected if they don't follow the guidelines mentioned above."
+				"title": "What Type of Avatars Can I Nominate?",
+				"text": "You can nominate any type of avatar you can think of, as long as they are not offensive, can legally be added to the game and fit into the design of the game. All nominations are reviewed, and can be rejected if they don't follow the guidelines mentioned above."
 			},
 			"faq_existing_avatar": {
-				"MISSING-title": "Can I Nominate an Existing Character?",
-				"MISSING-text": "You are more than welcome to nominate an existing avatar for the Avatar Drive. If an existing avatar wins the drive, a new skin will be added for that avatar. You are also more than welcome to specify what you want the skin to be, let's say you want to give Hibiki a ninja outfit, you can nominate \"Ninja Hibiki\"."
+				"title": "Can I Nominate an Existing Character?",
+				"text": "You are more than welcome to nominate an existing avatar for the Avatar Drive. If an existing avatar wins the drive, a new skin will be added for that avatar. You are also more than welcome to specify what you want the skin to be, let's say you want to give Hibiki a ninja outfit, you can nominate \"Ninja Hibiki\"."
 			},
-			"MISSING-donate_towards": "Donate Towards",
-			"MISSING-nominated_avatar": "Nominated Avatar",
-			"MISSING-new_avatar": "New Avatar",
-			"MISSING-none": "None",
-			"MISSING-avatar_description": "Avatar Description",
-			"MISSING-avatar_description_placeholder": "Short Description of the Avatar",
-			"MISSING-nomination": "Nomination",
-			"MISSING-anonymous_donation": "Anonymous Donation",
-			"MISSING-free_donation": "Use Free Donation",
-			"MISSING-free_donation_amount": "Amount: _NUMBER_€",
-			"MISSING-approx_dollars": "Approx. $",
-			"MISSING-checkout": "Checkout",
-			"popover": { "MISSING-no_free_donation": "Free donation already used this month" },
+			"donate_towards": "Donate Towards",
+			"nominated_avatar": "Nominated Avatar",
+			"new_avatar": "New Avatar",
+			"avatar_description": "Avatar Description",
+			"avatar_description_placeholder": "Short Description of the Avatar",
+			"nomination": "Nomination",
+			"anonymous_donation": "Anonymous Donation",
+			"free_donation": "Use Free Donation",
+			"free_donation_amount": "Amount: _NUMBER_€",
+			"approx_dollars": "Approx. $",
+			"checkout": "Checkout",
+			"popover": {
+				"no_free_donation": "Free donation already used this month"
+			},
 			"alerts": {
 				"invalid_amount": {
-					"MISSING-title": "Invalid Donation Amount",
-					"MISSING-text": "You must enter a donation amount."
+					"title": "Invalid Donation Amount",
+					"text": {
+						"illegal": "You must enter a donation amount",
+						"minimum": "The minimum donation amount is 1€"
+					}
 				},
-				"donation_error": { "MISSING-title": "Donation Error" },
+				"donation_error": {
+					"title": "Donation Error"
+				},
 				"donation_received": {
-					"MISSING-title": "Donation Received",
-					"MISSING-text": "Thank you for supporting the game!"
+					"title": "Donation Received",
+					"text": "Thank you for supporting the game!"
 				},
 				"use_free_donation": {
-					"MISSING-title": "Use Free Donation",
-					"MISSING-text": "You only get one free donation per month"
+					"title": "Use Free Donation",
+					"text": "You only get one free donation per month"
 				}
 			}
 		},
 		"social_rewards": {
-			"MISSING-title": "Social Rewards",
-			"MISSING-description": "As a thanks for following the game’s Discord and Patreon, you can claim an 8 ticket reward from following each. _BREAK_ Make sure to join the _LINK_ Discord _LINK_ before claiming the Discord reward. _BREAK_ Make sure to join (free) or back the _LINK_ Patreon _LINK_ before claiming the Patreon reward."
+			"title": "Social Rewards",
+			"description": "As a thanks for following the game’s Discord and Patreon, you can claim an 8 ticket reward from following each. _BREAK_ Make sure to join the _LINK_ Discord _LINK_ before claiming the Discord reward. _BREAK_ Make sure to join (free) or back the _LINK_ Patreon _LINK_ before claiming the Patreon reward."
 		},
 		"game_mode": {
-			"MISSING-title": "Game Mode",
+			"title": "Game Mode",
 			"solo": {
-				"MISSING-title": "Solo",
-				"MISSING-description": "Challenge yourself with an unlimited amount of personalized unique quizzes"
+				"title": "Solo",
+				"description": "Challenge yourself with an unlimited amount of personalized unique quizzes"
 			},
 			"multiplayer": {
-				"MISSING-title": "Multiplayer",
-				"MISSING-description": "Play unique quizzes with friends and other anime fans"
+				"title": "Multiplayer",
+				"description": "Play unique quizzes with friends and other anime fans"
 			},
 			"community": {
-				"MISSING-title": "Community",
-				"MISSING-description": "Play custom quizzes created by the community or craft your own"
+				"title": "Community",
+				"description": "Play custom quizzes created by the community or craft your own"
 			},
 			"jam": {
-				"MISSING-title": "Jam Quiz",
-				"MISSING-description": "A never-ending quiz where players can drop in and out at any time"
+				"title": "Jam Quiz",
+				"description": "A never-ending quiz where players can drop in and out at any time"
 			},
 			"nexus": {
-				"MISSING-title": "Nexus",
-				"MISSING-description": "Challenge the Nexus dungeon, a unique roguelike quiz mode, that can be played solo or with friends"
+				"title": "Nexus",
+				"description": "Challenge the Nexus dungeon, a unique roguelike quiz mode, that can be played solo or with friends"
 			}
 		}
 	},
 	"menu_bar": {
 		"settings": {
 			"language": {
-				"MISSING-custom": "Custom",
-				"MISSING-custom_description": "Provide a translation file to test it in-game.",
-				"MISSING-custom_title": "Custom Language File",
-				"MISSING-custom_placeholder": "URL to translation file",
-				"MISSING-custom_alert_description": "Provide the URL to your translation file",
+				"custom": "Custom",
+				"custom_description": "Provide a translation file to test it in-game.",
+				"custom_title": "Custom Language File",
+				"custom_placeholder": "URL to translation file",
+				"custom_alert_description": "Provide the URL to your translation file",
 				"custom_failed_to_load": {
-					"MISSING-title": "Failed to Load Custom Language",
-					"MISSING-text": "Could not load the custom language file from the provided URL."
+					"title": "Failed to Load Custom Language",
+					"text": "Could not load the custom language file from the provided URL."
 				},
 				"custom_wrong_format": {
-					"MISSING-title": "Localization File Format Error",
-					"MISSING-text": "The provided language file is not in the correct format. See the browser console for more details."
+					"title": "Localization File Format Error",
+					"text": "The provided language file is not in the correct format. See the browser console for more details."
+				}
+			}
+		},
+		"friend_list": {
+			"friends": "Friends",
+			"total": "Total",
+			"all": "All",
+			"statuses": {
+				"online": "Online",
+				"offline": "Offline",
+				"away": "Away",
+				"do_not_disturb": "Do Not Disturb",
+				"invisible": "Invisible",
+				"playing_nexus": "Playing _NAME_ Nexus",
+				"in_nexus_lobby": "In _NAME_ Nexus Lobby",
+				"in_lobby": "In _NAME_ Lobby",
+				"spectating_quiz": "Spectating _NAME_ Quiz",
+				"in_quiz": "In _NAME_ Quiz",
+				"mode_names": {
+					"co-op": "Co-Op",
+					"private": "Private",
+					"jam": "Jam",
+					"event": "Event",
+					"solo": "Solo"
+				}
+			},
+			"options": {
+				"report": "Report",
+				"remove_friend": "Remove Friend",
+				"join_game": "Join Game"
+			},
+			"popout_messages": {
+				"not_in_game": "You are not in a game",
+				"solo_game_invite": "Can't invite players to solo games"
+			}
+		},
+		"menu": {
+			"patreon": "Patreon",
+			"donate": "Donate",
+			"song_history": "Song History",
+			"settings": "Settings",
+			"blocked_players": "Blocked Players",
+			"change_password": "Change Password",
+			"leaderboard": "Leaderboard",
+			"tutorial": "Tutorial",
+			"guidelines": "Guidelines",
+			"about": "About",
+			"logout": "Logout"
+		},
+		"video_host": {
+			"title": "Video Host Connections",
+			"description": "Connection status to the different video servers",
+			"click_to_retest": "Click to retest connection",
+			"speed": "Speed: _SPANC_ _NUMBER_  _SPANC_",
+			"connection_status": {
+				"good": "Good",
+				"okay": "Okay",
+				"poor": "Poor",
+				"bad": "Bad"
+			}
+		}
+	},
+	"player_profile": {
+		"profile_image": "Profile Image",
+		"avatar": "Avatar",
+		"no_badges": "No Badges",
+		"profile": "Profile",
+		"special_badges": "Special Badges",
+		"standard_badges": "Standard Badges",
+		"name_effects": "Name Effects",
+		"name_color": "Name Color",
+		"name_glow": "Name Glow",
+		"hidden": "Hidden",
+		"account_creation": "Account Creation",
+		"songs_played": "Songs Played",
+		"guess_rate": "Guess Rate",
+		"options": "Options",
+		"edit": "Edit",
+		"change_nickname": "Change Nickname",
+		"change_nickname_modal": {
+			"description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you’re a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
+			"current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
+			"check_availability": "Check Availability"
+		},
+		"alerts": {
+			"error_getting_profile": "Error Getting Player Profile",
+			"unknown_player": "Unknown Player"
+		},
+		"name_effects_entries": {
+			"challenger_color": {
+				"name": "Challenger",
+				"description": "Unlocked for players who qualified for last month ranked championship"
+			},
+			"challenger_glow": {
+				"name": "Challenger",
+				"description": "Unlocked for players who got top 50 in last month ranked championship"
+			},
+			"patreon_color": {
+				"name": "Patreon",
+				"description": "Unlocked for level 3 or higher Patreon backers"
+			},
+			"patreon_glow": {
+				"name": "Patreon",
+				"description": "Unlocked for level 4 or higher Patreon backers"
+			},
+			"month_patreon_current": "Unlocked for level 5 Patreon backers who back this month, and level 6 backers",
+			"month_patreon_previous": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers",
+			"month_patreon_previous_unlocked": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers. You backed during the release month."
+		}
+	},
+	"badges": {
+		"ranked": {
+			"name": "Ranked _TIER_ _YEAR_ _NUMBER_",
+			"name_result": "Ranked _TIER_ _YEAR_",
+			"description": "Got _TIER_ tier in the _YEAR_ ranked season _NUMBER_",
+			"description_result": "Got _TIER_ tier for the _YEAR_ ranked seasons",
+			"tiers": {
+				"bronze": "Bronze",
+				"silver": "Silver",
+				"gold": "Gold",
+				"platinum": "Platinum",
+				"diamond": "Diamond"
+			}
+		},
+		"champion": {
+			"name": {
+				"first": "Ranked Champion _YEAR_ _NUMBER_",
+				"second": "Ranked Second Place _YEAR_ _NUMBER_",
+				"third": "Ranked Third Place _YEAR_ _NUMBER_"
+			},
+			"description": {
+				"first": "Won the _YEAR_ season _NUMBER_ championship",
+				"second": "Ranked Second Place in the _YEAR_ season _NUMBER_ championship",
+				"third": "Ranked Third Place in the _YEAR_ season _NUMBER_ championship"
+			}
+		},
+		"challenger": {
+			"name": {
+				"top": "Ranked Expert _YEAR_ _NUMBER_",
+				"mid": "Ranked Up-and-Coming _YEAR_ _NUMBER_",
+				"qualified": "Ranked Challenger _YEAR_ _NUMBER_"
+			},
+			"description": {
+				"qualified": "Qualified for the _YEAR_ season _NUMBER_ championship",
+				"top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
+			}
+		},
+		"patreon": {
+			"name": {
+				"start": "Patreon Backer",
+				"month": "_NUMBER_ Months Patreon Backer",
+				"one_year": "1 Year Patreon Backer",
+				"multiple_years": "_NUMBER_ Years Patreon Backer"
+			},
+			"description": "AMQ Patreon Backer"
+		},
+		"avatar": {
+			"name": "_NAME_ Badge",
+			"description": "Unlock 10 skins/recolors for _NAME_"
+		},
+		"mod": {
+			"name": {
+				"game": "AMQ Moderator",
+				"jam": "AMQ Jam Mode Moderator"
+			},
+			"description": {
+				"game": "Part of the AMQ Moderator team",
+				"jam": "Part of the AMQ Jam Mode Moderator team"
+			}
+		},
+		"aragaimu": {
+			"name": {
+				"participant": "Aragaimu _YEAR_ Participant",
+				"top32": "Aragaimu _YEAR_ Top 32",
+				"top4": "Aragaimu _YEAR_ Top 4"
+			},
+			"description": {
+				"participant": "Participated in the Aragaimu _YEAR_ tournament",
+				"top32": "Got Top 32 in the Aragaimu _YEAR_ tournament",
+				"top4": "Got Top 4 in the Aragaimu _YEAR_ tournament"
+			}
+		}
+	},
+	"patreon_window": {
+		"title": "Patreon",
+		"description": "Help support the operation and development of AMQ by backing the game on Patreon. Working on and sharing AMQ with you all has been and is an amazing experience, and I have so much more I want to do with the game. By backing the Patreon you'll help me not only cover the costs of running the game, but also continue its development! As a special thanks, you'll get several exclusive rewards!",
+		"reward_examples": {
+			"title": "Some of the Patreon Rewards",
+			"sneak_peeks": "Sneak Peeks",
+			"patreon_badge": "Patreon Badges",
+			"custom_emotes": "Custom Emotes",
+			"monthly_tickets": "Monthly Tickets"
+		},
+		"already_a_backer": "Already a Backer?",
+		"link_account": "Link Patreon Account",
+		"become_a_backer": "Become a Backer",
+		"patreon_linked": "Patreon Linked!",
+		"backer_level": {
+			"title": "Backer Level",
+			"tier": "Level _NUMBER_",
+			"rewards": {
+				"emotes": "_NUMBER_ Emotes",
+				"tickets": "_NUMBER_ Tickets"
+			}
+		},
+		"badge_level": "Badge Level",
+		"badge_level_info": "Your badge level is equal to the concurrent months you've been a level 2 or higher backer of the Patreon",
+		"patreon_page": "Patreon Page",
+		"relink": "Relink",
+		"update_info": "Update Info",
+		"unlink_account": "Unlink Account",
+		"linked_account": "Linked Account",
+		"emotes": {
+			"title": "Emotes",
+			"upload": "Upload",
+			"close": "Close",
+			"manage": "Manage",
+			"empty": "Empty",
+			"states": {
+				"waiting_approval": {
+					"name": "Waiting Approval",
+					"shorthand": "W"
+				},
+				"active": {
+					"name": "Active",
+					"shorthand": "A"
+				},
+				"disabled": {
+					"name": "Disabled",
+					"shorthand": "D"
+				}
+			},
+			"error_deleting": "Error Deleting Emote",
+			"upload_emote": {
+				"title": "Upload Emote",
+				"description": {
+					"line_one": "_BOLD_ Slots Left _BOLD_",
+					"line_two": "Standard: _NUMBER_",
+					"line_three": "Animated: _NUMBER_"
+				},
+				"confirm_button": "Select File",
+				"footer": "Accepted File Formats: png (Standard), gif (Animated). Max Filesize: 256kb",
+				"file_too_large": {
+					"title": "File Too Big",
+					"description": "Max filesize is 256kb. Provided file is _NUMBER_kb"
+				},
+				"no_standard_slot": {
+					"title": "No Standard Slot Available",
+					"description": "You don't have any empty standard emote slots available"
+				},
+				"no_animated_slot": {
+					"title": "No Animated Slot Available",
+					"description": "You don't have any empty animated emote slots available"
+				},
+				"selected_image": {
+					"title": "Selected Image",
+					"image": "Image",
+					"resulting_emote": "Resulting Emote",
+					"placeholder": "Emote Name",
+					"errors": {
+						"no_name": "You must provide an emote name",
+						"name_format": "Emote names can only contain letters and numbers",
+						"name_length": "Emote names must be at most _NUMBER_ characters"
+					}
+				},
+				"server_rejected": {
+					"title": "Error Uploading Emote",
+					"description": "The server rejected the emote upload."
+				},
+				"emote_uploaded": {
+					"title": "Emote Uploaded",
+					"description": "Your emote has been successfully uploaded and is pending approval"
 				}
 			}
 		}
+	},
+	"setting_window": {
+		"title": "Settings",
+		"tabs": {
+			"game": "Game",
+			"anime_list": "Anime List",
+			"graphics": "Graphics",
+			"audio": "Audio"
+		},
+		"language": "Language",
+		"auto_submit": {
+			"title": "Auto Submit",
+			"description": "Automatically submit your answer when the guess time runs out"
+		},
+		"list_numbering": {
+			"title": "List Numbering",
+			"description": "Show number of songs played from each players anime list on the scoreboard"
+		},
+		"disable_emotes": {
+			"title": "Disable Emotes",
+			"description": "Disable emotes from being shown in chats"
+		},
+		"answer_time": {
+			"title": "Answer Time",
+			"description": "Display players answer time on their avatars"
+		},
+		"anime_link": {
+			"title": "Anime Link",
+			"description": "The anime site that's linked in song info"
+		},
+		"auto_skip_vote": {
+			"title": "Auto Skip Vote",
+			"description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
+			"guessing_phase": "Guessing Phase",
+			"replay_phase": "Replay Phase"
+		},
+		"block_non_friend_actions": {
+			"title": "Block Non-Friend Actions",
+			"description": "Block social actions from players not on your friends list",
+			"direct_messages": "Direct Messages",
+			"friend_requests": "Friend Requests",
+			"game_invites": "Game Invites"
+		},
+		"anime_names": {
+			"title": "Anime Names",
+			"description": "Default anime name shown in quizzes",
+			"english": "English",
+			"romaji": "Romaji"
+		},
+		"team_answer": {
+			"title": "Team Answers in Chat",
+			"description": "Show your team answers in the chat during team games",
+			"never": "Never",
+			"out_of_focus": "Out of Focus",
+			"always": "Always"
+		},
+		"sound_equalizing": {
+			"title": "Sound Equalizing",
+			"description": "Equalize volume levels between different songs"
+		},
+		"max_volume": {
+			"title": "Max Volume",
+			"description": "The maximum volume for sound equalizing, increasing this will increase the overall volume, but may cause quieter songs to not be fully equalized"
+		},
+		"auto_hide_video": {
+			"title": "Auto Hide Video",
+			"description": "Automatically hide the video for the selected categories, it can still be unhidden by clicking the video during the replay phase",
+			"openings": "Openings",
+			"endings": "Endings",
+			"inserts": "Inserts",
+			"unwatched": {
+				"title": "Unwatched",
+				"description": "Videos from anime you haven't watched"
+			},
+			"high_risk": {
+				"title": "High Risk",
+				"description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
+			}
+		},
+		"anime_list": {
+			"description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
+			"share_entries": {
+				"title": "Share Entries",
+				"description": "Show when a show is from your list"
+			},
+			"show_scores": {
+				"title": "Show Scores",
+				"description": "Show your anime score for shows on your list"
+			},
+			"anilist_username": "AniList Username",
+			"mal_username": "MyAnimeList Username",
+			"mal_username_short": "MAL Username",
+			"kitsu_username": "Kitsu Username",
+			"last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+			"update_messages": {
+				"update_successful": "Update Successful",
+				"update_failed": "Update Failed",
+				"list_updated": "List Updated",
+				"list_removed": "List Removed",
+				"unknown_username": "Unknown Username",
+				"mal_private": "MAL List set to private, only public lists can be synced to the game",
+				"mal_error": "Error from MAL, please try again later",
+				"anilist_error": "Unable to Retrieve List from AniList"
+			},
+			"included_entries": {
+				"title": "Included Entries",
+				"types": {
+					"watching": "Watching",
+					"completed": "Completed",
+					"on_hold": "On Hold",
+					"dropped": "Dropped",
+					"planning": "Planning"
+				}
+			}
+		},
+		"graphics": {
+			"particle_effects": {
+				"title": "Particle Effects",
+				"description": "Controls the number of particles used in effects, such as the XP animation.",
+				"levels": {
+					"off": "Off",
+					"low": "Low",
+					"high": "High"
+				}
+			},
+			"disable_floating_text": {
+				"title": "Disable Floating Text",
+				"description": "Floating text won't appear when gaining xp and notes"
+			},
+			"name_effects_friend_list": "Name Effects in Friend List"
+		},
+		"audio": {
+			"nexus": "Nexus",
+			"master": "Master",
+			"music": "Music",
+			"effects": "Effects"
+		}
+	},
+	"blocked_player_window": {
+		"title": "Blocked Player List",
+		"remove_button": "Remove"
+	},
+	"change_password_window": {
+		"title": "Change Password",
+		"current_password": "Current Password",
+		"no_current_password": "You must provide your current password",
+		"unexpected_error": "Unexpected error, please try again",
+		"error_contacting_server": "Error contacting server, please try again later",
+		"password_updated": "Password updated successfully",
+		"wrong_password": "Current password is incorrect"
 	}
 }

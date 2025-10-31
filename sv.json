@@ -331,7 +331,7 @@
 				"invalid_amount": {
 					"title": "Ogiltigt donationsbelopp",
 					"text": {
-						"MISSING-illegal": "You must enter a donation amount",
+						"MISSING-illegal": "Du måste ange ett donationsbelopp.",
 						"MISSING-minimum": "The minimum donation amount is 1€"
 					}
 				},
