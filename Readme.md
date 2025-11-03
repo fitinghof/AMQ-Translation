@@ -1,6 +1,6 @@
 # Translation Guidelines
 
-This text conatins general guidelines for the translations of AMQ to Swedish.
+This text contains general guidelines for the translations of AMQ to Swedish.
 
 Overall, it was decided to try and make the translations as Swedish as possible, avoiding "Swenglish" as far as possible. Exceptions have still been made and should be described below.
 
@@ -18,6 +18,8 @@ Note that this readme is also a work in progress.
 
 - Nexus
 - FAQ
+- Online / Offline
+- Jam
 
 ## Test Link
 

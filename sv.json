@@ -33,14 +33,14 @@
 			"play": "Spela",
 			"use_button": "Använd",
 			"claim_button": "Ta emot",
-			"MISSING-update_button": "Update",
-			"MISSING-chat": "Chat",
-			"MISSING-block": "Block",
-			"MISSING-send_friend_request": "Send Friend Request",
-			"MISSING-invite_to_game": "Invite to Game",
-			"MISSING-none": "None",
-			"MISSING-default": "Default",
-			"MISSING-delete": "Delete"
+			"update_button": "Uppdatera",
+			"chat": "Chatt",
+			"block": "Blockera",
+			"send_friend_request": "Skicka vänskapsförfrågan",
+			"invite_to_game": "Bjud in",
+			"none": "Ingen",
+			"default": "Standard",
+			"delete": "Ta bort"
 		},
 		"popout_messages": {
 			"unexpected_error": "Oväntat fel",
@@ -51,10 +51,10 @@
 			"guest_account": "Otillgängligt för gästkonton",
 			"guest_account_text": "Denna funktionen är otillgänglig för gästkonton",
 			"block_player": {
-				"MISSING-title": "Block _NAME_",
-				"MISSING-text": "You won't see messages or get friend/game invites from blocked players",
-				"MISSING-confirm": "Block",
-				"MISSING-cancel": "Cancel"
+				"title": "Blockera _NAME_",
+				"text": "Du kommer inte att se medelanden eller få vänskapsförfrågningar eller spelinbjudningar från blockerade spelare",
+				"confirm": "Blockera",
+				"cancel": "Avbryt"
 			}
 		},
 		"registration": {
@@ -238,15 +238,13 @@
 					"offline": "Tema - Offline",
 					"playing": "Tema - Pågående",
 					"completed": "Tema - Avslutat",
-					"MISSING-lobby": "Themed - Lobby Up",
-					"DELETED-lobby_up": "Tema - Lobby finns"
+					"lobby": "Themed - Lobby finns"
 				},
 				"championship": {
 					"offline": "Mästerskap - Offline",
 					"playing": "Mästerskap - Pågående",
 					"completed": "Mästerskap - Avslutat",
-					"MISSING-lobby": "Championship - Lobby Up",
-					"DELETED-lobby_up": "Mästerskap - Lobby finns"
+					"lobby": "Championship - Lobby finns"
 				}
 			},
 			"week_days": {
@@ -272,8 +270,8 @@
 				}
 			},
 			"regions": {
-				"west": { "MISSING-name": "West", "MISSING-shorthand": "W" },
-				"east": { "MISSING-name": "East", "MISSING-shorthand": "E" },
+				"west": { "name": "Väst", "shorthand": "V" },
+				"east": { "name": "Öst", "shorthand": "Ö" },
 				"central": { "MISSING-name": "Central", "MISSING-shorthand": "C" }
 			}
 		},
@@ -331,18 +329,16 @@
 				"invalid_amount": {
 					"title": "Ogiltigt donationsbelopp",
 					"text": {
-						"MISSING-illegal": "Du måste ange ett donationsbelopp.",
-						"MISSING-minimum": "The minimum donation amount is 1€"
+						"illegal": "Du måste ange ett donationsbelopp.",
+						"minimum": "Minsta donationsbelopp är 1€"
 					}
 				},
 				"donation_error": { "title": "Donationsfel" },
 				"donation_received": { "title": "Donation mottagen", "text": "Tack för att ni stödjer spelet!" },
 				"use_free_donation": { "title": "Använd gratis donation", "text": "Du får endast en gratis donation per månad" }
 			},
-			"MISSING-faq_button": "FAQ",
-			"MISSING-faq_header": "FAQ",
-			"DELETED-faq": "FAQ",
-			"DELETED-none": "Inget"
+			"faq_button": "FAQ",
+			"faq_header": "FAQ"
 		},
 		"social_rewards": {
 			"title": "Belöningar för sociala medier",
@@ -382,50 +378,50 @@
 			}
 		},
 		"friend_list": {
-			"MISSING-friends": "Friends",
-			"MISSING-total": "Total",
-			"MISSING-all": "All",
+			"friends": "Vänner",
+			"total": "Totalt",
+			"all": "Alla",
 			"statuses": {
-				"MISSING-online": "Online",
-				"MISSING-offline": "Offline",
-				"MISSING-away": "Away",
-				"MISSING-do_not_disturb": "Do Not Disturb",
-				"MISSING-invisible": "Invisible",
-				"MISSING-playing_nexus": "Playing _NAME_ Nexus",
-				"MISSING-in_nexus_lobby": "In _NAME_ Nexus Lobby",
-				"MISSING-in_lobby": "In _NAME_ Lobby",
-				"MISSING-spectating_quiz": "Spectating _NAME_ Quiz",
-				"MISSING-in_quiz": "In _NAME_ Quiz",
+				"online": "Online",
+				"offline": "Offline",
+				"away": "Borta",
+				"do_not_disturb": "Stör ej",
+				"invisible": "Osynlig",
+				"playing_nexus": "Spelar _NAME_ Nexus",
+				"in_nexus_lobby": "I _NAME_ Nexus lobby",
+				"in_lobby": "I _NAME_ lobby",
+				"spectating_quiz": "Tittar på _NAME_ quiz",
+				"in_quiz": "I _NAME_ quiz",
 				"mode_names": {
-					"MISSING-co-op": "Co-Op",
-					"MISSING-private": "Private",
-					"MISSING-jam": "Jam",
-					"MISSING-event": "Event",
-					"MISSING-solo": "Solo"
+					"co-op": "Co-Op",
+					"private": "Privat",
+					"jam": "Jam",
+					"event": "Event",
+					"solo": "Solo"
 				}
 			},
 			"options": {
-				"MISSING-report": "Report",
-				"MISSING-remove_friend": "Remove Friend",
-				"MISSING-join_game": "Join Game"
+				"report": "Anmäl",
+				"remove_friend": "Ta bort vän",
+				"join_game": "Gå med"
 			},
 			"popout_messages": {
-				"MISSING-not_in_game": "You are not in a game",
-				"MISSING-solo_game_invite": "Can't invite players to solo games"
+				"not_in_game": "Du är inte i en match",
+				"solo_game_invite": "Du kan inte bjuda in spelare till solo spel"
 			}
 		},
 		"menu": {
-			"MISSING-patreon": "Patreon",
-			"MISSING-donate": "Donate",
-			"MISSING-song_history": "Song History",
-			"MISSING-settings": "Settings",
-			"MISSING-blocked_players": "Blocked Players",
-			"MISSING-change_password": "Change Password",
-			"MISSING-leaderboard": "Leaderboard",
-			"MISSING-tutorial": "Tutorial",
-			"MISSING-guidelines": "Guidelines",
-			"MISSING-about": "About",
-			"MISSING-logout": "Logout"
+			"patreon": "Patreon",
+			"donate": "Donera",
+			"song_history": "Låt historik",
+			"settings": "Inställningar",
+			"blocked_players": "Blockerade spelare",
+			"change_password": "Byt lösenord",
+			"leaderboard": "Topplista",
+			"tutorial": "Instruktioner",
+			"guidelines": "Riktlinjer",
+			"about": "Om",
+			"logout": "Logga ut"
 		},
 		"video_host": {
 			"MISSING-title": "Video Host Connections",
