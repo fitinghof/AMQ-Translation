@@ -178,7 +178,7 @@
         },
         "carousel": {
             "social_promo": "Få gratis biljetter genom att följa AMQ på Discord och Patreon.",
-            "patreon_promo": "Stödj spelet och lås upp exklusiva belöningar.",
+            "patreon_promo": "Stöd spelet och lås upp exklusiva belöningar.",
             "sale_names": {
                 "fall": "Höstrea!",
                 "summer": "Sommarrea!",
@@ -203,8 +203,7 @@
                 "valentine": "Alla hjärtans dag utklädnader",
                 "summer_games": "Sommarspels-utklädnader"
             },
-            "skin_footer": "Tillgängliga nu",
-            "DELETED-skin_text": "Få exklusiva utklädnader för att stödja AMQ!"
+            "skin_footer": "Tillgängliga nu"
         },
         "quiz_of_the_day": {
             "title": "Dagens quiz",
@@ -677,14 +676,14 @@
         }
     },
     "setting_window": {
-        "MISSING-title": "Settings",
+        "title": "Inställningar",
         "tabs": {
-            "MISSING-game": "Game",
-            "MISSING-anime_list": "Anime List",
-            "MISSING-graphics": "Graphics",
-            "MISSING-audio": "Audio"
+            "game": "Spel",
+            "anime_list": "Animelista",
+            "graphics": "Grafik",
+            "audio": "Ljud"
         },
-        "MISSING-language": "Language",
+        "language": "Språk",
         "auto_submit": {
             "MISSING-title": "Auto Submit",
             "MISSING-description": "Automatically submit your answer when the guess time runs out"
@@ -764,20 +763,20 @@
                 "MISSING-title": "Show Scores",
                 "MISSING-description": "Show your anime score for shows on your list"
             },
-            "MISSING-anilist_username": "AniList Username",
-            "MISSING-mal_username": "MyAnimeList Username",
-            "MISSING-mal_username_short": "MAL Username",
-            "MISSING-kitsu_username": "Kitsu Username",
-            "MISSING-last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+            "anilist_username": "AniList användarnamn",
+            "mal_username": "MyAnimeList användarnamn",
+            "mal_username_short": "MAL användarnamn",
+            "kitsu_username": "Kitsu användarnamn",
+            "last_updated": "_BOLD_ Senast uppdaterad: _BOLD_ _SPAN_ _DATE_ _SPAN_",
             "update_messages": {
-                "MISSING-update_successful": "Update Successful",
-                "MISSING-update_failed": "Update Failed",
-                "MISSING-list_updated": "List Updated",
-                "MISSING-list_removed": "List Removed",
-                "MISSING-unknown_username": "Unknown Username",
-                "MISSING-mal_private": "MAL List set to private, only public lists can be synced to the game",
-                "MISSING-mal_error": "Error from MAL, please try again later",
-                "MISSING-anilist_error": "Unable to Retrieve List from AniList"
+                "update_successful": "Uppdateringen lyckades",
+                "update_failed": "Uppdateringen misslyckades",
+                "list_updated": "Listan har uppdaterats",
+                "list_removed": "Listan har tagits bort",
+                "unknown_username": "Okänt användarnamn",
+                "mal_private": "MAL-listan är satt som privat. Endast offentliga listor kan synkas med spelet.",
+                "mal_error": "Fel från MAL, vänligen försök igen senare",
+                "anilist_error": "Kunde inte hämta lista från AniList"
             },
             "included_entries": {
                 "MISSING-title": "Included Entries",
@@ -792,38 +791,38 @@
         },
         "graphics": {
             "particle_effects": {
-                "MISSING-title": "Particle Effects",
-                "MISSING-description": "Controls the number of particles used in effects, such as the XP animation.",
+                "title": "Partikeleffekter",
+                "description": "Kontrollerar antalet partiklar som används i effekter, exempelvis XP-animationen.",
                 "levels": {
-                    "MISSING-off": "Off",
-                    "MISSING-low": "Low",
-                    "MISSING-high": "High"
+                    "off": "Av",
+                    "low": "Låg",
+                    "high": "Hög"
                 }
             },
             "disable_floating_text": {
-                "MISSING-title": "Disable Floating Text",
-                "MISSING-description": "Floating text won't appear when gaining xp and notes"
+                "title": "Inaktivera flytande text",
+                "description": "Flytande text kommer inte att visas när du får XP och noter"
             },
-            "MISSING-name_effects_friend_list": "Name Effects in Friend List"
+            "name_effects_friend_list": "Namneffekter i vänlistan"
         },
         "audio": {
-            "MISSING-nexus": "Nexus",
-            "MISSING-master": "Master",
-            "MISSING-music": "Music",
-            "MISSING-effects": "Effects"
+            "nexus": "Nexus",
+            "master": "Master",
+            "music": "Musik",
+            "effects": "Effekter"
         }
     },
     "blocked_player_window": {
-        "MISSING-title": "Blocked Player List",
-        "MISSING-remove_button": "Remove"
+        "title": "Lista av blockerade spelare",
+        "remove_button": "Ta bort"
     },
     "change_password_window": {
-        "MISSING-title": "Change Password",
-        "MISSING-current_password": "Current Password",
-        "MISSING-no_current_password": "You must provide your current password",
-        "MISSING-unexpected_error": "Unexpected error, please try again",
-        "MISSING-error_contacting_server": "Error contacting server, please try again later",
-        "MISSING-password_updated": "Password updated successfully",
-        "MISSING-wrong_password": "Current password is incorrect"
+        "title": "Ändra lösenord",
+        "current_password": "Nuvarande lösenord",
+        "no_current_password": "Du måste ange ditt nuvarande lösenord",
+        "unexpected_error": "Oväntat fel, vänligen försök igen",
+        "error_contacting_server": "Fel vid kontakt med servern, vänligen försök igen senare",
+        "password_updated": "Uppdatering av lösenord lyckades",
+        "wrong_password": "Nuvarande lösenord är felaktigt"
     }
 }
