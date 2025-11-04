@@ -52,7 +52,7 @@
 			"guest_account_text": "Denna funktionen är otillgänglig för gästkonton",
 			"block_player": {
 				"title": "Blockera _NAME_",
-				"text": "Du kommer inte att se medelanden eller få vänskapsförfrågningar eller spelinbjudningar från blockerade spelare",
+				"text": "Du kommer inte att se meddelanden eller få vänskapsförfrågningar eller spelinbjudningar från blockerade spelare",
 				"confirm": "Blockera",
 				"cancel": "Avbryt"
 			}
@@ -238,13 +238,13 @@
 					"offline": "Tema - Offline",
 					"playing": "Tema - Pågående",
 					"completed": "Tema - Avslutat",
-					"lobby": "Themed - Lobby finns"
+					"lobby": "Tema - Lobby finns"
 				},
 				"championship": {
 					"offline": "Mästerskap - Offline",
 					"playing": "Mästerskap - Pågående",
 					"completed": "Mästerskap - Avslutat",
-					"lobby": "Championship - Lobby finns"
+					"lobby": "Mästerskap - Lobby finns"
 				}
 			},
 			"week_days": {
@@ -413,7 +413,7 @@
 		"menu": {
 			"patreon": "Patreon",
 			"donate": "Donera",
-			"song_history": "Låt historik",
+			"song_history": "Låthistorik",
 			"settings": "Inställningar",
 			"blocked_players": "Blockerade spelare",
 			"change_password": "Byt lösenord",
