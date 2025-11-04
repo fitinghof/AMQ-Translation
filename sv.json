@@ -1,772 +1,829 @@
 {
-	"meta": {
-		"language_name": "Swedish",
-		"language_name_native": "Svenska",
-		"language_code": "sv",
-		"creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster), Oscar Andersson (6FacedWorldGuru), Pengvinen, Moo"
-	},
-	"common": {
-		"ui": {
-			"translation_coverage": "Översättningstäckning",
-			"translation_by": "Översättning av",
-			"username": "Användarnamn",
-			"password": "Lösenord",
-			"email": "E-post",
-			"repeat_password": "Upprepa lösenord",
-			"back_button": "Tillbaka",
-			"resend_button": "Skicka om",
-			"register_button": "Registrera",
-			"change_button": "Ändra",
-			"logout_button": "Logga ut",
-			"confirm_button": "Acceptera",
-			"continue_button": "Fortsätt",
-			"ok_button": "OK",
-			"cancel_button": "Avbryt",
-			"load_button": "Ladda",
-			"new_password": "Nytt lösenord",
-			"repeat_new_password": "Upprepa nytt lösenord",
-			"contact": "Kontakt",
-			"socials": "Sociala medier",
-			"legal": "Juridiskt",
-			"community_translations": "Gemenskapsöversättningar",
-			"loading": "Laddar",
-			"play": "Spela",
-			"use_button": "Använd",
-			"claim_button": "Ta emot",
-			"update_button": "Uppdatera",
-			"chat": "Chatt",
-			"block": "Blockera",
-			"send_friend_request": "Skicka vänskapsförfrågan",
-			"invite_to_game": "Bjud in",
-			"none": "Ingen",
-			"default": "Standard",
-			"delete": "Ta bort"
-		},
-		"popout_messages": {
-			"unexpected_error": "Oväntat fel",
-			"please_try_again": "Var vänlig och försök igen",
-			"error_contacting_server": "Fel vid kontakt av server",
-			"internal_server_error": "Internt serverfel",
-			"down_for_maintenance": "Servern nere för underhåll",
-			"guest_account": "Otillgängligt för gästkonton",
-			"guest_account_text": "Denna funktionen är otillgänglig för gästkonton",
-			"block_player": {
-				"title": "Blockera _NAME_",
-				"text": "Du kommer inte att se meddelanden eller få vänskapsförfrågningar eller spelinbjudningar från blockerade spelare",
-				"confirm": "Blockera",
-				"cancel": "Avbryt"
-			}
-		},
-		"registration": {
-			"terms_of_service": "Du måste acceptera användarvillkoren för att registrera",
-			"no_username": "Inget användarnamn angivet",
-			"username_length": "Användarnamn får inte vara över 16 tecken",
-			"invalid_username": "Användarnamn får endast innehålla bokstäver, siffror och understräck",
-			"amq_username": "Användarnamnet \"AMQ\" är reserverat och kan inte användas",
-			"password_too_short": "Lösenordet måste vara minst 5 tecken",
-			"password_too_long": "Lösenord får som högst vara 9999 tecken",
-			"passwords_not_matching": "Lösenorden matchar inte",
-			"no_email": "Ingen e-postadress angiven",
-			"invalid_email": "Ogiltig e-postadress",
-			"no_country": "Inget bosättningsland angett",
-			"disabled": "Registrering är avstängd",
-			"unknown_country": "Okänt bosättningsland",
-			"username_taken": "Användarnamnet är redan taget",
-			"email_taken": "E-postadressen är redan registrerad",
-			"email_sent": "Verifieringsmejl har skickats till _EMAIL_",
-			"email_length": "E-postadressen får max vara 255 tecken",
-			"account_created": "Kontot _NAME_ har skapats"
-		},
-		"guest_account": {
-			"title": "Gästkonto",
-			"click_to_register": "Klicka här för att slutföra registrering",
-			"complete_registration": "Slutför registrering",
-			"complete_registration_message": "För att slutföra registreringen, var vänlig verifiera din e-postadress genom att klicka på länken som har skickats till _BOLD_ _EMAIL_ _BOLD_"
-		}
-	},
-	"login_page": {
-		"ui": {
-			"play_now": "Spela nu",
-			"login": "Logga in",
-			"send_button": "Skicka",
-			"return_to_login": "Återgå till inloggningen",
-			"stay_signed_in": "Förbli inloggad",
-			"forgot_password": "Glömt lösenord?",
-			"forgot_username": "Glömt användarnamn?",
-			"country_of_residence": "Bosättningsland",
-			"agree_terms_of_service": "Jag godkänner _LINK_ användarvillkoren _LINK_",
-			"start_playing_now": "Börja spela nu"
-		},
-		"popout_messages": {
-			"create_guest_account": {
-				"title": "Skapa gästkonto",
-				"text": "Genom att skapa ett gästkonto godkänner du _LINK_ Användarvillkoren _LINK_ och _LINK_ Sekretesspolicyn _LINK_.",
-				"error_title": "Fel vid skapande av gästkonto",
-				"error_disabled": "Gästkonton är inaktiverade"
-			},
-			"select_country": "Vänligen ange ditt bosättningsland",
-			"country_error": "Fel vid registrering av land",
-			"already_online": {
-				"title": "Kontot är redan inloggat",
-				"text": "Fortsätt inloggning och logga ut från de andra sessionerna"
-			},
-			"guest_timeout": "Gästkontot har gått ut, vänligen skapa ett nytt"
-		},
-		"text": {
-			"create_account": "Skapa konto",
-			"recover_username_title": "Hämta användarnamn",
-			"recover_username_text": "Ange den e-postadress som användes för att registrera ditt konto för att få ditt användarnamn skickat dit.",
-			"forgot_password_title": "Glömt lösenord",
-			"forgot_password_text": "Ange den e-postadress som användes för att registrera ditt konto för att få en länk för återställning av lösenord skickad dit.",
-			"reset_password_title": "Återställ lösenord",
-			"missing_information": "Saknas kontoinformation",
-			"missing_country": "Kontot saknar information om ditt bosättningsland, vänligen välj det nedan.",
-			"promo_title": "Nummer 1 anime musikquiz!",
-			"promo_one": {
-				"title": "Oändligt antal quiz",
-				"line_one": "35,000+ låtar från 8,000+ anime",
-				"line_two": "Varje quiz genereras unikt",
-				"line_three": "Skräddarsydda quiz från din MyAnimeList, AniList eller Kitsu",
-				"line_four": "Gratis att spela"
-			},
-			"promo_two": {
-				"title": "Spela på ditt sätt",
-				"line_one": "Med vänner",
-				"line_two": "Utmana dig själv",
-				"line_three": "Klättra upp i rankningen",
-				"line_four": "Utforska Dungeon Crawler-läget"
-			},
-			"login_queue": {
-				"title": "Inloggningskö",
-				"text": "Inloggningsservern har hög belastning, du kommer att loggas in inom kort",
-				"position": "Din plats i kön: _SPAN_ 0 _SPAN_"
-			}
-		},
-		"messages": {
-			"account_verified": "Kontot är verifierat, du kan nu logga in",
-			"account_verified_guest": "Kontot är verifierat, du kan nu stänga den här fliken",
-			"verification_error": "Fel vid verifiering av konto: Ett oväntat fel har inträffat",
-			"unknown_reset_code": "Okänd återställningskod",
-			"wrong_username_password": "Felaktigt användarnamn eller lösenord",
-			"email_sent": "E-post skickat",
-			"password_updated": "Lösenord uppdaterat"
-		},
-		"account_verification": {
-			"title": "Kontoverifiering",
-			"text_one": "_SPAN_ Kontot är inte verifierat _SPAN_, vänligen verifiera din e-postadress genom att klicka på länken som skickades till _BOLD_ _EMAIL_ _BOLD_.",
-			"text_two": "Har du inte fått e-postmeddelandet? Vänta upp till en minut på att det ska komma och kontrollera skräppostmappen. Om du fortfarande inte fått e-postmeddelandet kan du skicka det igen eller ändra e-postadress med fältet nedan."
-		},
-		"banned_messages": {
-			"title_temp": "Kontot är tillfälligt avstängt",
-			"title_ban": "Kontot är avstängt",
-			"text_one": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
-			"text_two": "Ditt konto har markerats av en moderator för brott mot användarvillkoren och du har därför blivit avstängd. Du borde ha fått ett e-postmeddelande som förklarar varför du blev avstängd.",
-			"text_three": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
-			"text_temp": "Eftersom detta är din första överträdelse har ditt konto endast blivit tillfälligt avstängt. Om du däremot fortsätter fuska efter att avstängningen har upphört kommer ditt konto att bli permanent avstängt.",
-			"text_perm": "Eftersom detta är din andra överträdelse har ditt konto blivit permanent avstängt.",
-			"text_end": "Om du anser att denna avstängning är ett misstag kan du skapa en supportticket på spelets _LINK_ Discord _LINK_ i kanalen #open-a-ticket.",
-			"suspended_until": "Avstängd till"
-		}
-	},
-	"main_menu": {
-		"ui": {
-			"news": "Nyheter",
-			"stay_connected": "Håll kontakten",
-			"merch_store": "Merchbutik",
-			"song_library": "Låtbibliotek",
-			"leaderboard": "Topplista"
-		},
-		"carousel": {
-			"social_promo": "Få gratis biljetter genom att följa AMQ på Discord och Patreon.",
-			"patreon_promo": "Stödj spelet och lås upp exklusiva belöningar.",
-			"sale_names": {
-				"fall": "Höstrea!",
-				"summer": "Sommarrea!",
-				"winter": "Vinterrea!",
-				"spring": "Vårrea!",
-				"halloween": "Halloweenrea!",
-				"christmas": "Julrea!",
-				"lunar": "Månfestivalrea!",
-				"valentine": "Alla hjärtans dag rea!",
-				"summer_games": "Sommarspelsrea!"
-			},
-			"sale_text": "Få mest för pengarna!",
-			"skin_header": "Exklusiva",
-			"skin_seasons": {
-				"spring": "Vårutklädnader",
-				"summer": "Sommarutklädnader",
-				"fall": "Höstutklädnader",
-				"winter": "Vinterutklädnader",
-				"halloween": "Halloweenutklädnader",
-				"christmas": "Julutklädnader",
-				"lunar": "Månfestival-utklädnader",
-				"valentine": "Alla hjärtans dag utklädnader",
-				"summer_games": "Sommarspels-utklädnader"
-			},
-			"skin_footer": "Tillgängliga nu",
-			"DELETED-skin_text": "Få exklusiva utklädnader för att stödja AMQ!"
-		},
-		"quiz_of_the_day": {
-			"title": "Dagens quiz",
-			"time_slots": "Tidsluckor för quiz",
-			"weekly_schedule": "Veckoschema",
-			"current_week": "Aktuell vecka",
-			"what_is": "Vad är Dagens quiz?",
-			"what_is_description": "Dagens quiz är ett dagligen återkommande quiz med obegränsat antal deltagare, där spelare kan testa sina kunskaper mot resten av gemenskapen. Det är för närvarande uppdelat i tävlingsinriktade quiz med svårt motstånd från AMQs bästa, och tema quiz som innehåller olika gemenskaps quiz utformade för att ge en unik och rolig upplevelse.",
-			"ranked_description": "Beskrivning för tävlingsinriktat",
-			"week": "Vecka _NUMBER_",
-			"week_year": "vecka _NUMBER_ av _NUMBER_",
-			"championship": "Mästerskap",
-			"championship_description": "De 150 högst rankade spelarna under månaden gör upp om chansen att bli månadens mästare!",
-			"rest_day": "Vilodag",
-			"rest_day_description": "Det finns inga quiz dagen efter mästerskapet.",
-			"ranked": "Tävlingsinriktat",
-			"ranked_finished": "Avslutat",
-			"ranked_types": {
-				"novice": { "title": "Nybörjare", "description": "45 låtar riktade mot nya spelare" },
-				"expert": { "title": "Expert", "description": "85 låtar riktade mot erfarna spelare. Ger fler poäng" }
-			},
-			"states": {
-				"ranked": {
-					"offline": "Tävlingsinriktat - Offline",
-					"lobby": "Tävlingsinriktat - Lobby finns",
-					"playing": "Tävlingsinriktat - Pågående",
-					"completed": "Tävlingsinriktat - Avslutat",
-					"rest_day": "Tävlingsinriktat - Vilodag"
-				},
-				"themed": {
-					"offline": "Tema - Offline",
-					"playing": "Tema - Pågående",
-					"completed": "Tema - Avslutat",
-					"lobby": "Tema - Lobby finns"
-				},
-				"championship": {
-					"offline": "Mästerskap - Offline",
-					"playing": "Mästerskap - Pågående",
-					"completed": "Mästerskap - Avslutat",
-					"lobby": "Mästerskap - Lobby finns"
-				}
-			},
-			"week_days": {
-				"monday": "Måndag",
-				"tuesday": "Tisdag",
-				"wednesday": "Onsdag",
-				"thursday": "Torsdag",
-				"friday": "Fredag",
-				"saturday": "Lördag",
-				"sunday": "Söndag"
-			},
-			"popout_messages": {
-				"weekly_quiz": {
-					"title": "Schema för veckans quiz",
-					"text": "Se schemat för veckans quiz och mer info om spelläget"
-				},
-				"region_time": { "text": "Region och tid till nästa quiz" }
-			},
-			"alerts": {
-				"ranked_rules": {
-					"title": "Regler för tävlingsinriktat",
-					"text": "Genom att spela tävlingsinriktat går du med på att inte dela ledtrådar eller svar med andra spelare eller använda några verktyg, metoder eller mjukvaror som ger dig en orättvis fördel."
-				}
-			},
-			"regions": {
-				"west": { "name": "Väst", "shorthand": "V" },
-				"east": { "name": "Öst", "shorthand": "Ö" },
-				"central": { "MISSING-name": "Central", "MISSING-shorthand": "C" }
-			}
-		},
-		"ranked_description": {
-			"title": "Tävlingsinriktatläge",
-			"description": "Utmana dig själv mot dina vänner och mot AMQ gemenskapen genom att gå med i tävlingsinriktade spel. Varje tävlingsinriktat spel ger dig poäng vilket låser upp exclusiva belöningar och tar dig närmare att gå med de bästa av de bästa i regions mästarskapet som körs i slutet av varje månad. _BREAK_ Notera att ditt konto måste vara level 10 eller högre för att delta i tävlingsinriktade matcher.",
-			"how_it_works": "Hur det går till",
-			"regions": "Regioner",
-			"region_description": "Det tävlingsinriktade läget är uppdelat i tre olika regioner (väst, centralt, öst), varje med sin egna toplista, startid och mästerskap. Du kan delta i alla regioner men poäng räknas endast till den region du tävlade i",
-			"ranked_game": "Tävlingsinriktat spel",
-			"ranked_game_description_one": "30 minuter innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expertrummet är riktat mot tävlingsinriktade och mer hardcore spelare och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
-			"ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjarrummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expertrummet ökar mängden poäng baserat på hur många korrekta gissningar du fått. De första 5 korrekta gissningarna ger 5 poäng var, nästa 5 ger 6 poäng var, nästa ger 7 poäng var och så vidare.",
-			"end_of_season": "Säsongsslut",
-			"end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
-			"rules": "Regler",
-			"rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet, därav är viktigt att inte dela ledtrådar eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spellägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir bannlyst och dina tävlingsinriktade belöningar tas bort."
-		},
-		"avatar_drive": {
-			"standings": "Placeringar",
-			"recent": "Senast",
-			"weekly": "Vecka",
-			"weekly_short": "V",
-			"monthly": "Månad",
-			"monthly_short": "M",
-			"all_time": "Alltid",
-			"all_time_short": "A",
-			"donate": "Donera",
-			"amount": "Belopp",
-			"description": "Donera för att bestämma vem nästa avatar blir! När insamlingen avslutas kommer avataren som ligger i topp att läggas till i spelet. Observera att insamlingen fortsätter några dagar efter att målet har uppnåtts.",
-			"faq_what_is": {
-				"title": "Vad är avatarinsamlingen?",
-				"text": "Avatarinsamlingen är ditt sätt att stödja spelet samtidigt som du påverkar vilka framtida avatarer som kommer att läggas till. Systemet är enkelt: när du donerar kan du välja att stödja en befintlig avatar i avatarinsamlingen eller nominera en ny. Det donerade beloppet läggs till den avatarens poäng, och när insamlingsmålet uppnås kommer avataren med högst poäng att läggas till spelet som en framtida avatar."
-			},
-			"faq_nomination_type": {
-				"title": "Vilka typer av avatarer kan jag nominera?",
-				"text": "Du kan nominera vilken typ av avatar som helst, såvida den passar in i spelet och inte är kränkande eller olaglig. Alla nomineringar granskas och kan nekas om de inte följer riktlinjerna ovan."
-			},
-			"faq_existing_avatar": {
-				"title": "Kan jag nominera en befintlig karaktär?",
-				"text": "Du är mer än välkommen att nominera befintliga avatarer till avatarinsamlingen. Om en redan existerande avatar vinner insamlingen kommer en ny utklädnad att läggas till för avataren. Du får gärna specificera vad du vill att utklädnaden ska bli. Låt oss säga att du vill ge Hibiki en ninja dräkt, då kan du skriva \"Ninja Hibiki\"."
-			},
-			"donate_towards": "Donera till",
-			"nominated_avatar": "Nominerad avatar",
-			"new_avatar": "Ny avatar",
-			"avatar_description": "Avatarbeskrivning",
-			"avatar_description_placeholder": "Kort beskrivning av avataren",
-			"nomination": "Nominering",
-			"anonymous_donation": "Anonym donation",
-			"free_donation": "Använd gratis donation",
-			"free_donation_amount": "Belopp: _NUMBER_€",
-			"approx_dollars": "Cirka. $",
-			"checkout": "Utcheckning",
-			"popover": { "no_free_donation": "Din gratis donation är redan använd denna månaden" },
-			"alerts": {
-				"invalid_amount": {
-					"title": "Ogiltigt donationsbelopp",
-					"text": {
-						"illegal": "Du måste ange ett donationsbelopp.",
-						"minimum": "Minsta donationsbelopp är 1€"
-					}
-				},
-				"donation_error": { "title": "Donationsfel" },
-				"donation_received": { "title": "Donation mottagen", "text": "Tack för att ni stödjer spelet!" },
-				"use_free_donation": { "title": "Använd gratis donation", "text": "Du får endast en gratis donation per månad" }
-			},
-			"faq_button": "FAQ",
-			"faq_header": "FAQ"
-		},
-		"social_rewards": {
-			"title": "Belöningar för sociala medier",
-			"description": "Som ett tack för att du följer spelets Discord och Patreon kan du hämta en belöning på 8 biljetter efter att du följt varje. Se till att gå med i __LINK__ Discord-servern __LINK__ innan du hämtar Discord belöningen. __BREAK__ Se till att du går med i (gratis) eller stödjer __LINK__ Patreon __LINK__ innan du hämtar Patreon belöningen."
-		},
-		"game_mode": {
-			"title": "Spelläge",
-			"solo": { "title": "Solo", "description": "Utmana dig själv med en obegränsad mängd personliga och unika quiz" },
-			"multiplayer": { "title": "Flera spelare", "description": "Spela unika quiz med vänner eller andra animefans" },
-			"community": {
-				"title": "Gemenskap",
-				"description": "Spela quizzes skapade av dina vänner eller AMQ gemenskapen"
-			},
-			"jam": { "title": "Jamquiz", "description": "Ett oändligt quiz där spelare kan hoppa in och ut närsomhelst" },
-			"nexus": {
-				"title": "Nexus",
-				"description": "Utmana Nexuskryptan, ett unikt roguelike spelläge, kan spelas solo eller med vänner"
-			}
-		}
-	},
-	"menu_bar": {
-		"settings": {
-			"language": {
-				"custom": "Anpassat",
-				"custom_description": "Ladda upp en översättingsfil för att testa i spelet",
-				"custom_title": "Anpassad språkfil",
-				"custom_placeholder": "URL till översättingsfil",
-				"custom_alert_description": "Förse URL:en till språkfilen",
-				"custom_failed_to_load": {
-					"title": "Misslyckades att ladda den anpassade språkfilen",
-					"text": "Kunde inte ladda den anpassade språkfilen från den försedda URL:en."
-				},
-				"custom_wrong_format": {
-					"title": "Lokaliseringsfil formatfel",
-					"text": "Den försedda språkfilen är inte i ett korrekt format. Se konsolen i webbläsaren för mer detaljer."
-				}
-			}
-		},
-		"friend_list": {
-			"friends": "Vänner",
-			"total": "Totalt",
-			"all": "Alla",
-			"statuses": {
-				"online": "Online",
-				"offline": "Offline",
-				"away": "Borta",
-				"do_not_disturb": "Stör ej",
-				"invisible": "Osynlig",
-				"playing_nexus": "Spelar _NAME_ Nexus",
-				"in_nexus_lobby": "I _NAME_ Nexus lobby",
-				"in_lobby": "I _NAME_ lobby",
-				"spectating_quiz": "Tittar på _NAME_ quiz",
-				"in_quiz": "I _NAME_ quiz",
-				"mode_names": {
-					"co-op": "Co-Op",
-					"private": "Privat",
-					"jam": "Jam",
-					"event": "Event",
-					"solo": "Solo"
-				}
-			},
-			"options": {
-				"report": "Anmäl",
-				"remove_friend": "Ta bort vän",
-				"join_game": "Gå med"
-			},
-			"popout_messages": {
-				"not_in_game": "Du är inte i en match",
-				"solo_game_invite": "Du kan inte bjuda in spelare till solo spel"
-			}
-		},
-		"menu": {
-			"patreon": "Patreon",
-			"donate": "Donera",
-			"song_history": "Låthistorik",
-			"settings": "Inställningar",
-			"blocked_players": "Blockerade spelare",
-			"change_password": "Byt lösenord",
-			"leaderboard": "Topplista",
-			"tutorial": "Instruktioner",
-			"guidelines": "Riktlinjer",
-			"about": "Om",
-			"logout": "Logga ut"
-		},
-		"video_host": {
-			"MISSING-title": "Video Host Connections",
-			"MISSING-description": "Connection status to the different video servers",
-			"MISSING-click_to_retest": "Click to retest connection",
-			"MISSING-speed": "Speed: _SPANC_ _NUMBER_  _SPANC_",
-			"connection_status": {
-				"MISSING-good": "Good",
-				"MISSING-okay": "Okay",
-				"MISSING-poor": "Poor",
-				"MISSING-bad": "Bad"
-			}
-		}
-	},
-	"player_profile": {
-		"MISSING-profile_image": "Profile Image",
-		"MISSING-avatar": "Avatar",
-		"MISSING-no_badges": "No Badges",
-		"MISSING-profile": "Profile",
-		"MISSING-special_badges": "Special Badges",
-		"MISSING-standard_badges": "Standard Badges",
-		"MISSING-name_effects": "Name Effects",
-		"MISSING-name_color": "Name Color",
-		"MISSING-name_glow": "Name Glow",
-		"MISSING-hidden": "Hidden",
-		"MISSING-account_creation": "Account Creation",
-		"MISSING-songs_played": "Songs Played",
-		"MISSING-guess_rate": "Guess Rate",
-		"MISSING-options": "Options",
-		"MISSING-edit": "Edit",
-		"MISSING-change_nickname": "Change Nickname",
-		"change_nickname_modal": {
-			"MISSING-description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you’re a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
-			"MISSING-current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
-			"MISSING-check_availability": "Check Availability"
-		},
-		"alerts": {
-			"MISSING-error_getting_profile": "Error Getting Player Profile",
-			"MISSING-unknown_player": "Unknown Player"
-		},
-		"name_effects_entries": {
-			"challenger_color": {
-				"MISSING-name": "Challenger",
-				"MISSING-description": "Unlocked for players who qualified for last month ranked championship"
-			},
-			"challenger_glow": {
-				"MISSING-name": "Challenger",
-				"MISSING-description": "Unlocked for players who got top 50 in last month ranked championship"
-			},
-			"patreon_color": {
-				"MISSING-name": "Patreon",
-				"MISSING-description": "Unlocked for level 3 or higher Patreon backers"
-			},
-			"patreon_glow": {
-				"MISSING-name": "Patreon",
-				"MISSING-description": "Unlocked for level 4 or higher Patreon backers"
-			},
-			"MISSING-month_patreon_current": "Unlocked for level 5 Patreon backers who back this month, and level 6 backers",
-			"MISSING-month_patreon_previous": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers",
-			"MISSING-month_patreon_previous_unlocked": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers. You backed during the release month."
-		}
-	},
-	"badges": {
-		"ranked": {
-			"MISSING-name": "Ranked _TIER_ _YEAR_ _NUMBER_",
-			"MISSING-name_result": "Ranked _TIER_ _YEAR_",
-			"MISSING-description": "Got _TIER_ tier in the _YEAR_ ranked season _NUMBER_",
-			"MISSING-description_result": "Got _TIER_ tier for the _YEAR_ ranked seasons",
-			"tiers": {
-				"MISSING-bronze": "Bronze",
-				"MISSING-silver": "Silver",
-				"MISSING-gold": "Gold",
-				"MISSING-platinum": "Platinum",
-				"MISSING-diamond": "Diamond"
-			}
-		},
-		"champion": {
-			"name": {
-				"MISSING-first": "Ranked Champion _YEAR_ _NUMBER_",
-				"MISSING-second": "Ranked Second Place _YEAR_ _NUMBER_",
-				"MISSING-third": "Ranked Third Place _YEAR_ _NUMBER_"
-			},
-			"description": {
-				"MISSING-first": "Won the _YEAR_ season _NUMBER_ championship",
-				"MISSING-second": "Ranked Second Place in the _YEAR_ season _NUMBER_ championship",
-				"MISSING-third": "Ranked Third Place in the _YEAR_ season _NUMBER_ championship"
-			}
-		},
-		"challenger": {
-			"name": {
-				"MISSING-top": "Ranked Expert _YEAR_ _NUMBER_",
-				"MISSING-mid": "Ranked Up-and-Coming _YEAR_ _NUMBER_",
-				"MISSING-qualified": "Ranked Challenger _YEAR_ _NUMBER_"
-			},
-			"description": {
-				"MISSING-qualified": "Qualified for the _YEAR_ season _NUMBER_ championship",
-				"MISSING-top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
-			}
-		},
-		"patreon": {
-			"name": {
-				"MISSING-start": "Patreon Backer",
-				"MISSING-month": "_NUMBER_ Months Patreon Backer",
-				"MISSING-one_year": "1 Year Patreon Backer",
-				"MISSING-multiple_years": "_NUMBER_ Years Patreon Backer"
-			},
-			"MISSING-description": "AMQ Patreon Backer"
-		},
-		"avatar": { "MISSING-name": "_NAME_ Badge", "MISSING-description": "Unlock 10 skins/recolors for _NAME_" },
-		"mod": {
-			"name": { "MISSING-game": "AMQ Moderator", "MISSING-jam": "AMQ Jam Mode Moderator" },
-			"description": {
-				"MISSING-game": "Part of the AMQ Moderator team",
-				"MISSING-jam": "Part of the AMQ Jam Mode Moderator team"
-			}
-		},
-		"aragaimu": {
-			"name": {
-				"MISSING-participant": "Aragaimu _YEAR_ Participant",
-				"MISSING-top32": "Aragaimu _YEAR_ Top 32",
-				"MISSING-top4": "Aragaimu _YEAR_ Top 4"
-			},
-			"description": {
-				"MISSING-participant": "Participated in the Aragaimu _YEAR_ tournament",
-				"MISSING-top32": "Got Top 32 in the Aragaimu _YEAR_ tournament",
-				"MISSING-top4": "Got Top 4 in the Aragaimu _YEAR_ tournament"
-			}
-		}
-	},
-	"patreon_window": {
-		"MISSING-title": "Patreon",
-		"MISSING-description": "Help support the operation and development of AMQ by backing the game on Patreon. Working on and sharing AMQ with you all has been and is an amazing experience, and I have so much more I want to do with the game. By backing the Patreon you'll help me not only cover the costs of running the game, but also continue its development! As a special thanks, you'll get several exclusive rewards!",
-		"reward_examples": {
-			"MISSING-title": "Some of the Patreon Rewards",
-			"MISSING-sneak_peeks": "Sneak Peeks",
-			"MISSING-patreon_badge": "Patreon Badges",
-			"MISSING-custom_emotes": "Custom Emotes",
-			"MISSING-monthly_tickets": "Monthly Tickets"
-		},
-		"MISSING-already_a_backer": "Already a Backer?",
-		"MISSING-link_account": "Link Patreon Account",
-		"MISSING-become_a_backer": "Become a Backer",
-		"MISSING-patreon_linked": "Patreon Linked!",
-		"backer_level": {
-			"MISSING-title": "Backer Level",
-			"MISSING-tier": "Level _NUMBER_",
-			"rewards": { "MISSING-emotes": "_NUMBER_ Emotes", "MISSING-tickets": "_NUMBER_ Tickets" }
-		},
-		"MISSING-badge_level": "Badge Level",
-		"MISSING-badge_level_info": "Your badge level is equal to the concurrent months you've been a level 2 or higher backer of the Patreon",
-		"MISSING-patreon_page": "Patreon Page",
-		"MISSING-relink": "Relink",
-		"MISSING-update_info": "Update Info",
-		"MISSING-unlink_account": "Unlink Account",
-		"MISSING-linked_account": "Linked Account",
-		"emotes": {
-			"MISSING-title": "Emotes",
-			"MISSING-upload": "Upload",
-			"MISSING-close": "Close",
-			"MISSING-manage": "Manage",
-			"MISSING-empty": "Empty",
-			"states": {
-				"waiting_approval": { "MISSING-name": "Waiting Approval", "MISSING-shorthand": "W" },
-				"active": { "MISSING-name": "Active", "MISSING-shorthand": "A" },
-				"disabled": { "MISSING-name": "Disabled", "MISSING-shorthand": "D" }
-			},
-			"MISSING-error_deleting": "Error Deleting Emote",
-			"upload_emote": {
-				"MISSING-title": "Upload Emote",
-				"description": {
-					"MISSING-line_one": "_BOLD_ Slots Left _BOLD_",
-					"MISSING-line_two": "Standard: _NUMBER_",
-					"MISSING-line_three": "Animated: _NUMBER_"
-				},
-				"MISSING-confirm_button": "Select File",
-				"MISSING-footer": "Accepted File Formats: png (Standard), gif (Animated). Max Filesize: 256kb",
-				"file_too_large": {
-					"MISSING-title": "File Too Big",
-					"MISSING-description": "Max filesize is 256kb. Provided file is _NUMBER_kb"
-				},
-				"no_standard_slot": {
-					"MISSING-title": "No Standard Slot Available",
-					"MISSING-description": "You don't have any empty standard emote slots available"
-				},
-				"no_animated_slot": {
-					"MISSING-title": "No Animated Slot Available",
-					"MISSING-description": "You don't have any empty animated emote slots available"
-				},
-				"selected_image": {
-					"MISSING-title": "Selected Image",
-					"MISSING-image": "Image",
-					"MISSING-resulting_emote": "Resulting Emote",
-					"MISSING-placeholder": "Emote Name",
-					"errors": {
-						"MISSING-no_name": "You must provide an emote name",
-						"MISSING-name_format": "Emote names can only contain letters and numbers",
-						"MISSING-name_length": "Emote names must be at most _NUMBER_ characters"
-					}
-				},
-				"server_rejected": {
-					"MISSING-title": "Error Uploading Emote",
-					"MISSING-description": "The server rejected the emote upload."
-				},
-				"emote_uploaded": {
-					"MISSING-title": "Emote Uploaded",
-					"MISSING-description": "Your emote has been successfully uploaded and is pending approval"
-				}
-			}
-		}
-	},
-	"setting_window": {
-		"MISSING-title": "Settings",
-		"tabs": {
-			"MISSING-game": "Game",
-			"MISSING-anime_list": "Anime List",
-			"MISSING-graphics": "Graphics",
-			"MISSING-audio": "Audio"
-		},
-		"MISSING-language": "Language",
-		"auto_submit": {
-			"MISSING-title": "Auto Submit",
-			"MISSING-description": "Automatically submit your answer when the guess time runs out"
-		},
-		"list_numbering": {
-			"MISSING-title": "List Numbering",
-			"MISSING-description": "Show number of songs played from each players anime list on the scoreboard"
-		},
-		"disable_emotes": {
-			"MISSING-title": "Disable Emotes",
-			"MISSING-description": "Disable emotes from being shown in chats"
-		},
-		"answer_time": {
-			"MISSING-title": "Answer Time",
-			"MISSING-description": "Display players answer time on their avatars"
-		},
-		"anime_link": { "MISSING-title": "Anime Link", "MISSING-description": "The anime site that's linked in song info" },
-		"auto_skip_vote": {
-			"MISSING-title": "Auto Skip Vote",
-			"MISSING-description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
-			"MISSING-guessing_phase": "Guessing Phase",
-			"MISSING-replay_phase": "Replay Phase"
-		},
-		"block_non_friend_actions": {
-			"MISSING-title": "Block Non-Friend Actions",
-			"MISSING-description": "Block social actions from players not on your friends list",
-			"MISSING-direct_messages": "Direct Messages",
-			"MISSING-friend_requests": "Friend Requests",
-			"MISSING-game_invites": "Game Invites"
-		},
-		"anime_names": {
-			"MISSING-title": "Anime Names",
-			"MISSING-description": "Default anime name shown in quizzes",
-			"MISSING-english": "English",
-			"MISSING-romaji": "Romaji"
-		},
-		"team_answer": {
-			"MISSING-title": "Team Answers in Chat",
-			"MISSING-description": "Show your team answers in the chat during team games",
-			"MISSING-never": "Never",
-			"MISSING-out_of_focus": "Out of Focus",
-			"MISSING-always": "Always"
-		},
-		"sound_equalizing": {
-			"MISSING-title": "Sound Equalizing",
-			"MISSING-description": "Equalize volume levels between different songs"
-		},
-		"max_volume": {
-			"MISSING-title": "Max Volume",
-			"MISSING-description": "The maximum volume for sound equalizing, increasing this will increase the overall volume, but may cause quieter songs to not be fully equalized"
-		},
-		"auto_hide_video": {
-			"MISSING-title": "Auto Hide Video",
-			"MISSING-description": "Automatically hide the video for the selected categories, it can still be unhidden by clicking the video during the replay phase",
-			"MISSING-openings": "Openings",
-			"MISSING-endings": "Endings",
-			"MISSING-inserts": "Inserts",
-			"unwatched": { "MISSING-title": "Unwatched", "MISSING-description": "Videos from anime you haven't watched" },
-			"high_risk": {
-				"MISSING-title": "High Risk",
-				"MISSING-description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
-			}
-		},
-		"anime_list": {
-			"MISSING-description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
-			"share_entries": {
-				"MISSING-title": "Share Entries",
-				"MISSING-description": "Show when a show is from your list"
-			},
-			"show_scores": {
-				"MISSING-title": "Show Scores",
-				"MISSING-description": "Show your anime score for shows on your list"
-			},
-			"MISSING-anilist_username": "AniList Username",
-			"MISSING-mal_username": "MyAnimeList Username",
-			"MISSING-mal_username_short": "MAL Username",
-			"MISSING-kitsu_username": "Kitsu Username",
-			"MISSING-last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
-			"update_messages": {
-				"MISSING-update_successful": "Update Successful",
-				"MISSING-update_failed": "Update Failed",
-				"MISSING-list_updated": "List Updated",
-				"MISSING-list_removed": "List Removed",
-				"MISSING-unknown_username": "Unknown Username",
-				"MISSING-mal_private": "MAL List set to private, only public lists can be synced to the game",
-				"MISSING-mal_error": "Error from MAL, please try again later",
-				"MISSING-anilist_error": "Unable to Retrieve List from AniList"
-			},
-			"included_entries": {
-				"MISSING-title": "Included Entries",
-				"types": {
-					"MISSING-watching": "Watching",
-					"MISSING-completed": "Completed",
-					"MISSING-on_hold": "On Hold",
-					"MISSING-dropped": "Dropped",
-					"MISSING-planning": "Planning"
-				}
-			}
-		},
-		"graphics": {
-			"particle_effects": {
-				"MISSING-title": "Particle Effects",
-				"MISSING-description": "Controls the number of particles used in effects, such as the XP animation.",
-				"levels": { "MISSING-off": "Off", "MISSING-low": "Low", "MISSING-high": "High" }
-			},
-			"disable_floating_text": {
-				"MISSING-title": "Disable Floating Text",
-				"MISSING-description": "Floating text won't appear when gaining xp and notes"
-			},
-			"MISSING-name_effects_friend_list": "Name Effects in Friend List"
-		},
-		"audio": {
-			"MISSING-nexus": "Nexus",
-			"MISSING-master": "Master",
-			"MISSING-music": "Music",
-			"MISSING-effects": "Effects"
-		}
-	},
-	"blocked_player_window": { "MISSING-title": "Blocked Player List", "MISSING-remove_button": "Remove" },
-	"change_password_window": {
-		"MISSING-title": "Change Password",
-		"MISSING-current_password": "Current Password",
-		"MISSING-no_current_password": "You must provide your current password",
-		"MISSING-unexpected_error": "Unexpected error, please try again",
-		"MISSING-error_contacting_server": "Error contacting server, please try again later",
-		"MISSING-password_updated": "Password updated successfully",
-		"MISSING-wrong_password": "Current password is incorrect"
-	}
+    "meta": {
+        "language_name": "Swedish",
+        "language_name_native": "Svenska",
+        "language_code": "sv",
+        "creators": "Simon F Nilsson (SibbeeeGold), Sebastian Einarsson (EcchiMaster), Oscar Andersson (6FacedWorldGuru), Pengvinen, Moo"
+    },
+    "common": {
+        "ui": {
+            "translation_coverage": "Översättningstäckning",
+            "translation_by": "Översättning av",
+            "username": "Användarnamn",
+            "password": "Lösenord",
+            "email": "E-post",
+            "repeat_password": "Upprepa lösenord",
+            "back_button": "Tillbaka",
+            "resend_button": "Skicka om",
+            "register_button": "Registrera",
+            "change_button": "Ändra",
+            "logout_button": "Logga ut",
+            "confirm_button": "Acceptera",
+            "continue_button": "Fortsätt",
+            "ok_button": "OK",
+            "cancel_button": "Avbryt",
+            "load_button": "Ladda",
+            "new_password": "Nytt lösenord",
+            "repeat_new_password": "Upprepa nytt lösenord",
+            "contact": "Kontakt",
+            "socials": "Sociala medier",
+            "legal": "Juridiskt",
+            "community_translations": "Gemenskapsöversättningar",
+            "loading": "Laddar",
+            "play": "Spela",
+            "use_button": "Använd",
+            "claim_button": "Ta emot",
+            "update_button": "Uppdatera",
+            "chat": "Chatt",
+            "block": "Blockera",
+            "send_friend_request": "Skicka vänskapsförfrågan",
+            "invite_to_game": "Bjud in",
+            "none": "Ingen",
+            "default": "Standard",
+            "delete": "Ta bort"
+        },
+        "popout_messages": {
+            "unexpected_error": "Oväntat fel",
+            "please_try_again": "Var vänlig och försök igen",
+            "error_contacting_server": "Fel vid kontakt av server",
+            "internal_server_error": "Internt serverfel",
+            "down_for_maintenance": "Servern nere för underhåll",
+            "guest_account": "Otillgängligt för gästkonton",
+            "guest_account_text": "Denna funktionen är otillgänglig för gästkonton",
+            "block_player": {
+                "title": "Blockera _NAME_",
+                "text": "Du kommer inte att se meddelanden eller få vänskapsförfrågningar eller spelinbjudningar från blockerade spelare",
+                "confirm": "Blockera",
+                "cancel": "Avbryt"
+            }
+        },
+        "registration": {
+            "terms_of_service": "Du måste acceptera användarvillkoren för att registrera",
+            "no_username": "Inget användarnamn angivet",
+            "username_length": "Användarnamn får inte vara över 16 tecken",
+            "invalid_username": "Användarnamn får endast innehålla bokstäver, siffror och understräck",
+            "amq_username": "Användarnamnet \"AMQ\" är reserverat och kan inte användas",
+            "password_too_short": "Lösenordet måste vara minst 5 tecken",
+            "password_too_long": "Lösenord får som högst vara 9999 tecken",
+            "passwords_not_matching": "Lösenorden matchar inte",
+            "no_email": "Ingen e-postadress angiven",
+            "invalid_email": "Ogiltig e-postadress",
+            "no_country": "Inget bosättningsland angett",
+            "disabled": "Registrering är avstängd",
+            "unknown_country": "Okänt bosättningsland",
+            "username_taken": "Användarnamnet är redan taget",
+            "email_taken": "E-postadressen är redan registrerad",
+            "email_sent": "Verifieringsmejl har skickats till _EMAIL_",
+            "email_length": "E-postadressen får max vara 255 tecken",
+            "account_created": "Kontot _NAME_ har skapats"
+        },
+        "guest_account": {
+            "title": "Gästkonto",
+            "click_to_register": "Klicka här för att slutföra registrering",
+            "complete_registration": "Slutför registrering",
+            "complete_registration_message": "För att slutföra registreringen, var vänlig verifiera din e-postadress genom att klicka på länken som har skickats till _BOLD_ _EMAIL_ _BOLD_"
+        }
+    },
+    "login_page": {
+        "ui": {
+            "play_now": "Spela nu",
+            "login": "Logga in",
+            "send_button": "Skicka",
+            "return_to_login": "Återgå till inloggningen",
+            "stay_signed_in": "Förbli inloggad",
+            "forgot_password": "Glömt lösenord?",
+            "forgot_username": "Glömt användarnamn?",
+            "country_of_residence": "Bosättningsland",
+            "agree_terms_of_service": "Jag godkänner _LINK_ användarvillkoren _LINK_",
+            "start_playing_now": "Börja spela nu"
+        },
+        "popout_messages": {
+            "create_guest_account": {
+                "title": "Skapa gästkonto",
+                "text": "Genom att skapa ett gästkonto godkänner du _LINK_ Användarvillkoren _LINK_ och _LINK_ Sekretesspolicyn _LINK_.",
+                "error_title": "Fel vid skapande av gästkonto",
+                "error_disabled": "Gästkonton är inaktiverade"
+            },
+            "select_country": "Vänligen ange ditt bosättningsland",
+            "country_error": "Fel vid registrering av land",
+            "already_online": {
+                "title": "Kontot är redan inloggat",
+                "text": "Fortsätt inloggning och logga ut från de andra sessionerna"
+            },
+            "guest_timeout": "Gästkontot har gått ut, vänligen skapa ett nytt"
+        },
+        "text": {
+            "create_account": "Skapa konto",
+            "recover_username_title": "Hämta användarnamn",
+            "recover_username_text": "Ange den e-postadress som användes för att registrera ditt konto för att få ditt användarnamn skickat dit.",
+            "forgot_password_title": "Glömt lösenord",
+            "forgot_password_text": "Ange den e-postadress som användes för att registrera ditt konto för att få en länk för återställning av lösenord skickad dit.",
+            "reset_password_title": "Återställ lösenord",
+            "missing_information": "Saknas kontoinformation",
+            "missing_country": "Kontot saknar information om ditt bosättningsland, vänligen välj det nedan.",
+            "promo_title": "Nummer 1 anime musikquiz!",
+            "promo_one": {
+                "title": "Oändligt antal quiz",
+                "line_one": "35,000+ låtar från 8,000+ anime",
+                "line_two": "Varje quiz genereras unikt",
+                "line_three": "Skräddarsydda quiz från din MyAnimeList, AniList eller Kitsu",
+                "line_four": "Gratis att spela"
+            },
+            "promo_two": {
+                "title": "Spela på ditt sätt",
+                "line_one": "Med vänner",
+                "line_two": "Utmana dig själv",
+                "line_three": "Klättra upp i rankningen",
+                "line_four": "Utforska Dungeon Crawler-läget"
+            },
+            "login_queue": {
+                "title": "Inloggningskö",
+                "text": "Inloggningsservern har hög belastning, du kommer att loggas in inom kort",
+                "position": "Din plats i kön: _SPAN_ 0 _SPAN_"
+            }
+        },
+        "messages": {
+            "account_verified": "Kontot är verifierat, du kan nu logga in",
+            "account_verified_guest": "Kontot är verifierat, du kan nu stänga den här fliken",
+            "verification_error": "Fel vid verifiering av konto: Ett oväntat fel har inträffat",
+            "unknown_reset_code": "Okänd återställningskod",
+            "wrong_username_password": "Felaktigt användarnamn eller lösenord",
+            "email_sent": "E-post skickat",
+            "password_updated": "Lösenord uppdaterat"
+        },
+        "account_verification": {
+            "title": "Kontoverifiering",
+            "text_one": "_SPAN_ Kontot är inte verifierat _SPAN_, vänligen verifiera din e-postadress genom att klicka på länken som skickades till _BOLD_ _EMAIL_ _BOLD_.",
+            "text_two": "Har du inte fått e-postmeddelandet? Vänta upp till en minut på att det ska komma och kontrollera skräppostmappen. Om du fortfarande inte fått e-postmeddelandet kan du skicka det igen eller ändra e-postadress med fältet nedan."
+        },
+        "banned_messages": {
+            "title_temp": "Kontot är tillfälligt avstängt",
+            "title_ban": "Kontot är avstängt",
+            "text_one": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
+            "text_two": "Ditt konto har markerats av en moderator för brott mot användarvillkoren och du har därför blivit avstängd. Du borde ha fått ett e-postmeddelande som förklarar varför du blev avstängd.",
+            "text_three": "Ditt konto har markerats för fusk. Att använda plugins, kodsnuttar, ändra sidans layout eller andra metoder för att få en orättvis fördel strider mot spelets användarvillkor.",
+            "text_temp": "Eftersom detta är din första överträdelse har ditt konto endast blivit tillfälligt avstängt. Om du däremot fortsätter fuska efter att avstängningen har upphört kommer ditt konto att bli permanent avstängt.",
+            "text_perm": "Eftersom detta är din andra överträdelse har ditt konto blivit permanent avstängt.",
+            "text_end": "Om du anser att denna avstängning är ett misstag kan du skapa en supportticket på spelets _LINK_ Discord _LINK_ i kanalen #open-a-ticket.",
+            "suspended_until": "Avstängd till"
+        }
+    },
+    "main_menu": {
+        "ui": {
+            "news": "Nyheter",
+            "stay_connected": "Håll kontakten",
+            "merch_store": "Merchbutik",
+            "song_library": "Låtbibliotek",
+            "leaderboard": "Topplista"
+        },
+        "carousel": {
+            "social_promo": "Få gratis biljetter genom att följa AMQ på Discord och Patreon.",
+            "patreon_promo": "Stödj spelet och lås upp exklusiva belöningar.",
+            "sale_names": {
+                "fall": "Höstrea!",
+                "summer": "Sommarrea!",
+                "winter": "Vinterrea!",
+                "spring": "Vårrea!",
+                "halloween": "Halloweenrea!",
+                "christmas": "Julrea!",
+                "lunar": "Månfestivalrea!",
+                "valentine": "Alla hjärtans dag rea!",
+                "summer_games": "Sommarspelsrea!"
+            },
+            "sale_text": "Få mest för pengarna!",
+            "skin_header": "Exklusiva",
+            "skin_seasons": {
+                "spring": "Vårutklädnader",
+                "summer": "Sommarutklädnader",
+                "fall": "Höstutklädnader",
+                "winter": "Vinterutklädnader",
+                "halloween": "Halloweenutklädnader",
+                "christmas": "Julutklädnader",
+                "lunar": "Månfestival-utklädnader",
+                "valentine": "Alla hjärtans dag utklädnader",
+                "summer_games": "Sommarspels-utklädnader"
+            },
+            "skin_footer": "Tillgängliga nu",
+            "DELETED-skin_text": "Få exklusiva utklädnader för att stödja AMQ!"
+        },
+        "quiz_of_the_day": {
+            "title": "Dagens quiz",
+            "time_slots": "Tidsluckor för quiz",
+            "weekly_schedule": "Veckoschema",
+            "current_week": "Aktuell vecka",
+            "what_is": "Vad är Dagens quiz?",
+            "what_is_description": "Dagens quiz är ett dagligen återkommande quiz med obegränsat antal deltagare, där spelare kan testa sina kunskaper mot resten av gemenskapen. Det är för närvarande uppdelat i tävlingsinriktade quiz med svårt motstånd från AMQs bästa, och tema quiz som innehåller olika gemenskaps quiz utformade för att ge en unik och rolig upplevelse.",
+            "ranked_description": "Beskrivning för tävlingsinriktat",
+            "week": "Vecka _NUMBER_",
+            "week_year": "vecka _NUMBER_ av _NUMBER_",
+            "championship": "Mästerskap",
+            "championship_description": "De 150 högst rankade spelarna under månaden gör upp om chansen att bli månadens mästare!",
+            "rest_day": "Vilodag",
+            "rest_day_description": "Det finns inga quiz dagen efter mästerskapet.",
+            "ranked": "Tävlingsinriktat",
+            "ranked_finished": "Avslutat",
+            "ranked_types": {
+                "novice": {
+                    "title": "Nybörjare",
+                    "description": "45 låtar riktade mot nya spelare"
+                },
+                "expert": {
+                    "title": "Expert",
+                    "description": "85 låtar riktade mot erfarna spelare. Ger fler poäng"
+                }
+            },
+            "states": {
+                "ranked": {
+                    "offline": "Tävlingsinriktat - Offline",
+                    "lobby": "Tävlingsinriktat - Lobby finns",
+                    "playing": "Tävlingsinriktat - Pågående",
+                    "completed": "Tävlingsinriktat - Avslutat",
+                    "rest_day": "Tävlingsinriktat - Vilodag"
+                },
+                "themed": {
+                    "offline": "Tema - Offline",
+                    "playing": "Tema - Pågående",
+                    "completed": "Tema - Avslutat",
+                    "lobby": "Tema - Lobby finns"
+                },
+                "championship": {
+                    "offline": "Mästerskap - Offline",
+                    "playing": "Mästerskap - Pågående",
+                    "completed": "Mästerskap - Avslutat",
+                    "lobby": "Mästerskap - Lobby finns"
+                }
+            },
+            "week_days": {
+                "monday": "Måndag",
+                "tuesday": "Tisdag",
+                "wednesday": "Onsdag",
+                "thursday": "Torsdag",
+                "friday": "Fredag",
+                "saturday": "Lördag",
+                "sunday": "Söndag"
+            },
+            "popout_messages": {
+                "weekly_quiz": {
+                    "title": "Schema för veckans quiz",
+                    "text": "Se schemat för veckans quiz och mer info om spelläget"
+                },
+                "region_time": { "text": "Region och tid till nästa quiz" }
+            },
+            "alerts": {
+                "ranked_rules": {
+                    "title": "Regler för tävlingsinriktat",
+                    "text": "Genom att spela tävlingsinriktat går du med på att inte dela ledtrådar eller svar med andra spelare eller använda några verktyg, metoder eller mjukvaror som ger dig en orättvis fördel."
+                }
+            },
+            "regions": {
+                "west": { "name": "Väst", "shorthand": "V" },
+                "east": { "name": "Öst", "shorthand": "Ö" },
+                "central": {
+                    "MISSING-name": "Central",
+                    "MISSING-shorthand": "C"
+                }
+            }
+        },
+        "ranked_description": {
+            "title": "Tävlingsinriktatläge",
+            "description": "Utmana dig själv mot dina vänner och mot AMQ gemenskapen genom att gå med i tävlingsinriktade spel. Varje tävlingsinriktat spel ger dig poäng vilket låser upp exclusiva belöningar och tar dig närmare att gå med de bästa av de bästa i regions mästarskapet som körs i slutet av varje månad. _BREAK_ Notera att ditt konto måste vara level 10 eller högre för att delta i tävlingsinriktade matcher.",
+            "how_it_works": "Hur det går till",
+            "regions": "Regioner",
+            "region_description": "Det tävlingsinriktade läget är uppdelat i tre olika regioner (väst, centralt, öst), varje med sin egna toplista, startid och mästerskap. Du kan delta i alla regioner men poäng räknas endast till den region du tävlade i",
+            "ranked_game": "Tävlingsinriktat spel",
+            "ranked_game_description_one": "30 minuter innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expertrummet är riktat mot tävlingsinriktade och mer hardcore spelare och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
+            "ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjarrummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expertrummet ökar mängden poäng baserat på hur många korrekta gissningar du fått. De första 5 korrekta gissningarna ger 5 poäng var, nästa 5 ger 6 poäng var, nästa ger 7 poäng var och så vidare.",
+            "end_of_season": "Säsongsslut",
+            "end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
+            "rules": "Regler",
+            "rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet, därav är viktigt att inte dela ledtrådar eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spellägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir bannlyst och dina tävlingsinriktade belöningar tas bort."
+        },
+        "avatar_drive": {
+            "standings": "Placeringar",
+            "recent": "Senast",
+            "weekly": "Vecka",
+            "weekly_short": "V",
+            "monthly": "Månad",
+            "monthly_short": "M",
+            "all_time": "Alltid",
+            "all_time_short": "A",
+            "donate": "Donera",
+            "amount": "Belopp",
+            "description": "Donera för att bestämma vem nästa avatar blir! När insamlingen avslutas kommer avataren som ligger i topp att läggas till i spelet. Observera att insamlingen fortsätter några dagar efter att målet har uppnåtts.",
+            "faq_what_is": {
+                "title": "Vad är avatarinsamlingen?",
+                "text": "Avatarinsamlingen är ditt sätt att stödja spelet samtidigt som du påverkar vilka framtida avatarer som kommer att läggas till. Systemet är enkelt: när du donerar kan du välja att stödja en befintlig avatar i avatarinsamlingen eller nominera en ny. Det donerade beloppet läggs till den avatarens poäng, och när insamlingsmålet uppnås kommer avataren med högst poäng att läggas till spelet som en framtida avatar."
+            },
+            "faq_nomination_type": {
+                "title": "Vilka typer av avatarer kan jag nominera?",
+                "text": "Du kan nominera vilken typ av avatar som helst, såvida den passar in i spelet och inte är kränkande eller olaglig. Alla nomineringar granskas och kan nekas om de inte följer riktlinjerna ovan."
+            },
+            "faq_existing_avatar": {
+                "title": "Kan jag nominera en befintlig karaktär?",
+                "text": "Du är mer än välkommen att nominera befintliga avatarer till avatarinsamlingen. Om en redan existerande avatar vinner insamlingen kommer en ny utklädnad att läggas till för avataren. Du får gärna specificera vad du vill att utklädnaden ska bli. Låt oss säga att du vill ge Hibiki en ninja dräkt, då kan du skriva \"Ninja Hibiki\"."
+            },
+            "donate_towards": "Donera till",
+            "nominated_avatar": "Nominerad avatar",
+            "new_avatar": "Ny avatar",
+            "avatar_description": "Avatarbeskrivning",
+            "avatar_description_placeholder": "Kort beskrivning av avataren",
+            "nomination": "Nominering",
+            "anonymous_donation": "Anonym donation",
+            "free_donation": "Använd gratis donation",
+            "free_donation_amount": "Belopp: _NUMBER_€",
+            "approx_dollars": "Cirka. $",
+            "checkout": "Utcheckning",
+            "popover": {
+                "no_free_donation": "Din gratis donation är redan använd denna månaden"
+            },
+            "alerts": {
+                "invalid_amount": {
+                    "title": "Ogiltigt donationsbelopp",
+                    "text": {
+                        "illegal": "Du måste ange ett donationsbelopp.",
+                        "minimum": "Minsta donationsbelopp är 1€"
+                    }
+                },
+                "donation_error": { "title": "Donationsfel" },
+                "donation_received": {
+                    "title": "Donation mottagen",
+                    "text": "Tack för att ni stödjer spelet!"
+                },
+                "use_free_donation": {
+                    "title": "Använd gratis donation",
+                    "text": "Du får endast en gratis donation per månad"
+                }
+            },
+            "faq_button": "FAQ",
+            "faq_header": "FAQ"
+        },
+        "social_rewards": {
+            "title": "Belöningar för sociala medier",
+            "description": "Som ett tack för att du följer spelets Discord och Patreon kan du hämta en belöning på 8 biljetter efter att du följt varje. Se till att gå med i __LINK__ Discord-servern __LINK__ innan du hämtar Discord belöningen. __BREAK__ Se till att du går med i (gratis) eller stödjer __LINK__ Patreon __LINK__ innan du hämtar Patreon belöningen."
+        },
+        "game_mode": {
+            "title": "Spelläge",
+            "solo": {
+                "title": "Solo",
+                "description": "Utmana dig själv med en obegränsad mängd personliga och unika quiz"
+            },
+            "multiplayer": {
+                "title": "Flera spelare",
+                "description": "Spela unika quiz med vänner eller andra animefans"
+            },
+            "community": {
+                "title": "Gemenskap",
+                "description": "Spela quizzes skapade av dina vänner eller AMQ gemenskapen"
+            },
+            "jam": {
+                "title": "Jamquiz",
+                "description": "Ett oändligt quiz där spelare kan hoppa in och ut närsomhelst"
+            },
+            "nexus": {
+                "title": "Nexus",
+                "description": "Utmana Nexuskryptan, ett unikt roguelike spelläge, kan spelas solo eller med vänner"
+            }
+        }
+    },
+    "menu_bar": {
+        "settings": {
+            "language": {
+                "custom": "Anpassat",
+                "custom_description": "Ladda upp en översättingsfil för att testa i spelet",
+                "custom_title": "Anpassad språkfil",
+                "custom_placeholder": "URL till översättingsfil",
+                "custom_alert_description": "Förse URL:en till språkfilen",
+                "custom_failed_to_load": {
+                    "title": "Misslyckades att ladda den anpassade språkfilen",
+                    "text": "Kunde inte ladda den anpassade språkfilen från den försedda URL:en."
+                },
+                "custom_wrong_format": {
+                    "title": "Lokaliseringsfil formatfel",
+                    "text": "Den försedda språkfilen är inte i ett korrekt format. Se konsolen i webbläsaren för mer detaljer."
+                }
+            }
+        },
+        "friend_list": {
+            "friends": "Vänner",
+            "total": "Totalt",
+            "all": "Alla",
+            "statuses": {
+                "online": "Online",
+                "offline": "Offline",
+                "away": "Borta",
+                "do_not_disturb": "Stör ej",
+                "invisible": "Osynlig",
+                "playing_nexus": "Spelar _NAME_ Nexus",
+                "in_nexus_lobby": "I _NAME_ Nexus lobby",
+                "in_lobby": "I _NAME_ lobby",
+                "spectating_quiz": "Tittar på _NAME_ quiz",
+                "in_quiz": "I _NAME_ quiz",
+                "mode_names": {
+                    "co-op": "Co-Op",
+                    "private": "Privat",
+                    "jam": "Jam",
+                    "event": "Event",
+                    "solo": "Solo"
+                }
+            },
+            "options": {
+                "report": "Anmäl",
+                "remove_friend": "Ta bort vän",
+                "join_game": "Gå med"
+            },
+            "popout_messages": {
+                "not_in_game": "Du är inte i en match",
+                "solo_game_invite": "Du kan inte bjuda in spelare till solo spel"
+            }
+        },
+        "menu": {
+            "patreon": "Patreon",
+            "donate": "Donera",
+            "song_history": "Låthistorik",
+            "settings": "Inställningar",
+            "blocked_players": "Blockerade spelare",
+            "change_password": "Byt lösenord",
+            "leaderboard": "Topplista",
+            "tutorial": "Instruktioner",
+            "guidelines": "Riktlinjer",
+            "about": "Om",
+            "logout": "Logga ut"
+        },
+        "video_host": {
+            "MISSING-title": "Video Host Connections",
+            "MISSING-description": "Connection status to the different video servers",
+            "MISSING-click_to_retest": "Click to retest connection",
+            "MISSING-speed": "Speed: _SPANC_ _NUMBER_  _SPANC_",
+            "connection_status": {
+                "MISSING-good": "Good",
+                "MISSING-okay": "Okay",
+                "MISSING-poor": "Poor",
+                "MISSING-bad": "Bad"
+            }
+        }
+    },
+    "player_profile": {
+        "MISSING-profile_image": "Profile Image",
+        "MISSING-avatar": "Avatar",
+        "MISSING-no_badges": "No Badges",
+        "MISSING-profile": "Profile",
+        "MISSING-special_badges": "Special Badges",
+        "MISSING-standard_badges": "Standard Badges",
+        "MISSING-name_effects": "Name Effects",
+        "MISSING-name_color": "Name Color",
+        "MISSING-name_glow": "Name Glow",
+        "MISSING-hidden": "Hidden",
+        "MISSING-account_creation": "Account Creation",
+        "MISSING-songs_played": "Songs Played",
+        "MISSING-guess_rate": "Guess Rate",
+        "MISSING-options": "Options",
+        "MISSING-edit": "Edit",
+        "MISSING-change_nickname": "Change Nickname",
+        "change_nickname_modal": {
+            "MISSING-description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you’re a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
+            "MISSING-current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
+            "MISSING-check_availability": "Check Availability"
+        },
+        "alerts": {
+            "MISSING-error_getting_profile": "Error Getting Player Profile",
+            "MISSING-unknown_player": "Unknown Player"
+        },
+        "name_effects_entries": {
+            "challenger_color": {
+                "MISSING-name": "Challenger",
+                "MISSING-description": "Unlocked for players who qualified for last month ranked championship"
+            },
+            "challenger_glow": {
+                "MISSING-name": "Challenger",
+                "MISSING-description": "Unlocked for players who got top 50 in last month ranked championship"
+            },
+            "patreon_color": {
+                "MISSING-name": "Patreon",
+                "MISSING-description": "Unlocked for level 3 or higher Patreon backers"
+            },
+            "patreon_glow": {
+                "MISSING-name": "Patreon",
+                "MISSING-description": "Unlocked for level 4 or higher Patreon backers"
+            },
+            "MISSING-month_patreon_current": "Unlocked for level 5 Patreon backers who back this month, and level 6 backers",
+            "MISSING-month_patreon_previous": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers",
+            "MISSING-month_patreon_previous_unlocked": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers. You backed during the release month."
+        }
+    },
+    "badges": {
+        "ranked": {
+            "MISSING-name": "Ranked _TIER_ _YEAR_ _NUMBER_",
+            "MISSING-name_result": "Ranked _TIER_ _YEAR_",
+            "MISSING-description": "Got _TIER_ tier in the _YEAR_ ranked season _NUMBER_",
+            "MISSING-description_result": "Got _TIER_ tier for the _YEAR_ ranked seasons",
+            "tiers": {
+                "MISSING-bronze": "Bronze",
+                "MISSING-silver": "Silver",
+                "MISSING-gold": "Gold",
+                "MISSING-platinum": "Platinum",
+                "MISSING-diamond": "Diamond"
+            }
+        },
+        "champion": {
+            "name": {
+                "MISSING-first": "Ranked Champion _YEAR_ _NUMBER_",
+                "MISSING-second": "Ranked Second Place _YEAR_ _NUMBER_",
+                "MISSING-third": "Ranked Third Place _YEAR_ _NUMBER_"
+            },
+            "description": {
+                "MISSING-first": "Won the _YEAR_ season _NUMBER_ championship",
+                "MISSING-second": "Ranked Second Place in the _YEAR_ season _NUMBER_ championship",
+                "MISSING-third": "Ranked Third Place in the _YEAR_ season _NUMBER_ championship"
+            }
+        },
+        "challenger": {
+            "name": {
+                "MISSING-top": "Ranked Expert _YEAR_ _NUMBER_",
+                "MISSING-mid": "Ranked Up-and-Coming _YEAR_ _NUMBER_",
+                "MISSING-qualified": "Ranked Challenger _YEAR_ _NUMBER_"
+            },
+            "description": {
+                "MISSING-qualified": "Qualified for the _YEAR_ season _NUMBER_ championship",
+                "MISSING-top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
+            }
+        },
+        "patreon": {
+            "name": {
+                "MISSING-start": "Patreon Backer",
+                "MISSING-month": "_NUMBER_ Months Patreon Backer",
+                "MISSING-one_year": "1 Year Patreon Backer",
+                "MISSING-multiple_years": "_NUMBER_ Years Patreon Backer"
+            },
+            "MISSING-description": "AMQ Patreon Backer"
+        },
+        "avatar": {
+            "MISSING-name": "_NAME_ Badge",
+            "MISSING-description": "Unlock 10 skins/recolors for _NAME_"
+        },
+        "mod": {
+            "name": {
+                "MISSING-game": "AMQ Moderator",
+                "MISSING-jam": "AMQ Jam Mode Moderator"
+            },
+            "description": {
+                "MISSING-game": "Part of the AMQ Moderator team",
+                "MISSING-jam": "Part of the AMQ Jam Mode Moderator team"
+            }
+        },
+        "aragaimu": {
+            "name": {
+                "MISSING-participant": "Aragaimu _YEAR_ Participant",
+                "MISSING-top32": "Aragaimu _YEAR_ Top 32",
+                "MISSING-top4": "Aragaimu _YEAR_ Top 4"
+            },
+            "description": {
+                "MISSING-participant": "Participated in the Aragaimu _YEAR_ tournament",
+                "MISSING-top32": "Got Top 32 in the Aragaimu _YEAR_ tournament",
+                "MISSING-top4": "Got Top 4 in the Aragaimu _YEAR_ tournament"
+            }
+        }
+    },
+    "patreon_window": {
+        "MISSING-title": "Patreon",
+        "MISSING-description": "Help support the operation and development of AMQ by backing the game on Patreon. Working on and sharing AMQ with you all has been and is an amazing experience, and I have so much more I want to do with the game. By backing the Patreon you'll help me not only cover the costs of running the game, but also continue its development! As a special thanks, you'll get several exclusive rewards!",
+        "reward_examples": {
+            "MISSING-title": "Some of the Patreon Rewards",
+            "MISSING-sneak_peeks": "Sneak Peeks",
+            "MISSING-patreon_badge": "Patreon Badges",
+            "MISSING-custom_emotes": "Custom Emotes",
+            "MISSING-monthly_tickets": "Monthly Tickets"
+        },
+        "MISSING-already_a_backer": "Already a Backer?",
+        "MISSING-link_account": "Link Patreon Account",
+        "MISSING-become_a_backer": "Become a Backer",
+        "MISSING-patreon_linked": "Patreon Linked!",
+        "backer_level": {
+            "MISSING-title": "Backer Level",
+            "MISSING-tier": "Level _NUMBER_",
+            "rewards": {
+                "MISSING-emotes": "_NUMBER_ Emotes",
+                "MISSING-tickets": "_NUMBER_ Tickets"
+            }
+        },
+        "MISSING-badge_level": "Badge Level",
+        "MISSING-badge_level_info": "Your badge level is equal to the concurrent months you've been a level 2 or higher backer of the Patreon",
+        "MISSING-patreon_page": "Patreon Page",
+        "MISSING-relink": "Relink",
+        "MISSING-update_info": "Update Info",
+        "MISSING-unlink_account": "Unlink Account",
+        "MISSING-linked_account": "Linked Account",
+        "emotes": {
+            "MISSING-title": "Emotes",
+            "MISSING-upload": "Upload",
+            "MISSING-close": "Close",
+            "MISSING-manage": "Manage",
+            "MISSING-empty": "Empty",
+            "states": {
+                "waiting_approval": {
+                    "MISSING-name": "Waiting Approval",
+                    "MISSING-shorthand": "W"
+                },
+                "active": {
+                    "MISSING-name": "Active",
+                    "MISSING-shorthand": "A"
+                },
+                "disabled": {
+                    "MISSING-name": "Disabled",
+                    "MISSING-shorthand": "D"
+                }
+            },
+            "MISSING-error_deleting": "Error Deleting Emote",
+            "upload_emote": {
+                "MISSING-title": "Upload Emote",
+                "description": {
+                    "MISSING-line_one": "_BOLD_ Slots Left _BOLD_",
+                    "MISSING-line_two": "Standard: _NUMBER_",
+                    "MISSING-line_three": "Animated: _NUMBER_"
+                },
+                "MISSING-confirm_button": "Select File",
+                "MISSING-footer": "Accepted File Formats: png (Standard), gif (Animated). Max Filesize: 256kb",
+                "file_too_large": {
+                    "MISSING-title": "File Too Big",
+                    "MISSING-description": "Max filesize is 256kb. Provided file is _NUMBER_kb"
+                },
+                "no_standard_slot": {
+                    "MISSING-title": "No Standard Slot Available",
+                    "MISSING-description": "You don't have any empty standard emote slots available"
+                },
+                "no_animated_slot": {
+                    "MISSING-title": "No Animated Slot Available",
+                    "MISSING-description": "You don't have any empty animated emote slots available"
+                },
+                "selected_image": {
+                    "MISSING-title": "Selected Image",
+                    "MISSING-image": "Image",
+                    "MISSING-resulting_emote": "Resulting Emote",
+                    "MISSING-placeholder": "Emote Name",
+                    "errors": {
+                        "MISSING-no_name": "You must provide an emote name",
+                        "MISSING-name_format": "Emote names can only contain letters and numbers",
+                        "MISSING-name_length": "Emote names must be at most _NUMBER_ characters"
+                    }
+                },
+                "server_rejected": {
+                    "MISSING-title": "Error Uploading Emote",
+                    "MISSING-description": "The server rejected the emote upload."
+                },
+                "emote_uploaded": {
+                    "MISSING-title": "Emote Uploaded",
+                    "MISSING-description": "Your emote has been successfully uploaded and is pending approval"
+                }
+            }
+        }
+    },
+    "setting_window": {
+        "MISSING-title": "Settings",
+        "tabs": {
+            "MISSING-game": "Game",
+            "MISSING-anime_list": "Anime List",
+            "MISSING-graphics": "Graphics",
+            "MISSING-audio": "Audio"
+        },
+        "MISSING-language": "Language",
+        "auto_submit": {
+            "MISSING-title": "Auto Submit",
+            "MISSING-description": "Automatically submit your answer when the guess time runs out"
+        },
+        "list_numbering": {
+            "MISSING-title": "List Numbering",
+            "MISSING-description": "Show number of songs played from each players anime list on the scoreboard"
+        },
+        "disable_emotes": {
+            "MISSING-title": "Disable Emotes",
+            "MISSING-description": "Disable emotes from being shown in chats"
+        },
+        "answer_time": {
+            "MISSING-title": "Answer Time",
+            "MISSING-description": "Display players answer time on their avatars"
+        },
+        "anime_link": {
+            "MISSING-title": "Anime Link",
+            "MISSING-description": "The anime site that's linked in song info"
+        },
+        "auto_skip_vote": {
+            "MISSING-title": "Auto Skip Vote",
+            "MISSING-description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
+            "MISSING-guessing_phase": "Guessing Phase",
+            "MISSING-replay_phase": "Replay Phase"
+        },
+        "block_non_friend_actions": {
+            "MISSING-title": "Block Non-Friend Actions",
+            "MISSING-description": "Block social actions from players not on your friends list",
+            "MISSING-direct_messages": "Direct Messages",
+            "MISSING-friend_requests": "Friend Requests",
+            "MISSING-game_invites": "Game Invites"
+        },
+        "anime_names": {
+            "MISSING-title": "Anime Names",
+            "MISSING-description": "Default anime name shown in quizzes",
+            "MISSING-english": "English",
+            "MISSING-romaji": "Romaji"
+        },
+        "team_answer": {
+            "MISSING-title": "Team Answers in Chat",
+            "MISSING-description": "Show your team answers in the chat during team games",
+            "MISSING-never": "Never",
+            "MISSING-out_of_focus": "Out of Focus",
+            "MISSING-always": "Always"
+        },
+        "sound_equalizing": {
+            "MISSING-title": "Sound Equalizing",
+            "MISSING-description": "Equalize volume levels between different songs"
+        },
+        "max_volume": {
+            "MISSING-title": "Max Volume",
+            "MISSING-description": "The maximum volume for sound equalizing, increasing this will increase the overall volume, but may cause quieter songs to not be fully equalized"
+        },
+        "auto_hide_video": {
+            "MISSING-title": "Auto Hide Video",
+            "MISSING-description": "Automatically hide the video for the selected categories, it can still be unhidden by clicking the video during the replay phase",
+            "MISSING-openings": "Openings",
+            "MISSING-endings": "Endings",
+            "MISSING-inserts": "Inserts",
+            "unwatched": {
+                "MISSING-title": "Unwatched",
+                "MISSING-description": "Videos from anime you haven't watched"
+            },
+            "high_risk": {
+                "MISSING-title": "High Risk",
+                "MISSING-description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
+            }
+        },
+        "anime_list": {
+            "MISSING-description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
+            "share_entries": {
+                "MISSING-title": "Share Entries",
+                "MISSING-description": "Show when a show is from your list"
+            },
+            "show_scores": {
+                "MISSING-title": "Show Scores",
+                "MISSING-description": "Show your anime score for shows on your list"
+            },
+            "MISSING-anilist_username": "AniList Username",
+            "MISSING-mal_username": "MyAnimeList Username",
+            "MISSING-mal_username_short": "MAL Username",
+            "MISSING-kitsu_username": "Kitsu Username",
+            "MISSING-last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+            "update_messages": {
+                "MISSING-update_successful": "Update Successful",
+                "MISSING-update_failed": "Update Failed",
+                "MISSING-list_updated": "List Updated",
+                "MISSING-list_removed": "List Removed",
+                "MISSING-unknown_username": "Unknown Username",
+                "MISSING-mal_private": "MAL List set to private, only public lists can be synced to the game",
+                "MISSING-mal_error": "Error from MAL, please try again later",
+                "MISSING-anilist_error": "Unable to Retrieve List from AniList"
+            },
+            "included_entries": {
+                "MISSING-title": "Included Entries",
+                "types": {
+                    "MISSING-watching": "Watching",
+                    "MISSING-completed": "Completed",
+                    "MISSING-on_hold": "On Hold",
+                    "MISSING-dropped": "Dropped",
+                    "MISSING-planning": "Planning"
+                }
+            }
+        },
+        "graphics": {
+            "particle_effects": {
+                "MISSING-title": "Particle Effects",
+                "MISSING-description": "Controls the number of particles used in effects, such as the XP animation.",
+                "levels": {
+                    "MISSING-off": "Off",
+                    "MISSING-low": "Low",
+                    "MISSING-high": "High"
+                }
+            },
+            "disable_floating_text": {
+                "MISSING-title": "Disable Floating Text",
+                "MISSING-description": "Floating text won't appear when gaining xp and notes"
+            },
+            "MISSING-name_effects_friend_list": "Name Effects in Friend List"
+        },
+        "audio": {
+            "MISSING-nexus": "Nexus",
+            "MISSING-master": "Master",
+            "MISSING-music": "Music",
+            "MISSING-effects": "Effects"
+        }
+    },
+    "blocked_player_window": {
+        "MISSING-title": "Blocked Player List",
+        "MISSING-remove_button": "Remove"
+    },
+    "change_password_window": {
+        "MISSING-title": "Change Password",
+        "MISSING-current_password": "Current Password",
+        "MISSING-no_current_password": "You must provide your current password",
+        "MISSING-unexpected_error": "Unexpected error, please try again",
+        "MISSING-error_contacting_server": "Error contacting server, please try again later",
+        "MISSING-password_updated": "Password updated successfully",
+        "MISSING-wrong_password": "Current password is incorrect"
+    }
 }
