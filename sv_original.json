@@ -231,20 +231,6 @@
                     "description": "85 songs geared towards experienced players. Rewards additional ranked points"
                 }
             },
-            "regions": {
-                "west": {
-                    "name": "West",
-                    "shorthand": "W"
-                },
-                "east": {
-                    "name": "East",
-                    "shorthand": "E"
-                },
-                "central": {
-                    "name": "Central",
-                    "shorthand": "C"
-                }
-            },
             "states": {
                 "ranked": {
                     "offline": "Ranked - Offline",
@@ -289,6 +275,20 @@
                     "title": "Ranked Rules",
                     "text": "By playing ranked, you agree that you won't share hints or answers with other players, or use any tool, method or software that grants you an unfair advantage."
                 }
+            },
+            "regions": {
+                "west": {
+                    "name": "West",
+                    "shorthand": "W"
+                },
+                "east": {
+                    "name": "East",
+                    "shorthand": "E"
+                },
+                "central": {
+                    "name": "Central",
+                    "shorthand": "C"
+                }
             }
         },
         "ranked_description": {
@@ -315,8 +315,6 @@
             "all_time": "All Time",
             "all_time_short": "AT",
             "donate": "Donate",
-            "faq_button": "FAQ",
-            "faq_header": "FAQ",
             "amount": "Amount",
             "description": "Donate towards who the next avatar will be! Once the drive ends, the avatar leading the drive will be added to the game! Do note that the drive will continue a couple of days after the goal has been reached.",
             "faq_what_is": {
@@ -364,7 +362,9 @@
                     "title": "Use Free Donation",
                     "text": "You only get one free donation per month"
                 }
-            }
+            },
+            "faq_button": "FAQ",
+            "faq_header": "FAQ"
         },
         "social_rewards": {
             "title": "Social Rewards",

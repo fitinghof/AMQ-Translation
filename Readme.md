@@ -13,6 +13,8 @@ Note that this readme is also a work in progress.
 - Community - Gemenskap
 - Email - E-post / E-postadress (Context dependent)
 - Skins - Utklädnader
+- Scoreboard - Poängtavla
+- Name Change Token - Namnändringspollett
 
 ## Don't Translate
 
