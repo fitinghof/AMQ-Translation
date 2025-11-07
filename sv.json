@@ -266,7 +266,9 @@
                     "title": "Schema för veckans quiz",
                     "text": "Se schemat för veckans quiz och mer info om spelläget"
                 },
-                "region_time": { "text": "Region och tid till nästa quiz" }
+                "region_time": {
+                    "text": "Region och tid till nästa quiz"
+                }
             },
             "alerts": {
                 "ranked_rules": {
@@ -275,11 +277,17 @@
                 }
             },
             "regions": {
-                "west": { "name": "Väst", "shorthand": "V" },
-                "east": { "name": "Öst", "shorthand": "Ö" },
+                "west": {
+                    "name": "Väst",
+                    "shorthand": "V"
+                },
+                "east": {
+                    "name": "Öst",
+                    "shorthand": "Ö"
+                },
                 "central": {
-                    "MISSING-name": "Central",
-                    "MISSING-shorthand": "C"
+                    "name": "Central",
+                    "shorthand": "C"
                 }
             }
         },
