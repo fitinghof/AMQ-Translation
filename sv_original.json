@@ -362,7 +362,9 @@
                     "title": "Use Free Donation",
                     "text": "You only get one free donation per month"
                 }
-            }
+            },
+            "faq_button": "FAQ",
+            "faq_header": "FAQ"
         },
         "social_rewards": {
             "title": "Social Rewards",
