@@ -418,11 +418,11 @@
                 "spectating_quiz": "Tittar på _NAME_ quiz",
                 "in_quiz": "I _NAME_ quiz",
                 "mode_names": {
-                    "co-op": "Co-Op",
-                    "private": "Privat",
-                    "jam": "Jam",
-                    "event": "Event",
-                    "solo": "Solo"
+                    "co-op": "co-Op",
+                    "private": "privat",
+                    "jam": "jam",
+                    "event": "event",
+                    "solo": "solo"
                 }
             },
             "options": {
@@ -449,60 +449,60 @@
             "logout": "Logga ut"
         },
         "video_host": {
-            "MISSING-title": "Video Host Connections",
-            "MISSING-description": "Connection status to the different video servers",
-            "MISSING-click_to_retest": "Click to retest connection",
-            "MISSING-speed": "Speed: _SPANC_ _NUMBER_  _SPANC_",
+            "title": "Video server uppkopplingar",
+            "description": "Uppkopplings status för de olika video servrarna",
+            "click_to_retest": "Klicka för att testa om uppkopplingen",
+            "speed": "Hastighet: _SPANC_ _NUMBER_  _SPANC_",
             "connection_status": {
-                "MISSING-good": "Good",
-                "MISSING-okay": "Okay",
-                "MISSING-poor": "Poor",
-                "MISSING-bad": "Bad"
+                "good": "Bra",
+                "okay": "Ok",
+                "poor": "Svag",
+                "bad": "Dålig"
             }
         }
     },
     "player_profile": {
-        "MISSING-profile_image": "Profile Image",
-        "MISSING-avatar": "Avatar",
-        "MISSING-no_badges": "No Badges",
-        "MISSING-profile": "Profile",
-        "MISSING-special_badges": "Special Badges",
-        "MISSING-standard_badges": "Standard Badges",
-        "MISSING-name_effects": "Name Effects",
-        "MISSING-name_color": "Name Color",
-        "MISSING-name_glow": "Name Glow",
-        "MISSING-hidden": "Hidden",
-        "MISSING-account_creation": "Account Creation",
-        "MISSING-songs_played": "Songs Played",
-        "MISSING-guess_rate": "Guess Rate",
-        "MISSING-options": "Options",
-        "MISSING-edit": "Edit",
-        "MISSING-change_nickname": "Change Nickname",
+        "profile_image": "Profilbild",
+        "avatar": "Avatar",
+        "no_badges": "Inga medaljer",
+        "profile": "Profil",
+        "special_badges": "Special medaljer",
+        "standard_badges": "Standard medaljer",
+        "name_effects": "Namn effekter",
+        "name_color": "Namn färg",
+        "name_glow": "Namn sken",
+        "hidden": "Gömd",
+        "account_creation": "Konto skapelse",
+        "songs_played": "Låtar spelade",
+        "guess_rate": "Gissningsgrad",
+        "options": "Inställningar",
+        "edit": "Ändra",
+        "change_nickname": "Ändra smeknamn",
         "change_nickname_modal": {
-            "MISSING-description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you’re a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
-            "MISSING-current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
+            "description": "Du kan ändra dit smeknamn (namnet som visas i spelet) genom att spendera en namnändringspolett. Ditt konto får en polett varje år och ytterligare en polett varje månad om du är en nivå 4 patreon supporter. _BREAK_ Om du ändrar ditt smeknamn kommer namnet bli tillgängligt för vem som helst att använda (även om det är ditt ursprunglia namn). _BREAK_ Ditt ursprunglia namn kommer fortfarande synas på din profil.",
+            "current_tokens": "Nuvarande namnändringspoletter: _SPAN_ _NUMBER_ _SPAN_",
             "MISSING-check_availability": "Check Availability"
         },
         "alerts": {
-            "MISSING-error_getting_profile": "Error Getting Player Profile",
-            "MISSING-unknown_player": "Unknown Player"
+            "error_getting_profile": "Fel vid hämtning av spelarprofil",
+            "unknown_player": "Okänd spelare"
         },
         "name_effects_entries": {
             "challenger_color": {
-                "MISSING-name": "Challenger",
-                "MISSING-description": "Unlocked for players who qualified for last month ranked championship"
+                "name": "Utmanare",
+                "description": "Upplåst för spelare som kvalificerade för förra månadens mästerskap"
             },
             "challenger_glow": {
-                "MISSING-name": "Challenger",
-                "MISSING-description": "Unlocked for players who got top 50 in last month ranked championship"
+                "name": "Utmanare",
+                "description": "Upplåst för spelare som placerade top 50 i förra månades mästerskap"
             },
             "patreon_color": {
-                "MISSING-name": "Patreon",
-                "MISSING-description": "Unlocked for level 3 or higher Patreon backers"
+                "name": "Patreon",
+                "description": "Upplåst för nivå 3 och högre patreon supporters"
             },
             "patreon_glow": {
-                "MISSING-name": "Patreon",
-                "MISSING-description": "Unlocked for level 4 or higher Patreon backers"
+                "name": "Patreon",
+                "description": "Upplåst för nivå 4 och högre patreon supporters"
             },
             "MISSING-month_patreon_current": "Unlocked for level 5 Patreon backers who back this month, and level 6 backers",
             "MISSING-month_patreon_previous": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers",
@@ -511,8 +511,8 @@
     },
     "badges": {
         "ranked": {
-            "MISSING-name": "Ranked _TIER_ _YEAR_ _NUMBER_",
-            "MISSING-name_result": "Ranked _TIER_ _YEAR_",
+            "MISSING-name": "Tävlingsinrikitat _TIER_ _YEAR_ _NUMBER_",
+            "MISSING-name_result": "Tävlingsinrikitat _TIER_ _YEAR_",
             "MISSING-description": "Got _TIER_ tier in the _YEAR_ ranked season _NUMBER_",
             "MISSING-description_result": "Got _TIER_ tier for the _YEAR_ ranked seasons",
             "tiers": {
