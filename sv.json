@@ -670,7 +670,7 @@
                     "placeholder": "Emote-namn",
                     "errors": {
                         "no_name": "Du måste ange ett emote-namn",
-                        "name_format": "Emote-namn för endast innehålla bokstäver och siffror",
+                        "name_format": "Emote-namn får endast innehålla bokstäver och siffror",
                         "name_length": "Emote-namn får vara som mest _NUMBER_ tecken"
                     }
                 },
