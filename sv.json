@@ -482,7 +482,7 @@
         "name_color": "Namn färg",
         "name_glow": "Namn sken",
         "hidden": "Gömd",
-        "account_creation": "Konto skapelse",
+        "account_creation": "Kontot skapades",
         "songs_played": "Låtar spelade",
         "guess_rate": "Gissningsgrad",
         "options": "Inställningar",
@@ -514,9 +514,9 @@
                 "name": "Patreon",
                 "description": "Upplåst för nivå 4 och högre patreon supportrar"
             },
-            "month_patreon_current": "Upplåst för nivå 5 patreon supporters som supportat denna månaden och samtliga nivå 6 supporters",
-            "month_patreon_previous": "Upplåst för nivå 5 patreon supporters som supportade under släppmånaden och samtliga nivå 6 supporters",
-            "month_patreon_previous_unlocked": "Upplåst för nivå 5 patreon supporters som supportade under släppmånaden och samtliga nivå 6 supporters. Du supportade under släppmånaden."
+            "month_patreon_current": "Upplåst för nivå 5 patreon supportrar som supportat denna månaden och samtliga nivå 6 supporters",
+            "month_patreon_previous": "Upplåst för nivå 5 patreon supportrar som supportade under släppmånaden och samtliga nivå 6 supporters",
+            "month_patreon_previous_unlocked": "Upplåst för nivå 5 patreon supportrar som supportade under släppmånaden och samtliga nivå 6 supporters. Du supportade under släppmånaden."
         }
     },
     "badges": {
@@ -535,7 +535,7 @@
         },
         "champion": {
             "name": {
-                "first": "Tävlingsinriktat mästerskap _YEAR_ _NUMBER_",
+                "first": "Tävlingsinriktat mästare _YEAR_ _NUMBER_",
                 "second": "Tävlingsinriktat andraplats _YEAR_ _NUMBER_",
                 "third": "Tävlingsinriktat tredjeplats _YEAR_ _NUMBER_"
             },
@@ -552,7 +552,7 @@
                 "qualified": "Tävlingsinriktat utmanare _YEAR_ _NUMBER_"
             },
             "description": {
-                "qualified": "Kvalificerade för mästerskapet _YEAR_ säsong _NUMBER_",
+                "qualified": "Kvalificerade till mästerskapet _YEAR_ säsong _NUMBER_",
                 "top": "Placerade topp _TOP_ i mästerskapet _YEAR_ säsong _NUMBER_"
             }
         },
