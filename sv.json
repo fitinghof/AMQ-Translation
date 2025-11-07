@@ -711,8 +711,8 @@
             "description": "Visa spelares svarstid på deras avatarer"
         },
         "anime_link": {
-            "title": "Anime-länk",
-            "description": "Anime-webbplatsen som är länkad i låtinfo"
+            "title": "Animelänk",
+            "description": "Animesidan som är länkad i låtinfo"
         },
         "auto_skip_vote": {
             "title": "Autoskippa",
@@ -725,11 +725,11 @@
             "description": "Blockera sociala handlingar från spelare som inte finns på din vänlista",
             "direct_messages": "Direktmeddelanden",
             "friend_requests": "Vänförfrågningar",
-            "game_invites": "Spel-inbjudningar"
+            "game_invites": "Spelinbjudningar"
         },
         "anime_names": {
-            "title": "Anime-namn",
-            "description": "Standard anime-namn som visas i quiz",
+            "title": "Animenamn",
+            "description": "Standard animenamn som visas i quiz",
             "english": "Engelska",
             "romaji": "Romaji"
         },
@@ -764,7 +764,7 @@
             }
         },
         "anime_list": {
-            "description": "Anslut din AniList, MyAnimeList eller Kitsu-lista, så använder spelet din anime-lista när det väljer låtar med inställningen \"tittad\". _BREAK_ Listor uppdateras varje vecka eller när du klickar på uppdatera. För att ta bort en lista, uppdatera den utan användarnamn.",
+            "description": "Anslut din AniList, MyAnimeList eller Kitsu-lista, så använder spelet din animelista när det väljer låtar med inställningen \"tittad\". _BREAK_ Listor uppdateras varje vecka eller när du klickar på uppdatera. För att ta bort en lista, uppdatera den utan användarnamn.",
             "share_entries": {
                 "title": "Dela titlar",
                 "description": "Visa när en titel är från din lista"
