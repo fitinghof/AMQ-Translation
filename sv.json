@@ -266,7 +266,9 @@
                     "title": "Schema för veckans quiz",
                     "text": "Se schemat för veckans quiz och mer info om spelläget"
                 },
-                "region_time": { "text": "Region och tid till nästa quiz" }
+                "region_time": {
+                    "text": "Region och tid till nästa quiz"
+                }
             },
             "alerts": {
                 "ranked_rules": {
@@ -275,11 +277,17 @@
                 }
             },
             "regions": {
-                "west": { "name": "Väst", "shorthand": "V" },
-                "east": { "name": "Öst", "shorthand": "Ö" },
+                "west": {
+                    "name": "Väst",
+                    "shorthand": "V"
+                },
+                "east": {
+                    "name": "Öst",
+                    "shorthand": "Ö"
+                },
                 "central": {
-                    "MISSING-name": "Central",
-                    "MISSING-shorthand": "C"
+                    "name": "Central",
+                    "shorthand": "C"
                 }
             }
         },
@@ -343,7 +351,9 @@
                         "minimum": "Minsta donationsbelopp är 1€"
                     }
                 },
-                "donation_error": { "title": "Donationsfel" },
+                "donation_error": {
+                    "title": "Donationsfel"
+                },
                 "donation_received": {
                     "title": "Donation mottagen",
                     "text": "Tack för att ni stödjer spelet!"
@@ -685,83 +695,83 @@
         },
         "language": "Språk",
         "auto_submit": {
-            "MISSING-title": "Auto Submit",
-            "MISSING-description": "Automatically submit your answer when the guess time runs out"
+            "title": "Autoinlämning",
+            "description": "Skicka automatiskt in ditt svar när gissningstiden går ut"
         },
         "list_numbering": {
-            "MISSING-title": "List Numbering",
-            "MISSING-description": "Show number of songs played from each players anime list on the scoreboard"
+            "title": "Listnumrering",
+            "description": "Visa antal låtar som spelats från varje spelares animelista på poängtavlan"
         },
         "disable_emotes": {
-            "MISSING-title": "Disable Emotes",
-            "MISSING-description": "Disable emotes from being shown in chats"
+            "title": "Inaktivera Emotes",
+            "description": "Inaktivera emotes från att visas i chattar"
         },
         "answer_time": {
-            "MISSING-title": "Answer Time",
-            "MISSING-description": "Display players answer time on their avatars"
+            "title": "Svarstid",
+            "description": "Visa spelares svarstid på deras avatarer"
         },
         "anime_link": {
-            "MISSING-title": "Anime Link",
-            "MISSING-description": "The anime site that's linked in song info"
+            "title": "Animelänk",
+            "description": "Animesidan som är länkad i låtinfo"
         },
         "auto_skip_vote": {
-            "MISSING-title": "Auto Skip Vote",
-            "MISSING-description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
-            "MISSING-guessing_phase": "Guessing Phase",
-            "MISSING-replay_phase": "Replay Phase"
+            "title": "Autoskippa",
+            "description": "Automatiskt rösta för att hoppa över efter att ha svarat och/eller efter 2 sekunder i reprisfasen",
+            "guessing_phase": "Gissningsfas",
+            "replay_phase": "Reprisfas"
         },
         "block_non_friend_actions": {
-            "MISSING-title": "Block Non-Friend Actions",
-            "MISSING-description": "Block social actions from players not on your friends list",
-            "MISSING-direct_messages": "Direct Messages",
-            "MISSING-friend_requests": "Friend Requests",
-            "MISSING-game_invites": "Game Invites"
+            "title": "Blockera handlingar från icke-vänner",
+            "description": "Blockera sociala handlingar från spelare som inte finns på din vänlista",
+            "direct_messages": "Direktmeddelanden",
+            "friend_requests": "Vänförfrågningar",
+            "game_invites": "Spelinbjudningar"
         },
         "anime_names": {
-            "MISSING-title": "Anime Names",
-            "MISSING-description": "Default anime name shown in quizzes",
-            "MISSING-english": "English",
-            "MISSING-romaji": "Romaji"
+            "title": "Animenamn",
+            "description": "Standard animenamn som visas i quiz",
+            "english": "Engelska",
+            "romaji": "Romaji"
         },
         "team_answer": {
-            "MISSING-title": "Team Answers in Chat",
-            "MISSING-description": "Show your team answers in the chat during team games",
-            "MISSING-never": "Never",
-            "MISSING-out_of_focus": "Out of Focus",
-            "MISSING-always": "Always"
+            "title": "Lag-svar i chatt",
+            "description": "Visa dina lag-svar i chatten under lagspel",
+            "never": "Aldrig",
+            "out_of_focus": "Ur fokus",
+            "always": "Alltid"
         },
         "sound_equalizing": {
-            "MISSING-title": "Sound Equalizing",
-            "MISSING-description": "Equalize volume levels between different songs"
+            "title": "Ljudutjämning",
+            "description": "Jämna ut volymen mellan olika låtar"
         },
         "max_volume": {
-            "MISSING-title": "Max Volume",
-            "MISSING-description": "The maximum volume for sound equalizing, increasing this will increase the overall volume, but may cause quieter songs to not be fully equalized"
+            "title": "Maxvolym",
+            "description": "Den maximala volymen för ljudutjämning. Att höja denna kommer att öka den totala volymen, men kan göra att tystare låtar inte blir helt utjämnade."
         },
         "auto_hide_video": {
-            "MISSING-title": "Auto Hide Video",
-            "MISSING-description": "Automatically hide the video for the selected categories, it can still be unhidden by clicking the video during the replay phase",
+            "title": "Autogöm video",
+            "description": "Göm automatiskt videon för de valda kategorierna. Den kan fortfarande visas genom att klicka på videon under reprisfasen.",
             "MISSING-openings": "Openings",
             "MISSING-endings": "Endings",
             "MISSING-inserts": "Inserts",
             "unwatched": {
-                "MISSING-title": "Unwatched",
-                "MISSING-description": "Videos from anime you haven't watched"
+                "title": "Osett",
+                "description": "Videor från anime du inte har sett"
             },
             "high_risk": {
-                "MISSING-title": "High Risk",
-                "MISSING-description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
+                "title": "Hög risk",
+                "description": "Videor som sannolikt orsakar spoilers eller är NSFW. Baserat på spelarstatistik."
             }
         },
         "anime_list": {
-            "MISSING-description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
+            "description": "Anslut din AniList, MyAnimeList eller Kitsu-lista, så använder spelet din animelista när det väljer låtar med inställningen \"tittad\". _BREAK_ Listor uppdateras varje vecka eller när du klickar på uppdatera. För att ta bort en lista, uppdatera den utan användarnamn.",
             "share_entries": {
-                "MISSING-title": "Share Entries",
-                "MISSING-description": "Show when a show is from your list"
+                "title": "Dela titlar",
+                "description": "Visa när en titel är från din lista"
             },
             "show_scores": {
-                "MISSING-title": "Show Scores",
-                "MISSING-description": "Show your anime score for shows on your list"
+                "title": "Visa poäng",
+                "description": "Visa dina anime-poäng för serier på din lista"
             },
             "anilist_username": "AniList användarnamn",
             "mal_username": "MyAnimeList användarnamn",
@@ -779,13 +789,13 @@
                 "anilist_error": "Kunde inte hämta lista från AniList"
             },
             "included_entries": {
-                "MISSING-title": "Included Entries",
+                "title": "Inkluderade titlar",
                 "types": {
-                    "MISSING-watching": "Watching",
-                    "MISSING-completed": "Completed",
-                    "MISSING-on_hold": "On Hold",
-                    "MISSING-dropped": "Dropped",
-                    "MISSING-planning": "Planning"
+                    "watching": "Pågående",
+                    "completed": "Avslutad",
+                    "on_hold": "Pausad",
+                    "dropped": "Nedlagd",
+                    "planning": "Planerad"
                 }
             }
         },
