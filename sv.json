@@ -504,7 +504,7 @@
             },
             "challenger_glow": {
                 "name": "Utmanare",
-                "description": "Upplåst för spelare som placerade top 50 i förra månades mästerskap"
+                "description": "Upplåst för spelare som placerade top 50 i förra månadens mästerskap"
             },
             "patreon_color": {
                 "name": "Patreon",
