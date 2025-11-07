@@ -653,7 +653,7 @@
                 "footer": "Accepterade filformat: png (Standard), gif (Animerade). Max filstorlek: 256kb",
                 "file_too_large": {
                     "title": "För stor fil",
-                    "description": "Max filstorlek är 256kb. Uppladdede filen är _NUMBER_kb"
+                    "description": "Max filstorlek är 256kb. Uppladdade filen är _NUMBER_kb"
                 },
                 "no_standard_slot": {
                     "title": "Ingen standard plats tillgänglig",
