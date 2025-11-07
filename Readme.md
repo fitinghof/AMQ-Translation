@@ -8,20 +8,21 @@ Note that this readme is also a work in progress.
 
 ## Specific translation choices
 
-- Ranked - Tävlingsinriktat
-- Themed quiz - Tema quiz
-- Community - Gemenskap
-- Email - E-post / E-postadress (Context dependent)
-- Skins - Utklädnader
-- Scoreboard - Poängtavla
-- Name Change Token - Namnändringspollett
+-   Ranked - Tävlingsinriktat
+-   Themed quiz - Tema quiz
+-   Community - Gemenskap
+-   Email - E-post / E-postadress (Context dependent)
+-   Skins - Utklädnader
+-   Scoreboard - Poängtavla
+-   Name Change Token - Namnändringspollett
+-   Recolors - Färgvarianter
 
 ## Don't Translate
 
-- Nexus
-- FAQ
-- Online / Offline
-- Jam
+-   Nexus
+-   FAQ
+-   Online / Offline
+-   Jam
 
 ## Test Link
 
