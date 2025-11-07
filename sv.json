@@ -489,7 +489,7 @@
         "edit": "Ändra",
         "change_nickname": "Ändra smeknamn",
         "change_nickname_modal": {
-            "description": "Du kan ändra ditt smeknamn (namnet som visas i spelet) genom att spendera en namnändringspolett. Ditt konto får en polett varje år och ytterligare en polett varje månad om du är en nivå 4 patreon supporter. _BREAK_ Om du ändrar ditt smeknamn kommer namnet bli tillgängligt för vem som helst att använda (även om det är ditt ursprunglia namn). _BREAK_ Ditt ursprunglia namn kommer fortfarande synas på din profil.",
+            "description": "Du kan ändra ditt smeknamn (namnet som visas i spelet) genom att spendera en namnändringspolett. Ditt konto får en polett varje år och ytterligare en polett varje månad om du är en nivå 4 eller högre patreon supporter. _BREAK_ Om du ändrar ditt smeknamn kommer namnet bli tillgängligt för vem som helst att använda (även om det är ditt ursprunglia namn). _BREAK_ Ditt ursprunglia namn kommer fortfarande synas på din profil.",
             "current_tokens": "Nuvarande namnändringspoletter: _SPAN_ _NUMBER_ _SPAN_",
             "check_availability": "Kolla tillgänglighet"
         },
