@@ -301,7 +301,7 @@
             "ranked_game_description_one": "30 minuter innan start kommer du kunna gå med i antingen nybörjar rummet eller expert rummet för det tävlingsinriktade läget från huvudmenyn. _BREAK_ Nybörjarrummet är riktat mot nya och mindre hardcore spelare och innehåller 45, främst medium och lätta låtar med 20 sekunders gissningstid. _BREAK_ Expertrummet är riktat mot tävlingsinriktade och mer hardcore spelare och innehåller 85 helt slumpade låtar med 15 sekunders gissningstid",
             "ranked_game_description_two": "Vid slutet av varje tävlingsinriktat spel kommer du tjäna poäng baserat på hur många rätt du fick. _BREAK_ I nybörjarrummet kommer du tjäna 3 poäng för varje korrekt gissning. _BREAK_ I expertrummet ökar mängden poäng baserat på hur många korrekta gissningar du fått. De första 5 korrekta gissningarna ger 5 poäng var, nästa 5 ger 6 poäng var, nästa ger 7 poäng var och så vidare.",
             "end_of_season": "Säsongsslut",
-            "end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast top 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
+            "end_of_season_description": "Den sista lördagen varje månad körs ett mästerskapsspel istället för ett vanligt tävlingsinriktat. Mästerskapsspelen fungerar likadant som vanliga tävlingsinriktade spel men endast topp 150 från varje region får delta där vinnaren blir kronad regionsmästare. _BREAK_ Måndagen efter mästerskapet nollställs alla poäng och en ny säsong börjar.",
             "rules": "Regler",
             "rules_description": "Det tävlingsinriktade läget är ett test av individuell skicklighet, därav är viktigt att inte dela ledtrådar eller svar till andra spelare. Alla verktyg, metoder eller mjukvara som ger en orättvis fördel är otillåtna (som det är för alla spellägen). _BREAK_ Att bryta mot reglerna ovan kan resultera i att ditt konto blir bannlyst och dina tävlingsinriktade belöningar tas bort."
         },
@@ -489,7 +489,7 @@
         "edit": "Ändra",
         "change_nickname": "Ändra smeknamn",
         "change_nickname_modal": {
-            "description": "Du kan ändra ditt smeknamn (namnet som visas i spelet) genom att spendera en namnändringspolett. Ditt konto får en polett varje år och ytterligare en polett varje månad om du är en nivå 4 eller högre patreon supporter. _BREAK_ Om du ändrar ditt smeknamn kommer namnet bli tillgängligt för vem som helst att använda (även om det är ditt ursprunglia namn). _BREAK_ Ditt ursprunglia namn kommer fortfarande synas på din profil.",
+            "description": "Du kan ändra ditt smeknamn (namnet som visas i spelet) genom att spendera en namnändringspolett. Ditt konto får en polett varje år och ytterligare en polett varje månad om du är en nivå 4 eller högre patreon supporter. _BREAK_ Om du ändrar ditt smeknamn kommer namnet bli tillgängligt för vem som helst att använda (även om det är ditt ursprungliga namn). _BREAK_ Ditt ursprungliga namn kommer fortfarande synas på din profil.",
             "current_tokens": "Nuvarande namnändringspoletter: _SPAN_ _NUMBER_ _SPAN_",
             "check_availability": "Kolla tillgänglighet"
         },
@@ -500,19 +500,19 @@
         "name_effects_entries": {
             "challenger_color": {
                 "name": "Utmanare",
-                "description": "Upplåst för spelare som kvalificerade för förra månadens mästerskap"
+                "description": "Upplåst för de spelare som kvalificerade sig till förra månadens mästerskap"
             },
             "challenger_glow": {
                 "name": "Utmanare",
-                "description": "Upplåst för spelare som placerade top 50 i förra månadens mästerskap"
+                "description": "Upplåst för de spelare som placerade topp 50 i förra månadens mästerskap"
             },
             "patreon_color": {
                 "name": "Patreon",
-                "description": "Upplåst för nivå 3 och högre patreon supporters"
+                "description": "Upplåst för nivå 3 och högre patreon supportrar"
             },
             "patreon_glow": {
                 "name": "Patreon",
-                "description": "Upplåst för nivå 4 och högre patreon supporters"
+                "description": "Upplåst för nivå 4 och högre patreon supportrar"
             },
             "month_patreon_current": "Upplåst för nivå 5 patreon supporters som supportat denna månaden och samtliga nivå 6 supporters",
             "month_patreon_previous": "Upplåst för nivå 5 patreon supporters som supportade under släppmånaden och samtliga nivå 6 supporters",
@@ -553,7 +553,7 @@
             },
             "description": {
                 "qualified": "Kvalificerade för mästerskapet _YEAR_ säsong _NUMBER_",
-                "top": "Placerade top _TOP_ i mästerskapet _YEAR_ säsong _NUMBER_"
+                "top": "Placerade topp _TOP_ i mästerskapet _YEAR_ säsong _NUMBER_"
             }
         },
         "patreon": {
@@ -582,13 +582,13 @@
         "aragaimu": {
             "name": {
                 "participant": "Aragaimu _YEAR_ deltagare",
-                "top32": "Aragaimu _YEAR_ top 32",
-                "top4": "Aragaimu _YEAR_ top 4"
+                "top32": "Aragaimu _YEAR_ topp 32",
+                "top4": "Aragaimu _YEAR_ topp 4"
             },
             "description": {
                 "participant": "Deltog i Aragaimu turneringen _YEAR_",
-                "top32": "Placerade top 32 i Aragaimu turneringen _YEAR_",
-                "top4": "Placerade top 4 i Aragaimu turneringen _YEAR_"
+                "top32": "Placerade topp 32 i Aragaimu turneringen _YEAR_",
+                "top4": "Placerade topp 4 i Aragaimu turneringen _YEAR_"
             }
         }
     },
