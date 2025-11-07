@@ -521,7 +521,7 @@
     },
     "badges": {
         "ranked": {
-            "name": "Tävlingsinrikitat _TIER_ _YEAR_ _NUMBER_",
+            "name": "Tävlingsinriktat _TIER_ _YEAR_ _NUMBER_",
             "name_result": "Tävlingsinrikitat _TIER_ _YEAR_",
             "description": "Nådde _TIER_ i säsong _NUMBER_ av _YEAR_ tävlingsinriktat",
             "description_result": "Nådde _TIER_ för _YEAR_ tävlingsinriktat",
