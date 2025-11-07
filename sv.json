@@ -428,7 +428,7 @@
                 "spectating_quiz": "Tittar på _NAME_ quiz",
                 "in_quiz": "I _NAME_ quiz",
                 "mode_names": {
-                    "co-op": "co-Op",
+                    "co-op": "co-op",
                     "private": "privat",
                     "jam": "jam",
                     "event": "event",
@@ -597,7 +597,7 @@
         "description": "Hjälp stödja driften och utvecklingen av AMQ genom att stödja spelet på patreon. Att jobba på och dela AMQ med er alla har varit, och är en fantastisk upplevelse och jag har så mycket mer jag vill göra med spelet. Genom att supporta patreonen kommer du att hjälpa till att inte bara täcka kostnaderna för att driva spelet men också dess framtida utveckling! Som ett extra tack kommer du få flera exclusiva belöningar!",
         "reward_examples": {
             "title": "Några av patreon belöningarna",
-            "sneak_peeks": "förhandsvisningar",
+            "sneak_peeks": "Förhandsvisningar",
             "patreon_badge": "Patreon medaljer",
             "custom_emotes": "Egna emotes",
             "monthly_tickets": "Biljetter varje månad"
