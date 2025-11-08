@@ -723,9 +723,9 @@
         "block_non_friend_actions": {
             "title": "Blockera handlingar från icke-vänner",
             "description": "Blockera sociala handlingar från spelare som inte finns på din vänlista",
-            "direct_messages": "Direktmeddelanden",
-            "friend_requests": "Vänförfrågningar",
-            "game_invites": "Spelinbjudningar"
+            "direct_messages": "Meddelanden",
+            "friend_requests": "Vänskaps förfrågningar",
+            "game_invites": "Inbjudningar"
         },
         "anime_names": {
             "title": "Animenamn",
