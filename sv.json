@@ -437,7 +437,7 @@
                     "jam": "jam",
                     "event": "event",
                     "solo": "solo",
-                    "MISSING-quiz_of_the_day": "Quiz of the Day"
+                    "quiz_of_the_day": "Dagens quiz"
                 }
             },
             "options": {
@@ -841,43 +841,43 @@
         "wrong_password": "Nuvarande lösenord är felaktigt"
     },
     "leaderboard_window": {
-        "MISSING-title": "Leaderboard",
-        "MISSING-levels": "Levels",
-        "MISSING-self": "Self",
-        "MISSING-friends": "Friends",
-        "MISSING-top": "Top",
+        "title": "Topplista",
+        "levels": "Levelar",
+        "self": "Jag",
+        "friends": "Vänner",
+        "top": "Topp",
         "MISSING-ranked": "Ranked",
-        "MISSING-all": "All",
+        "all": "Alla",
         "MISSING-champs": "Champs"
     },
     "tutorial_window": {
-        "MISSING-title": "Tutorials",
+        "title": "Instruktioner",
         "MISSING-start": "Start",
         "MISSING-reset": "Reset",
-        "MISSING-nexus_tutorials": "Nexus Tutorials",
+        "nexus_tutorials": "Nexus instruktioner",
         "tutorials": {
             "MISSING-gameplay": "Gameplay",
-            "MISSING-avatars": "Avatars",
+            "avatars": "Avatarer",
             "MISSING-social": "Social",
             "MISSING-dungeon": "Dungeon",
             "MISSING-workshop": "Workshop",
-            "MISSING-rune_setup": "Rune Setup"
+            "rune_setup": "Runuppsättning"
         },
         "status": {
-            "MISSING-locked": "Locked",
-            "MISSING-unlocked": "Unlocked",
+            "locked": "Låst",
+            "unlocked": "Upplåst",
             "MISSING-completed": "Completed"
         }
     },
     "guidelines_window": {
-        "MISSING-title": "Guidelines",
+        "title": "Riktlinjer",
         "MISSING-description": "Anime Music Quiz is meant to be fair and enjoyable for everyone. To ensure this it’s important you follow the below guidelines, as well as any instructions from moderators. Failure to follow these guidelines will result in chat or game bans depending on the case.",
         "dont_cheat": {
-            "MISSING-title": "Don't Cheat",
+            "title": "Fuska inte",
             "MISSING-text": "Using any type of external software or tool that gives an unfair advantage is considered cheating. This in general covers, but is not limited to tools that reveal extra information about the song, video or show."
         },
         "no_teaming": {
-            "MISSING-title": "No Teaming in Ranked",
+            "title": "Inget sammarbete i Tävlingintriktat",
             "MISSING-text": "Ranked is meant to be a test of individual skill, teaming or sharing answers with other players is therefore strictly prohibited. Outside of ranked (and jam mode) you are more than welcome to share answers with friends if the hosts of the room are okay with it, but keep the sharing out of ranked."
         },
         "no_automated_grind": {
@@ -885,16 +885,16 @@
             "MISSING-text": "It’s okay to grind for notes and tickets, as long as you put in the work for it. But using any tools or method to automate or semi automate the grind is strictly against the rules, and will resolve in a perma ban. This includes AFK grinding in team lobbies."
         },
         "dont_harass": {
-            "MISSING-title": "Don't Harass Other Players",
+            "title": "Trakassera inte andra spelare",
             "MISSING-text": "The game is for everyone, so harassment of others is not tolerated. It’s of course okay to banter between friends, but make sure everyone is in on it."
         },
         "no_hate_speech": {
-            "MISSING-title": "No Hate Speech or Racism",
-            "MISSING-text": "This goes without saying, be nice to each other and don’t go throwing around racial slurs."
+            "title": "Ingen hets mot folkgrupp eller rasism",
+            "MISSING-text": "Detta säger sig själv. Var snälla mot varandra och använd inte rasistiska skällsord."
         }
     },
     "about_window": {
-        "MISSING-title": "About",
+        "title": "Om",
         "MISSING-developed_by": "Developed by _NAME_",
         "MISSING-development": "Development",
         "MISSING-art": "Art",
@@ -907,7 +907,7 @@
         "MISSING-collapse_all": "Collapse All",
         "MISSING-open_all": "Open All",
         "rhythm": {
-            "MISSING-title": "Rhythm",
+            "title": "Rytm",
             "MISSING-description": "Currency gained by rolling duplicates in the Ticket System. Can be used to unlock ticket rewards.",
             "MISSING-duplicate": "Duplicate, rhythm awarded"
         },
@@ -923,7 +923,7 @@
             "MISSING-no_target_description": "Target a skin/avatar by targeting it from the shop",
             "MISSING-target_set": "Resonance Target Set",
             "how_it_works": {
-                "MISSING-title": "How It Works",
+                "title": "Hur det går till",
                 "MISSING-description": "Target an epic or legendary avatar/skin in the shop, and gain points towards it every time you roll in the Ticket System, double points if you use an avatar token for the target. _BREAK_ Once you’ve gained enough points (200 for epic, 500 for legendary) the target is unlocked! _BREAK_ You can swap your target at any time, but it halves your point. _BREAK_ You can target seasonal/limited-time avatars, but you can only gain points towards them while they are in rotation."
             },
             "set_target_prompt": {
@@ -968,105 +968,105 @@
         },
         "filters": {
             "locked": {
-                "MISSING-title": "Locked",
-                "MISSING-description": "Show content you haven't unlocked"
+                "title": "Låst",
+                "description": "Visa innehåll du ej har låst upp"
             },
             "unlocked": {
-                "MISSING-title": "Unlocked",
-                "MISSING-description": "Show content you have unlocked"
+                "title": "Upplåst",
+                "description": "Visa innehåll du har låst upp"
             },
             "available": {
-                "MISSING-title": "Available",
-                "MISSING-description": "Show content that's available to unlock in the shop"
+                "title": "Tillgänglig",
+                "description": "Visa innehåll som är tillgängligt att låsa upp i butiken"
             },
             "unavailable": {
-                "MISSING-title": "Unavailable",
-                "MISSING-description": "Show content that's not currently available to unlock in the shop"
+                "title": "Otillgänglig",
+                "description": "Visa innehåll som ej är tillgängligt att låsa upp i nuläget"
             },
             "limited": {
-                "MISSING-title": "Limited",
-                "MISSING-description": "Show content that's only available for a limited time"
+                "title": "Begränsat",
+                "description": "Visa innehåll som bara är tillgängligt under en begränsad tid"
             },
             "unlimited": {
-                "MISSING-title": "Unlimited",
-                "MISSING-description": "Show content that's always available to unlock"
+                "title": "Obegränsat",
+                "description": "Visa innehåll som alltid är upplåsbart"
             },
             "exclusive": {
-                "MISSING-title": "Exclusive",
-                "MISSING-description": "Show content unlockable through the ticket systems"
+                "title": "Exklusivt",
+                "description": "Visa innehåll som är upplåsbart genom biljettsystemet"
             },
             "standard": {
-                "MISSING-title": "Standard",
-                "MISSING-description": "Show content unlockable with notes"
+                "title": "Standard",
+                "description": "Visa innehåll som är upplåsbart med noter"
             }
         },
-        "MISSING-background": "Background",
+        "background": "Bakgrund",
         "toggle": {
-            "MISSING-on": "Toggle On",
-            "MISSING-off": "Toggle Off"
+            "on": "Sätt på",
+            "off": "Stäng av"
         },
-        "MISSING-poses": "Poses",
+        "poses": "Poser",
         "pose_names": {
             "MISSING-base": "Base",
-            "MISSING-thinking": "Thinking",
-            "MISSING-waiting": "Waiting",
-            "MISSING-no_answer": "No Answer",
-            "MISSING-correct": "Correct",
-            "MISSING-wrong": "Wrong"
+            "thinking": "Tänker",
+            "waiting": "Väntar",
+            "no_answer": "Inget svar",
+            "correct": "Rätt",
+            "wrong": "Fel"
         },
         "avatar_action_button": {
-            "MISSING-active": "Active",
+            "active": "Aktivera",
             "MISSING-missing_skin": "Missing Skin Bonus",
-            "MISSING-background_locked": "Background Locked",
-            "MISSING-use": "Use",
-            "MISSING-unavailable": "Unavailable",
-            "MISSING-decoration_not_unlocked": "Decoration Not Unlocked",
-            "MISSING-unlock": "Unlock"
+            "background_locked": "Bakgrund låst",
+            "use": "Använd",
+            "unavailable": "Otillgänglig",
+            "decoration_not_unlocked": "Dekoration ej upplåst",
+            "unlock": "Lås upp"
         },
         "avatar_bonus": {
-            "MISSING-title": "Avatar Bonus",
-            "MISSING-description": "Unlock 10 different skins/versions for this avatar to earn its badge"
+            "title": "Avatar bonus",
+            "description": "Lås upp tio olika utklädnader/varianter för denna avatar och få deras medalj"
         },
         "skin_bonus": {
-            "MISSING-title": "Skin Bonus",
+            "title": "Utklädnad bonus",
             "MISSING-description": "Unlock 10 different versions of this skin to unlock its backgrounds for other avatars"
         },
-        "MISSING-world": "World",
-        "MISSING-artist": "Artist",
-        "MISSING-version_artist": "Version Artist",
+        "world": "Värld",
+        "artist": "Artist",
+        "version_artist": "Version artist",
         "MISSING-background_story": "Background Story",
         "ticket_system": {
-            "MISSING-ticket": "Ticket",
-            "MISSING-tickets": "Tickets",
+            "ticket": "Biljett",
+            "tickets": "Biljetter",
             "MISSING-avatar_token": "Avatar Token",
             "MISSING-avatar_tokens": "Avatar Tokens",
             "menu": {
-                "MISSING-use": "Use",
-                "MISSING-history": "History",
-                "MISSING-buy": "Buy",
-                "MISSING-gift": "Gift"
+                "use": "Använd",
+                "history": "Historik",
+                "buy": "Köp",
+                "gift": "Gåva"
             },
             "MISSING-redeem_code": "Redeem Ticket Code",
             "ticket_code_input": {
-                "MISSING-title": "Enter Ticket Code",
+                "title": "Skriv in biljettkod",
                 "MISSING-placeholder": "Ticket Code",
                 "MISSING-redeem": "Redeem"
             },
-            "MISSING-invalid_ticket_code": "Invalid Ticket Code",
+            "invalid_ticket_code": "Ogiltig biljettkod",
             "ticket_code_redeemed_message": {
                 "MISSING-title": "Ticket Code Redeemed!",
                 "MISSING-description": "_NUMBER_ tickets and _NUMBER2_ tokens claimed."
             },
-            "MISSING-approx_dollar": "Approx. $_NUMBER_",
+            "approx_dollar": "Cirka $_NUMBER_",
             "patreon_promo": {
                 "MISSING-line_one": "Back the Patreon to get",
                 "MISSING-line_two": "the Most Tickets for Your Money!"
             },
-            "MISSING-one_ticket": "1 Ticket",
+            "one_ticket": "En biljett",
             "MISSING-ticket_pack": "_NUMBER_ Pack",
             "MISSING-gift_target": "Gift Target",
             "MISSING-gift_no_target_message": "Select Friend to Gift",
-            "MISSING-gift_clear": "Clear",
+            "gift_clear": "Rensa",
             "gift_message": {
                 "MISSING-title": "Buying Ticket Gift for _NAME_",
                 "MISSING-placeholder": "Gift message: _MESSAGE_"
@@ -1076,7 +1076,7 @@
                 "MISSING-description": "Select one below"
             },
             "gift_no_friends": {
-                "MISSING-title": "No Friends in Friend List",
+                "title": "Inga vänner i vänlistan",
                 "MISSING-description": "You're only able to gift tickets to friends in your friend list."
             },
             "MISSING-no_past_rolls": "No Past _BREAK_ Ticket Rolls",
@@ -1138,15 +1138,15 @@
             "MISSING-not_enough_tickets": "Not Enough Tickets"
         },
         "unlock_checkout": {
-            "MISSING-title": "Unlock",
-            "MISSING-buy": "Buy",
-            "MISSING-gift": "Gift",
-            "MISSING-tickets": "Tickets",
+            "title": "Lås upp",
+            "buy": "Köp",
+            "gift": "Ge bort",
+            "tickets": "Biljetter",
             "MISSING-open_checkout": "Open Checkout",
-            "MISSING-skin_entry": "Skin (Default: _NAME_)",
+            "skin_entry": "Utklädnad (Default: _NAME_)",
             "MISSING-version_entry": "Version: _NAME_",
             "MISSING-location_background": "Location Background",
-            "MISSING-decorations": "Decorations",
+            "decorations": "Dekorationer",
             "errors": {
                 "MISSING-failed_to_create_payment": "Failed to create payment, please try again.",
                 "MISSING-unlimited_slots_already_unlocked": "Unlimited slots already unlocked",
@@ -1157,30 +1157,30 @@
                 "MISSING-error_unlocking": "Error Unlocking"
             }
         },
-        "MISSING-toggle_favorite": "Toggle Favorite",
+        "toggle_favorite": "Lägg till i favoriter",
         "avatar_states": {
             "MISSING-unavailable": "Unavailable",
             "MISSING-limited": "Limited",
-            "MISSING-exclusive": "Exclusive",
-            "MISSING-standard": "Standard",
-            "MISSING-unique": "Unique"
+            "exclusive": "Exklusiv",
+            "standard": "Standard",
+            "unique": "Unik"
         },
         "decoration_buttons": {
             "MISSING-front": "Front",
             "MISSING-back": "Back"
         },
         "item_types": {
-            "MISSING-emote": "Emote",
-            "MISSING-background": "Background",
-            "MISSING-decoration": "Decoration",
-            "MISSING-skin": "Skin"
+            "emote": "Emote",
+            "background": "Bakgrund",
+            "decoration": "Dekoration",
+            "skin": "Utklädnad"
         },
-        "MISSING-ticket_reward_tier": "Ticket Reward Tier _TIER_",
-        "MISSING-rhythm_price": "Rhythm Price",
+        "ticket_reward_tier": "Biljettbelöningsnivå _TIER_",
+        "rhythm_price": "Rytm pris",
         "MISSING-silver_hibike_description": "Unique launch recolor unlocked by having joined the game during the launch week or by unlocking all non unique recolors for all avatars.",
         "emote_previews": {
-            "MISSING-chat": "Chat",
-            "MISSING-profile": "Profile"
+            "chat": "Chatt",
+            "profile": "Profil"
         }
     },
     "avatar_lore": {
