@@ -985,7 +985,7 @@
             },
             "limited": {
                 "title": "Begränsat",
-                "description": "Visa innehåll som bara är tillgängligt under begränsad tid"
+                "description": "Visa innehåll som bara är tillgängligt under en begränsad tid"
             },
             "unlimited": {
                 "title": "Obegränsat",
