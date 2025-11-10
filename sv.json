@@ -861,7 +861,7 @@
             "MISSING-social": "Social",
             "MISSING-dungeon": "Dungeon",
             "MISSING-workshop": "Workshop",
-            "rune_setup": "Runinställning"
+            "rune_setup": "Runuppsättning"
         },
         "status": {
             "locked": "Låst",
@@ -877,7 +877,7 @@
             "MISSING-text": "Using any type of external software or tool that gives an unfair advantage is considered cheating. This in general covers, but is not limited to tools that reveal extra information about the song, video or show."
         },
         "no_teaming": {
-            "title": "Inga lag i Tävlingintriktat",
+            "title": "Inget sammarbete i Tävlingintriktat",
             "MISSING-text": "Ranked is meant to be a test of individual skill, teaming or sharing answers with other players is therefore strictly prohibited. Outside of ranked (and jam mode) you are more than welcome to share answers with friends if the hosts of the room are okay with it, but keep the sharing out of ranked."
         },
         "no_automated_grind": {
@@ -890,7 +890,7 @@
         },
         "no_hate_speech": {
             "title": "Ingen hets mot folkgrupp eller rasism",
-            "MISSING-text": "Detta säger sig själv. Var snälla mot varandra och kasta inte omkring rasistiska skällsord."
+            "MISSING-text": "Detta säger sig själv. Var snälla mot varandra och använd inte rasistiska skällsord."
         }
     },
     "about_window": {
@@ -969,7 +969,7 @@
         "filters": {
             "locked": {
                 "title": "Låst",
-                "MISSING-description": "Visa innehåll du ej har låst upp"
+                "description": "Visa innehåll du ej har låst upp"
             },
             "unlocked": {
                 "title": "Upplåst",
@@ -977,19 +977,19 @@
             },
             "available": {
                 "title": "Tillgänglig",
-                "description": "Visa innehåll som är tillgänglig att låsa upp i butiken"
+                "description": "Visa innehåll som är tillgängligt att låsa upp i butiken"
             },
             "unavailable": {
                 "title": "Otillgänglig",
-                "description": "Visa innehåll som ej är tillgänglig att låsa upp i nuläget"
+                "description": "Visa innehåll som ej är tillgängligt att låsa upp i nuläget"
             },
             "limited": {
                 "title": "Begränsat",
-                "description": "Visa innehåll som bara är tillgänglig under begränsad tid"
+                "description": "Visa innehåll som bara är tillgängligt under begränsad tid"
             },
             "unlimited": {
                 "title": "Obegränsat",
-                "description": "Visa innehåll som alltid är tillgänglig att låsa upp"
+                "description": "Visa innehåll som alltid är upplåsbart"
             },
             "exclusive": {
                 "title": "Exklusivt",
@@ -1048,7 +1048,7 @@
             },
             "MISSING-redeem_code": "Redeem Ticket Code",
             "ticket_code_input": {
-                "MISSING-title": "Skriv in Ticket Code",
+                "title": "Skriv in biljettkod",
                 "MISSING-placeholder": "Ticket Code",
                 "MISSING-redeem": "Redeem"
             },
@@ -1057,7 +1057,7 @@
                 "MISSING-title": "Ticket Code Redeemed!",
                 "MISSING-description": "_NUMBER_ tickets and _NUMBER2_ tokens claimed."
             },
-            "approx_dollar": "Ca $_NUMBER_",
+            "approx_dollar": "Cirka $_NUMBER_",
             "patreon_promo": {
                 "MISSING-line_one": "Back the Patreon to get",
                 "MISSING-line_two": "the Most Tickets for Your Money!"
@@ -1157,7 +1157,7 @@
                 "MISSING-error_unlocking": "Error Unlocking"
             }
         },
-        "toggle_favorite": "Sätt på favoriter",
+        "toggle_favorite": "Lägg till i favoriter",
         "avatar_states": {
             "MISSING-unavailable": "Unavailable",
             "MISSING-limited": "Limited",
