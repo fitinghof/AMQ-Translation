@@ -167,7 +167,7 @@
             "text_three": "Your account has been flagged for cheating. Using plugins, code snippets, changing the site layout or any other methods to get an unfair advantage is against the Terms of Service of the game.",
             "text_temp": "As this is your first offence, your account has only been temporarily banned. But if you continue cheating after the ban has been removed, your account will be permanently banned.",
             "text_perm": "As this is your second offence, your account has been permanently banned.",
-            "text_end": "If you believe this ban to be an error, you can create a ticket over on the game’s _LINK_ Discord _LINK_ in the #open-a-ticket channel.",
+            "text_end": "If you believe this ban to be an error, you can create a ticket over on the game's _LINK_ Discord _LINK_ in the #open-a-ticket channel.",
             "suspended_until": "Suspended Until"
         }
     },
@@ -214,7 +214,7 @@
             "weekly_schedule": "Weekly Schedule",
             "current_week": "Current Week",
             "what_is": "What's the Quiz of the Day?",
-            "what_is_description": "Quiz of the day is a daily occurring unlimited size quiz where players can test their skills against the rest of the community. It’s currently split between ranked quizzes, a highly competitive mode, and themed quizzes which feature different community quizzes designed to give a unique and fun experience.",
+            "what_is_description": "Quiz of the day is a daily occurring unlimited size quiz where players can test their skills against the rest of the community. It's currently split between ranked quizzes, a highly competitive mode, and themed quizzes which feature different community quizzes designed to give a unique and fun experience.",
             "ranked_description": "Ranked Description",
             "week": "Week _NUMBER_",
             "week_year_2": "Week _NUMBER_ of _YEAR_",
@@ -302,11 +302,11 @@
             "region_description": "The ranked mode is split up into three separate regions (west, central, east), each with their own leaderboard, start time and championship. You will be able to participate in all regions, but ranked points only count for the region in which they're earned in.",
             "ranked_game": "Ranked Game",
             "ranked_game_description_one": "30 minutes before start time, you will be able to join either the novice or expert ranked lobby from the main menu. _BREAK_ The novice room is geared towards new and less hardcore players, and consists of 45 mainly medium and easy songs with 20 seconds guess time. _BREAK_ The expert room is geared towards hardcore and competitive players, and consists of 85 fully random songs with 15 seconds guess time.",
-            "ranked_game_description_two": "At the end of each ranked game, you'll earn ranked points based on the amount of songs you’ve guessed. _BREAK_ In novice games, you earn 3 points for each correct guess. _BREAK_ In expert games, the points per song increases with the number of songs you guessed. The first five songs reward 4 points each, the next five reward 5 points each, then 6 points each of the next 5 and so on.",
+            "ranked_game_description_two": "At the end of each ranked game, you'll earn ranked points based on the amount of songs you've guessed. _BREAK_ In novice games, you earn 3 points for each correct guess. _BREAK_ In expert games, the points per song increases with the number of songs you guessed. The first five songs reward 4 points each, the next five reward 5 points each, then 6 points each of the next 5 and so on.",
             "end_of_season": "End of Season",
             "end_of_season_description": "The last Saturday of each month, instead of the normal ranked game, a championship game is hosted instead. The championship games function like a normal ranked game, except only the top 150 players in the region are able to participate, with the winner earning the title of Region Champion. _BREAK_ The Monday after the championship, all ranked points are reset and a new season starts.",
             "rules": "Rules",
-            "rules_description": "The ranked game mode is a test of individual skills, so it's important that you don’t share hints or answers with other players. All tools, methods or software that give an unfair advantage are banned as well (as it is for all game modes). _BREAK_ Breaking the above rules can result in your account getting banned and all ranked rewards removed."
+            "rules_description": "The ranked game mode is a test of individual skills, so it's important that you don't share hints or answers with other players. All tools, methods or software that give an unfair advantage are banned as well (as it is for all game modes). _BREAK_ Breaking the above rules can result in your account getting banned and all ranked rewards removed."
         },
         "avatar_drive": {
             "title": "Avatar Drive",
@@ -372,7 +372,7 @@
         },
         "social_rewards": {
             "title": "Social Rewards",
-            "description_2": "As a thanks for following the game’s Discord and Patreon, you can claim an 8 ticket reward from following each. _BREAK_ Make sure to join the _LINK_ Discord _LINK_ before claiming the Discord reward. _BREAK_ Make sure to join (free) or back the _LINK2_ Patreon _LINK2_ before claiming the Patreon reward."
+            "description_2": "As a thanks for following the game's Discord and Patreon, you can claim an 8 ticket reward from following each. _BREAK_ Make sure to join the _LINK_ Discord _LINK_ before claiming the Discord reward. _BREAK_ Make sure to join (free) or back the _LINK2_ Patreon _LINK2_ before claiming the Patreon reward."
         },
         "game_mode": {
             "title": "Game Mode",
@@ -494,7 +494,7 @@
         "edit": "Edit",
         "change_nickname": "Change Nickname",
         "change_nickname_modal": {
-            "description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you’re a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
+            "description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you're a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
             "current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
             "check_availability": "Check Availability"
         },
@@ -871,7 +871,7 @@
     },
     "guidelines_window": {
         "title": "Guidelines",
-        "description": "Anime Music Quiz is meant to be fair and enjoyable for everyone. To ensure this it’s important you follow the below guidelines, as well as any instructions from moderators. Failure to follow these guidelines will result in chat or game bans depending on the case.",
+        "description": "Anime Music Quiz is meant to be fair and enjoyable for everyone. To ensure this it's important you follow the below guidelines, as well as any instructions from moderators. Failure to follow these guidelines will result in chat or game bans depending on the case.",
         "dont_cheat": {
             "title": "Don't Cheat",
             "text": "Using any type of external software or tool that gives an unfair advantage is considered cheating. This in general covers, but is not limited to tools that reveal extra information about the song, video or show."
@@ -882,15 +882,15 @@
         },
         "no_automated_grind": {
             "title": "No (Semi-)Automated Grind",
-            "text": "It’s okay to grind for notes and tickets, as long as you put in the work for it. But using any tools or method to automate or semi automate the grind is strictly against the rules, and will resolve in a perma ban. This includes AFK grinding in team lobbies."
+            "text": "It's okay to grind for notes and tickets, as long as you put in the work for it. But using any tools or method to automate or semi automate the grind is strictly against the rules, and will resolve in a perma ban. This includes AFK grinding in team lobbies."
         },
         "dont_harass": {
             "title": "Don't Harass Other Players",
-            "text": "The game is for everyone, so harassment of others is not tolerated. It’s of course okay to banter between friends, but make sure everyone is in on it."
+            "text": "The game is for everyone, so harassment of others is not tolerated. It's of course okay to banter between friends, but make sure everyone is in on it."
         },
         "no_hate_speech": {
             "title": "No Hate Speech or Racism",
-            "text": "This goes without saying, be nice to each other and don’t go throwing around racial slurs."
+            "text": "This goes without saying, be nice to each other and don't go throwing around racial slurs."
         }
     },
     "about_window": {
@@ -924,7 +924,7 @@
             "target_set": "Resonance Target Set",
             "how_it_works": {
                 "title": "How It Works",
-                "description": "Target an epic or legendary avatar/skin in the shop, and gain points towards it every time you roll in the Ticket System, double points if you use an avatar token for the target. _BREAK_ Once you’ve gained enough points (200 for epic, 500 for legendary) the target is unlocked! _BREAK_ You can swap your target at any time, but it halves your point. _BREAK_ You can target seasonal/limited-time avatars, but you can only gain points towards them while they are in rotation."
+                "description": "Target an epic or legendary avatar/skin in the shop, and gain points towards it every time you roll in the Ticket System, double points if you use an avatar token for the target. _BREAK_ Once you've gained enough points (200 for epic, 500 for legendary) the target is unlocked! _BREAK_ You can swap your target at any time, but it halves your point. _BREAK_ You can target seasonal/limited-time avatars, but you can only gain points towards them while they are in rotation."
             },
             "set_target_prompt": {
                 "title": "Set Skin as Resonance Target?",
@@ -943,7 +943,7 @@
             },
             "target_no_active_warning": {
                 "title": "Resonance Target Not Active",
-                "description": "Resonance points can’t be earned towards inactive targets, so roll won’t award resonance points."
+                "description": "Resonance points can't be earned towards inactive targets, so roll won't award resonance points."
             },
             "resonance_limit_warning": {
                 "title": "Resonance Limit Reached",
@@ -1108,7 +1108,7 @@
                     "rare": "(Rare) 10% chance: Advanced skin versions and decorations.",
                     "epic": "(Epic) 4.5% chance: Major skin version, seasonal skins and unique backgrounds.",
                     "legendary": "(Legendary) 0.5% chance: Unique skins and animated versions.",
-                    "info_footer": "Skin versions for a ticket reward skin can’t be rolled until the skin has been unlocked."
+                    "info_footer": "Skin versions for a ticket reward skin can't be rolled until the skin has been unlocked."
                 },
                 "how_does_rhythm_work": {
                     "title": "How Does Rhythm Work?",
@@ -1116,7 +1116,7 @@
                 },
                 "how_does_avatar_tokens_work": {
                     "title": "How Do Avatar Tokens Work?",
-                    "text": "When buying tickets or backing the Patron, you’ll receive avatar tokens. These tokens can be used to focus ticket rolls towards specific avatars or seasonal skins, by selecting a target before doing a roll. When an avatar/season is focused, each individual roll will have a 50% chance of being a non duplicate (if any available) of that avatar/season. _BREAK_ The rarity pull ratio remains the same when using avatar tokens."
+                    "text": "When buying tickets or backing the Patron, you'll receive avatar tokens. These tokens can be used to focus ticket rolls towards specific avatars or seasonal skins, by selecting a target before doing a roll. When an avatar/season is focused, each individual roll will have a 50% chance of being a non duplicate (if any available) of that avatar/season. _BREAK_ The rarity pull ratio remains the same when using avatar tokens."
                 }
             },
             "sale_text": {
@@ -1185,8 +1185,8 @@
     },
     "avatar_lore": {
         "hibiki": {
-            "thief": "Hibiki is a well known happy go lucky adventurer, with a knack for getting in where she isn’t supposed to be and out with more than she entered with. A skill she’s often found boasting about at local taverns.",
-            "monster_trainer": "Never being one to settle down for long, it didn’t surprise anyone when Hibiki set out to explore the world once she met her partner Hineko. Together the two of them make a powerhouse of a team, and are quickly making a name for themselves.",
+            "thief": "Hibiki is a well known happy go lucky adventurer, with a knack for getting in where she isn't supposed to be and out with more than she entered with. A skill she's often found boasting about at local taverns.",
+            "monster_trainer": "Never being one to settle down for long, it didn't surprise anyone when Hibiki set out to explore the world once she met her partner Hineko. Together the two of them make a powerhouse of a team, and are quickly making a name for themselves.",
             "fast_food_employee": "Finding herself in a new city, Hibiki had to quickly find a new job. Luckily, she ended up landing a great job up a local fast food joint, where she now spends her days working with great colleagues, while preparing for the next leg of her journey."
         },
         "honoka": {
@@ -1194,22 +1194,22 @@
             "druid": "Honoka hails from a nation of druids, but is now traveling the world in search of new knowledge, the final test given to novice scholars of her people. Her travels are currently shared with Kyouko, a local knight, assigned to be her guide in this kingdom."
         },
         "kyouko": {
-            "standard": "Kyouko has been working as Honoka’s personal maid for several years. Her energetic nature and natural clumsiness have resulted in several accidents that would have gotten her fired if not for her friendship with Honoka.",
+            "standard": "Kyouko has been working as Honoka's personal maid for several years. Her energetic nature and natural clumsiness have resulted in several accidents that would have gotten her fired if not for her friendship with Honoka.",
             "knight": "As the newest member of the royal guard, Kyouko was tasked with assisting Honoka, a scholar from an allied tribe of druids, in her travels around the country. Her days are therefore spent on the road, serving as Honoka's guard and guide.",
-            "bodyguard": "Kyouko was dismissed as Honoka’s maid, due to security changes. Still wanting to help Honoka, Kyouko studied to become a bodyguard, though her clumsiness often causes issues, Honoka let it slide as she likes spending time with Kyouko."
+            "bodyguard": "Kyouko was dismissed as Honoka's maid, due to security changes. Still wanting to help Honoka, Kyouko studied to become a bodyguard, though her clumsiness often causes issues, Honoka let it slide as she likes spending time with Kyouko."
         },
         "ritsu": {
             "standard": "An energetic high school student with a passion for music, and club president of her school's music club. Ritsu is often found attending live concerts around the city, and it was at one of these she met and befriended an out of place Honoka.",
-            "bard": "Ritsu was never a fan of the quiet life at her family’s farm, so when she got the chance, she ran away with a group of travelling entertainers. She now travels from town to town, sharing her music and exploring the world.",
+            "bard": "Ritsu was never a fan of the quiet life at her family's farm, so when she got the chance, she ran away with a group of travelling entertainers. She now travels from town to town, sharing her music and exploring the world.",
             "park_ranger": "As a young girl, Ritsu fell in love with the nature in national parks on an overseas vacation. So after finishing her education, she joined the park ranger program, and now spends her days protecting the wild nature in the parks.",
-            "kitsune": "In a certain city, there’s an urban legend about a Kitsune who hangs out around the city, joining in on the fun events going on. Ritsu has heard the rumor, but is unaware of the Kitsune bound to her, who sneaks out in her body from time to time.",
+            "kitsune": "In a certain city, there's an urban legend about a Kitsune who hangs out around the city, joining in on the fun events going on. Ritsu has heard the rumor, but is unaware of the Kitsune bound to her, who sneaks out in her body from time to time.",
             "summer_games": "In what quickly have become a yearly tradition, athletes from all the different worlds meet up every summer to compete in friendly competition. This year, Ritsu is one of the favorites for winning the 100-meter sprint.",
-            "queen": "Ritsu didn’t expect to end up as the queen of the country, but after a sudden turn of events she ended up with the crown. Although it’s all very new to her, she puts on a confident look, dedicated to not repeat her predecessors mistakes."
+            "queen": "Ritsu didn't expect to end up as the queen of the country, but after a sudden turn of events she ended up with the crown. Although it's all very new to her, she puts on a confident look, dedicated to not repeat her predecessors mistakes."
         },
         "hikari": {
-            "standard": "As a young easy going person, Hikari enjoys his simple life as a high school math teacher. He’s also ended up as the club advisor for the music club led by Ritsu, since her leadership allows him to spend most of the time relaxing.",
+            "standard": "As a young easy going person, Hikari enjoys his simple life as a high school math teacher. He's also ended up as the club advisor for the music club led by Ritsu, since her leadership allows him to spend most of the time relaxing.",
             "scholar": "As a leading scholar at the royal academy, most would suspect Hikari to spend his days buried in dusty old tomes, and not exploring ancient ruins in search for lost arcane knowledge from past civilizations.",
-            "fireman": "As a boy, Hikari was saved by a firefighter, which sparked his love for the job. He’s now a beloved firefighter in his local community, spending his days helping the locals and saving people when accidents occur."
+            "fireman": "As a boy, Hikari was saved by a firefighter, which sparked his love for the job. He's now a beloved firefighter in his local community, spending his days helping the locals and saving people when accidents occur."
         },
         "komugi": {
             "standard": "A local fox spirit of a half forgotten shrine in the countryside, Komugi is known for pulling pranks on the locals. Her shrine rarely gets visitors due to a larger shrine nearby, so she enjoys the visits she gets from Noel.",
@@ -1219,7 +1219,7 @@
         "noel": {
             "standard": "As a self proclaimed master detective, Noel finds mysteries and riddles to solve in everything, no case is too big for detective Noel! After finding an old forgotten shrine, she now also drags its spirit Komugi along on her \"detective work\".",
             "brawler": "Noel never liked the strict nature of the temple she grew up in, so when she got the chance, she ran away to explore the world. She has now teamed up with Komugi, and together they travel around, getting into all kinds of adventures.",
-            "catgirl": "During a case, Noel ended up possessed by a bakeneko. It wasn’t powerful enough to control Noel, but it still influenced her demeanor and made her sprout cat ears and tail, much to the dismay of Komugi who had to cover it all up."
+            "catgirl": "During a case, Noel ended up possessed by a bakeneko. It wasn't powerful enough to control Noel, but it still influenced her demeanor and made her sprout cat ears and tail, much to the dismay of Komugi who had to cover it all up."
         },
         "kuriko": {
             "standard": "Even among witches, Kuriko is seen as especially powerful, but her carefree attitude often keeps her from using her full powers. She can often be found having fun during the conflicts between technology and magic that occur in her world.",
@@ -1230,13 +1230,13 @@
             "valkyrie": "Miyu showed immense potential with magic at an early age, and was recruited as an royal magical knight, where her powers quickly earned her the rank of high knight and the nickname Valkyrie.",
             "ice_princess": "During one of her battles, Miyu ended up defending a tribe of ice sprites, who as Miyu was about to be defeated, bestowed their powers to her. Transforming her into a magical ice princess, giving her the power to defeat the enemy.",
             "idol": "After a mysterious evil organization infiltrated the idol industry, Miyu had to go undercover as an idol, to figure out and put a stop to their evil schemes. So, assisted by her magic, Miyu took to the stage as a world known idol.",
-            "summer_games": "Being a timid girl, people didn’t have much trust in Miyu being able to become a professional gymnast. But her talent and hard work proved them all wrong, and she’s now ready to display her skills at the yearly summer games."
+            "summer_games": "Being a timid girl, people didn't have much trust in Miyu being able to become a professional gymnast. But her talent and hard work proved them all wrong, and she's now ready to display her skills at the yearly summer games."
         },
         "shiina": {
             "standard": "Spending her childhood watching idols on television, Shiina dreamed of becoming one herself. Her dream finally started to come true as she began in highschool and was able to land the job as a local idol for her city."
         },
         "mizuki": {
-            "standard": "Mizuki serves as the shrine maiden at her popular shrine, sharing her blessing with its many visitors. Blessings which often end up in her favor. She often gets visits from Komugi who’s annoyed that the shrine is leaving Komugi’s forgotten.",
+            "standard": "Mizuki serves as the shrine maiden at her popular shrine, sharing her blessing with its many visitors. Blessings which often end up in her favor. She often gets visits from Komugi who's annoyed that the shrine is leaving Komugi's forgotten.",
             "high_priest": "Being the High Priest of her tribe, Mizuki was enjoying her life. That all changed when Komugi broke the rules and left the tribe, forcing Mizuki to set out to bring her back. She now travels around the world, trying to catch Komugi."
         },
         "marine": {
@@ -1244,70 +1244,70 @@
             "buccaneer": "Most people look twice when meeting Marine for the first time, but few who comment on her size live to tell the tale. Any doubts in her skills also quickly disappear after seeing her jump between decks, grinning as she brandishes her lance."
         },
         "akira": {
-            "standard": "A lot of Akira’s fans wouldn't expect that the normally cool and composed idol grew up as the oldest of several siblings. Working several jobs to help support them, until he by coincidence was scouted by a major idol agency.",
+            "standard": "A lot of Akira's fans wouldn't expect that the normally cool and composed idol grew up as the oldest of several siblings. Working several jobs to help support them, until he by coincidence was scouted by a major idol agency.",
             "samurai": "As the crown prince of an eastern country, Akira wanted to experience the world before having to take over as a ruler. But being the crown prince, he has to travel in secret, to avoid getting caught in local politics."
         },
         "rinko": {
-            "standard": "To most of her classmates, Rinko appears as a normal hard working high school student, they wouldn’t expect her to be a big fan of gothic lolita, who spends most weekends dressing up and attending events."
+            "standard": "To most of her classmates, Rinko appears as a normal hard working high school student, they wouldn't expect her to be a big fan of gothic lolita, who spends most weekends dressing up and attending events."
         },
         "alisa": {
-            "standard": "Most people know Alisa as a gentle and proud girl, but due to her immense talent with the sword and magic she’s often leading the charge against the technological nations. She is also one of the few people who can stand Kuriko’s antics."
+            "standard": "Most people know Alisa as a gentle and proud girl, but due to her immense talent with the sword and magic she's often leading the charge against the technological nations. She is also one of the few people who can stand Kuriko's antics."
         },
         "chika": {
-            "standard": "As a self proclaimed genius and master scientist, Chika lets nothing stand between her and her next experiment! This has earned her a bit of a reputation at her school, where she’s the president of the science club."
+            "standard": "As a self proclaimed genius and master scientist, Chika lets nothing stand between her and her next experiment! This has earned her a bit of a reputation at her school, where she's the president of the science club."
         },
         "yumemi": {
-            "standard": "Yumemi is usually found sleeping at any chance she gets. Most people are therefore surprised when they hear she’s the vice president of the science club, though she only joined to help her childhood friend Chika get enough members."
+            "standard": "Yumemi is usually found sleeping at any chance she gets. Most people are therefore surprised when they hear she's the vice president of the science club, though she only joined to help her childhood friend Chika get enough members."
         },
         "katsu": {
-            "standard": "Being a prominent player of the Zetto card game, Katsu is trying to collect the ancient precursor cards, which are said to hold the power to change the world. This often leads to battle against a shadowy organization who’re also seeking them."
+            "standard": "Being a prominent player of the Zetto card game, Katsu is trying to collect the ancient precursor cards, which are said to hold the power to change the world. This often leads to battle against a shadowy organization who're also seeking them."
         },
         "riku": {
-            "standard": "Riku is known by most as Rika, a famous live streamer and vlogger who’s known for getting access to places he’s not supposed to be. Riku himself mainly just enjoys the thrill of exploring and sharing his antics."
+            "standard": "Riku is known by most as Rika, a famous live streamer and vlogger who's known for getting access to places he's not supposed to be. Riku himself mainly just enjoys the thrill of exploring and sharing his antics."
         },
         "yuki": {
-            "standard": "As a young girl, Yuki fell in love with the cheerful Christmas atmosphere. So she’s often found at cosplay events giving out presents to kids and friends. It was at one of these events she met and befriended Rinko."
+            "standard": "As a young girl, Yuki fell in love with the cheerful Christmas atmosphere. So she's often found at cosplay events giving out presents to kids and friends. It was at one of these events she met and befriended Rinko."
         },
         "fuwagi": {
-            "standard": "Most people know Fuwagi as a lucky rabbit, as luck seems to conspire with her to get her out of any situation she finds herself in. Though, she views herself as unlucky, as it’s bad luck that gets her into those situations.",
+            "standard": "Most people know Fuwagi as a lucky rabbit, as luck seems to conspire with her to get her out of any situation she finds herself in. Though, she views herself as unlucky, as it's bad luck that gets her into those situations.",
             "traveling_merchant": "Known as the lucky bunny, Fuwagi travels from town to town selling her wares. She got the lucky nickname because misfortune never affects her goods, but she views herself as unlucky, as every permanent store she sets up is destroyed in some accident."
         },
         "yuuna": {
-            "standard": "Being the child of a famous chef, Yuuna fell in love with the art of cooking at a young age. She now travels the world, on a journey to hone her skills and prove she can live up to her mom’s legacy.",
+            "standard": "Being the child of a famous chef, Yuuna fell in love with the art of cooking at a young age. She now travels the world, on a journey to hone her skills and prove she can live up to her mom's legacy.",
             "painter": "Loving to explore and experience the world, Yuuna set out on a trip across the globe to discover its beauty. She travels leisurely from place to place, taking the time to capture the surrounding beauty on her canvas."
         },
         "haruki": {
-            "standard": "Being closely attuned to nature, Haruki is one of the most powerful one-tailed kitsune and can even rival some nine tails. He’s often tasked with breaking up the fights between Komugi and Mizuki, a task he loathes."
+            "standard": "Being closely attuned to nature, Haruki is one of the most powerful one-tailed kitsune and can even rival some nine tails. He's often tasked with breaking up the fights between Komugi and Mizuki, a task he loathes."
         },
         "asuka": {
-            "standard": "Asuka’s skills in the sky have earned her the title of flying ace, and is therefore often called into battle against the neighboring countries. Personally, Asuka couldn’t care less about the war, and is just happy to fly freely through the sky."
+            "standard": "Asuka's skills in the sky have earned her the title of flying ace, and is therefore often called into battle against the neighboring countries. Personally, Asuka couldn't care less about the war, and is just happy to fly freely through the sky."
         },
         "fira": {
-            "standard": "Fira wields immense powers as the heir to the dark dragon clan. Though, as she can’t stand the politics, she ran away from her home and is currently staying at Fuwagi’s house. Much to the dismay of Fuwagi who doesn’t dare ask her to leave."
+            "standard": "Fira wields immense powers as the heir to the dark dragon clan. Though, as she can't stand the politics, she ran away from her home and is currently staying at Fuwagi's house. Much to the dismay of Fuwagi who doesn't dare ask her to leave."
         },
         "naomi": {
-            "standard": "Due to her direct attitude and nature, Naomi quickly became the leader of the delinquent group at her school. Though she doesn’t seek out fights, she often ends up in them, as she isn’t one to hold back if others starts one."
+            "standard": "Due to her direct attitude and nature, Naomi quickly became the leader of the delinquent group at her school. Though she doesn't seek out fights, she often ends up in them, as she isn't one to hold back if others starts one."
         },
         "kumiko": {
-            "standard": "Kumiko has been haunting her local village and pulling pranks on its inhabitants since she died over a century ago. Even though she’s known as a prankster, she’s well liked by the villagers and part of the local legends."
+            "standard": "Kumiko has been haunting her local village and pulling pranks on its inhabitants since she died over a century ago. Even though she's known as a prankster, she's well liked by the villagers and part of the local legends."
         },
         "sachiko": {
-            "standard": "Due to Sachiko's leadership, her squad has become known as an elite squad, carrying out critical tasks in the war against the magical nation. She also got a rivalry going with Marine, trying to prove the army’s importance over the navy."
+            "standard": "Due to Sachiko's leadership, her squad has become known as an elite squad, carrying out critical tasks in the war against the magical nation. She also got a rivalry going with Marine, trying to prove the army's importance over the navy."
         },
         "kasumi": {
-            "standard": "Kasumi comes from a secluded clan that has hunted evil yokai since ancient time. She recently finished her training and became a kunochi of the clan, though her inexperience still shown when she’s out on missions."
+            "standard": "Kasumi comes from a secluded clan that has hunted evil yokai since ancient time. She recently finished her training and became a kunochi of the clan, though her inexperience still shown when she's out on missions."
         },
         "shin": {
             "standard": "Shin is known locally as a street cat, as he enjoys spending his time exploring the urban environment of his home city and interacting with the different people in it. Though, his curiosity does land him in trouble from time to time.",
-            "maid": "Some friends wanted to pull a prank on Shin, and tricked him into helping out at a local maid café. But much to their surprise and dismay, Shin ended up being an extremely skillful maid, quickly becoming the café’s most popular."
+            "maid": "Some friends wanted to pull a prank on Shin, and tricked him into helping out at a local maid café. But much to their surprise and dismay, Shin ended up being an extremely skillful maid, quickly becoming the café's most popular."
         },
         "lilith": {
-            "standard": "Lilith comes from a long line of ancient vampires, but currently enjoy a normal high school life. Though she doesn’t hide her vampire origins, people around her doesn’t believe it, and just thinks it’s a quick of her personality.",
-            "school_girl": "Living her highschool life to her fullest, Lilith looks almost like any other energetic highschool girl, beside the fact she’s a vampire. While she doesn’t hide this, everyone around her just thinks she’s joking around."
+            "standard": "Lilith comes from a long line of ancient vampires, but currently enjoy a normal high school life. Though she doesn't hide her vampire origins, people around her doesn't believe it, and just thinks it's a quick of her personality.",
+            "school_girl": "Living her highschool life to her fullest, Lilith looks almost like any other energetic highschool girl, beside the fact she's a vampire. While she doesn't hide this, everyone around her just thinks she's joking around."
         },
         "mao": {
-            "standard": "Mao was born with the reincarnated demon kings spirit sealed inside her, granting her the ability to tab into his powers, power which might corrupt her and free the demon king. Or that’s what she’ll tell you when you ask what she’s doing.",
-            "student_president": "After a random series of events, Mao ended up as the student council president of her school. Taking up the responsibility, she’s now ready to rule the school with an iron fist and show everyone how a true student president acts!",
+            "standard": "Mao was born with the reincarnated demon kings spirit sealed inside her, granting her the ability to tab into his powers, power which might corrupt her and free the demon king. Or that's what she'll tell you when you ask what she's doing.",
+            "student_president": "After a random series of events, Mao ended up as the student council president of her school. Taking up the responsibility, she's now ready to rule the school with an iron fist and show everyone how a true student president acts!",
             "demon_lord": "Suddenly finding themselves summoned to another world as a demon lord would shock a lot of people, but not Mao, who relished in finally having the power she always dreamed of. Though, she still has to learn how to use them."
         },
         "kei": {
@@ -1318,17 +1318,17 @@
         },
         "umi": {
             "standard": "Umi visited the marine city Venity at a young age, and was instantly charmed by its calm beauty. So when Umi grew up, she decided to move to Venity, where she now enjoys life as a gondolier in her favorite city.",
-            "drummer": "Most people know Umi as an elegant gondolier, so they’re pretty surprised the first time they see her let loose as the drummer of The Wave, letting out all that energy she keeps under wrap during her gondolier work."
+            "drummer": "Most people know Umi as an elegant gondolier, so they're pretty surprised the first time they see her let loose as the drummer of The Wave, letting out all that energy she keeps under wrap during her gondolier work."
         },
         "etsuko": {
-            "standard": "Watching her mother, a professional athlete, Etsuko fell in love with track and field sports. Though her hard work and skills, she’s now looking towards qualifying to the national championship as her school's ace runner."
+            "standard": "Watching her mother, a professional athlete, Etsuko fell in love with track and field sports. Though her hard work and skills, she's now looking towards qualifying to the national championship as her school's ace runner."
         },
         "yasuko": {
             "standard": "Yasuko enjoys her life in Venity, working at one of the city major companies. While many of her colleagues rushes around, Yasuko take life slowly, making sure to often sample the cities hot spring, often inviting Umi along."
         },
         "yin_yan": {
             "standard": "Twins are a rare occurrence in the Kitsune world, so Yin and Yan were seen as a divine blessing by their clan. They now work as messengers for the clan, traveling the country bringing messages between its members.",
-            "mahou_shoujo": "After getting caught up in one of Miyu’s battle, the twins Yin and Yan ended up catching a magical gem, allowing one of them to transform into a magical girl, while the other take the shape of a fox. Power they use to fight together with Miyu."
+            "mahou_shoujo": "After getting caught up in one of Miyu's battle, the twins Yin and Yan ended up catching a magical gem, allowing one of them to transform into a magical girl, while the other take the shape of a fox. Power they use to fight together with Miyu."
         },
         "ayu": {
             "standard": "Ayu was never one for following the norm or caring much about other people's expectations. As a self-proclaimed life enjoyer, she enjoys her days relaxing with her friends and hanging out in the city after school."
@@ -1342,15 +1342,15 @@
         "victoria": {
             "standard": "Victoria went to a private school for rich ladies in England, while she enjoyed her time there, she always found it too restrictive. She now often joins her family on business trips, where she gets to experience others and share her own culture."
         },
-        "kiki": {
-            "standard": "Kiki’s family disagreed with her pursuing an education in music, but Kiku still enrolled in the music program at a large university. A decision she hasn’t regretted, as she spends her days studying and playing the music she loves."
+        "kiku": {
+            "standard": "Kiku's family disagreed with her pursuing an education in music, but Kiku still enrolled in the music program at a large university. A decision she hasn't regretted, as she spends her days studying and playing the music she loves."
         },
         "sera": {
-            "standard": "Living in the celestial realm, many angels don’t spend much time thinking about the mortal world, but Sera have always had a fascination of humans, loving to observe them, and sometimes sneaking down to the mortal world."
+            "standard": "Living in the celestial realm, many angels don't spend much time thinking about the mortal world, but Sera have always had a fascination of humans, loving to observe them, and sometimes sneaking down to the mortal world."
         },
         "ignis": {
-            "standard": "Ignis the Flaming Justice is a well known hero who defends the masses when evil is afoot. Though many people have meet Ignis, no one have been able to figure out who’s behind the mask, and he has yet to share the secret with anyone.",
-            "adventurer": "Ignis is known as a mysterious adventurer that rushes to the aid of people in need, no matter if it’s a caravan getting ambushed by monsters or farmers being harassed by corrupt knights, as he travels through the kingdom."
+            "standard": "Ignis the Flaming Justice is a well known hero who defends the masses when evil is afoot. Though many people have meet Ignis, no one have been able to figure out who's behind the mask, and he has yet to share the secret with anyone.",
+            "adventurer": "Ignis is known as a mysterious adventurer that rushes to the aid of people in need, no matter if it's a caravan getting ambushed by monsters or farmers being harassed by corrupt knights, as he travels through the kingdom."
         },
         "rin": {
             "standard": "Having a hard time with bullies in school, Rin quickly accepted when a strange entity offered her magical powers. Drunk on her new powers, Rin started enacting revenge on her former bullies, often leading her to clash with Miyu."
@@ -1368,7 +1368,7 @@
             "standard": "Elika enjoy a quiet life in the French countryside, where she loves to emerge herself in detective novels. She often shares the story she reads with her younger cousin and pen pal Noel, who currently live in the far away land of Japan."
         },
         "mofuji": {
-            "standard": "Mofuji runs a small café in the countryside, but the location is often caught up in the battles between the technological and magic nations. Mofuji doesn’t mind this, and often keeps the café open while bombs and spell rains down around it."
+            "standard": "Mofuji runs a small café in the countryside, but the location is often caught up in the battles between the technological and magic nations. Mofuji doesn't mind this, and often keeps the café open while bombs and spell rains down around it."
         },
         "arai": {
             "standard": "Arai runs her own underground quiz tournaments, which have made her infamous in some circles and famous in others. Despite the questionability of her being both the host and a participant, her tournaments draw huge crowds."
@@ -1377,20 +1377,923 @@
             "standard": "Since high school, Yua has lowed tailoring and dressmaking, with a huge passion for wedding gowns. She secretly loves dressing up in them, dreaming of getting wed one day, but would die of embarrassment if her friends found out."
         },
         "kaori": {
-            "standard": "Kaori just started highschool where she’s the quiet and nervous girl in her class, but get her talking about frogs and she forgets all that. She managed to make a couple of good friends, who have to live with Kaori trying to buy all frog merch she finds."
+            "standard": "Kaori just started highschool where she's the quiet and nervous girl in her class, but get her talking about frogs and she forgets all that. She managed to make a couple of good friends, who have to live with Kaori trying to buy all frog merch she finds."
         },
         "saki": {
             "standard": "Due to being born with albinism, Saki spent most of her life indoors reading books. This has given her a lot of knowledge for her young age, something she loves to show off and can be rather cocky about."
         },
         "hanabi": {
-            "standard": "Hanabi is the proud hair to the red dragon clan, and doesn’t accept any disrespect towards it. She can’t stand the rivaling dark dragon clan, except for Fira, who she think is insanely cute and will do anything to protect."
+            "standard": "Hanabi is the proud hair to the red dragon clan, and doesn't accept any disrespect towards it. She can't stand the rivaling dark dragon clan, except for Fira, who she think is insanely cute and will do anything to protect."
         },
         "fukami": {
-            "standard": "While her kind usually takes part in the conflicts between the magic and technology nations, Fukami doesn’t care much about them. But much to the dismay of Marine, she loves sneaking into the technology nations to steal their fun toys."
+            "standard": "While her kind usually takes part in the conflicts between the magic and technology nations, Fukami doesn't care much about them. But much to the dismay of Marine, she loves sneaking into the technology nations to steal their fun toys."
         },
         "asahi": {
-            "standard": "Asahi is the captain of her school's track team, and got a reputation as a tough person who always speak her mind. But she’s actually rather chill, and enjoys her high school days hanging out with her friends without too much drama."
+            "standard": "Asahi is the captain of her school's track team, and got a reputation as a tough person who always speak her mind. But she's actually rather chill, and enjoys her high school days hanging out with her friends without too much drama."
         },
         "unknown": "Unknown"
+    },
+    "song_library": {
+        "title": "Song Library",
+        "expand": "Expand",
+        "expand_count": "Count: _SPAN_ _NUMBER_ _SPAN_",
+        "expand_count_description": "The number of songs you have uploaded",
+        "expand_level_requirement": {
+            "title": "Level 5+ required",
+            "description": "The Expand feature allows players to help add missing video/mp3 sources for songs, and isn't available for accounts below level 5"
+        },
+        "expand_confirmation": {
+            "title": "Expand Video/MP3 Library",
+            "description": "Help expanding the library by adding missing mp3 or video links. Songs missing from the library can be requested on the AMQ Discord"
+        },
+        "video_preview": "Video Preview",
+        "views": "Views:",
+        "library": "Library",
+        "library_description": "View all songs in the library",
+        "new_songs": "New Songs",
+        "new_songs_description": "View the newest 200 songs added to the game",
+        "recent_wrong": "Recently Wrong",
+        "recent_wrong_description": "View the songs you have recently guessed wrong",
+        "no_upload_message": "Not in video/mp3 database",
+        "upload_message_success": {
+            "title": "URL Added",
+            "description": "Video/mp3 will be added to the game after approval by a moderator"
+        },
+        "upload_message_failure": {
+            "title": "Unable to Add URL",
+            "temp_ban": "You are temporarily banned from the Expand function. _NUMBER_ days left of ban",
+            "perma_ban": "You are permanently banned from the Expand function",
+            "currently_closed": "Expand Currently Disabled",
+            "already_uploading": "Song Already Being Uploaded",
+            "unknown_song": "Unknown Song",
+            "invalid_resolution": "Invalid Resolution",
+            "already_uploaded": "Song Already Uploaded",
+            "no_video_approved": "No Video Approved for Song"
+        },
+        "upload_message_alerts": {
+            "provide_missing_version": "Provide a link for a missing version",
+            "litterbox": "Catbox files must be uploaded to litter.catbox.moe",
+            "host_format": "URL must point to a valid host and be in webm/mp3 format",
+            "unsupported_resolution": "Unsupported resolution: _NUMBER_. Max resolution: 720p",
+            "already_uploaded": "Version already uploaded",
+            "loading_video": "Loading video",
+            "video_passed_check": "Video passed check",
+            "error_loading_video": "Error loading video",
+            "submitting_video": "Submitting video",
+            "mp3_before_video": "Mp3 must be uploaded after a video version is approved"
+        },
+        "filters": {
+            "watched": "Watched",
+            "unwatched": "Unwatched",
+            "openings": "Openings",
+            "endings": "Endings",
+            "inserts": "Inserts",
+            "missing_versions": "Missing Versions",
+            "player_state": "Player State",
+            "liked": "Liked",
+            "unrated": "Unrated",
+            "disliked": "Disliked",
+            "vintage": "Vintage",
+            "song_categories": {
+                "title": "Song Categories",
+                "standard": "Standard",
+                "chanting": "Chanting",
+                "instrumental": "Instrumental",
+                "character": "Character"
+            },
+            "upload_status": {
+                "title": "Upload Status",
+                "uploaded": "Uploaded",
+                "missing": "Missing"
+            }
+        },
+        "search_targets": {
+            "all": "All",
+            "anime": "Anime",
+            "song": "Song",
+            "artist": "Artist",
+            "composer": "Composer",
+            "arranger": "Arranger"
+        },
+        "strict": "Strict",
+        "strict_description": "Do not include groups that artists belong to when searching for artists/composers/arrangers.",
+        "search": "Search",
+        "anime_entry": {
+            "song_counts": {
+                "op": "OP _NUMBER_",
+                "ed": "ED _NUMBER_",
+                "insert": "IN _NUMBER_"
+            },
+            "vintage": {
+                "winter": "Winter _YEAR_",
+                "spring": "Spring _YEAR_",
+                "summer": "Summer _YEAR_",
+                "fall": "Fall _YEAR_"
+            },
+            "genre": "Genre",
+            "names": "Names",
+            "tags": "Tags",
+            "songs": "Songs"
+        },
+        "song_entry": {
+            "type": {
+                "op": "OP_NUMBER_",
+                "ed": "ED_NUMBER_",
+                "in": "IN"
+            },
+            "dub": "Dub",
+            "rebroadcast": "Rebroad",
+            "composer": "Composer",
+            "arranger": "Arranger",
+            "song_category": "Song Category",
+            "guess_percent": {
+                "title": "Guess Percent",
+                "global": "Global: _SPANC_ X _SPANC_%",
+                "recent": "Recent: _SPANC_ X _SPANC_%",
+                "description": "The overall correct guess percentage for this song and your own correct guess percentage counting your last 8 answers. Only includes typed answers in quizzes with larger song pools."
+            },
+            "play_count": "Play Count",
+            "play_count_correct": "(_SPANC_ X _SPANC_% Correct)",
+            "play_count_description": "The total number of times this song has played for you, and your correct guess percent for it.",
+            "play_count_expanded_description": {
+                "line_one": "Typed Answers: _NUMBER_ (_NUMBER2_% Correct)",
+                "line_two": "Multiple Choice: _NUMBER_ (_NUMBER2_% Correct)"
+            },
+            "submit": "Submit",
+            "insert_litterbox_url": "Insert Litterbox URL",
+            "like_options": {
+                "like": "Like",
+                "dislike": "Dislike",
+                "unset": "Unset"
+            },
+            "upload_state_messages": {
+                "missing": "Missing",
+                "pending": "Pending Approval",
+                "uploaded": "Click to View"
+            }
+        },
+        "faq": {
+            "shorthand": "FAQ",
+            "title": "Expand Library FAQ",
+            "what_version": {
+                "title": "What version of a song should I use?",
+                "text": "You should always use the version that was used in the show. For openings and endings, that's usually the 1:30 minute cut version. In the case that different versions are used throughout the show, you should go with the one most commonly used, if they're used equally go with the first one."
+            },
+            "still_image": {
+                "title": "Can I use a still image instead of the video?",
+                "text": "No, all uploads require there to be a correct video."
+            },
+            "what_to_include": {
+                "title": "What should be included in the video?",
+                "text": "The opening/ending/scene the song plays in. _BREAK_ If a song plays with talking or other sounds during the scene, replace the audio with a clean version that matches with what was used in the anime."
+            },
+            "file_format": {
+                "title": "What file formats are accepted?",
+                "text": "Video files should be in webm format, and audio files in mp3. Any other formats will be rejected by the Scan Bot."
+            },
+            "quality_requirements": {
+                "title": "What are the quality requirements?",
+                "text": "The song must not be pitched, sped up, slowed down or remixed in any way from their original versions. Any silence at the start or end of the song should be cut out. Likewise, extended notes at the end of the song should be cut short. In addition, the bitrate of an upload should not exceed 6.2 kbps. _BREAK_ The video should also be of decent quality and not contain hardsubs, though exceptions can be made for older or rare shows where a better quality isn't available."
+            },
+            "volume_requirements": {
+                "title": "What are the volume requirements?",
+                "text": "Uploads should have a mean volume between -20 and -17db. The max volume ideally should not exceed -.5dB, and if possible should be around -5dB."
+            },
+            "what_are_keyframes": {
+                "title": "What are keyframes?",
+                "text": "Keyframes are special frames set when the video is encoded. They allow for skipping in the video without having to load the rest of the video up to the point skipped to. _BREAK_ For AMQ a minimum of 1 keyframe for each 10 seconds of video is required, anything less will get rejected by the bot. It's recommended to have 1 keyframe per 5 seconds."
+            },
+            "what_happens_file_submit": {
+                "title": "What happens once my file has been submitted?",
+                "text": "After your song has been submitted, it'll enter the queue to be scanned by the scan bot. The scan bots check if the encoding, resolution and keyframe count of the file are correct. If the scan bot does not automatically reject your upload, it'll pass it to the moderator team, who will validate that the song is correct, check the quality of the video, and confirm that your edit is smooth and matches what was used in the anime. _BREAK_ If your song is rejected, you will receive a server message about it."
+            },
+            "missing_song": {
+                "title": "A song is missing from the database, how do I get it added?",
+                "text": "First make sure the song isn't already in the database: Make sure that it doesn't appear in the Library when not in expand mode. _BREAK_ If it isn't in the Library or in game, you can request to have it added on the game's Discord. Make sure to read the FAQ channel and the pins in the #database-fixes channel for details on rules and how to request additions."
+            },
+            "upload_rejected": {
+                "title": "My upload was rejected but I didn't get a message?",
+                "text": "There's a bug in the update system that causes some rejection messages not to be sent out. If you have any questions about why your upload got rejected, you can ask the database moderators in the game's Discord."
+            },
+            "what_to_do_approved": {
+                "title": "I'm not sure what to do to get my upload approved?",
+                "text": "If your upload got rejected, or you're not sure how to get an upload approved, it is recommended to ask on the game's Discord server, where people will be able to help you."
+            }
+        }
+    },
+    "anime_types": {
+        "tv": "TV _NUMBER_",
+        "season": "Season _NUMBER_",
+        "movie": "Movie _NUMBER_",
+        "ova": "OVA _NUMBER_",
+        "ona": "ONA _NUMBER_",
+        "tv_special": "TV Special _NUMBER_",
+        "special": "Special _NUMBER_",
+        "music_video": "Music Video _NUMBER_",
+        "doujin": "Doujin _NUMBER_",
+        "game_cutscene_compilation": "Game Cutscene Compilation _NUMBER_"
+    },
+    "song_catagory": {
+        "none": "None",
+        "standard": "Standard",
+        "chanting": "Chanting",
+        "instrumental": "Instrumental",
+        "character": "Character"
+    },
+    "artist_hover": {
+        "other_names": "Other Names",
+        "members": "Members",
+        "member_of": "Member of",
+        "group": {
+            "title": "Group",
+            "shorthand": "G"
+        },
+        "artist": {
+            "title": "Artist",
+            "shorthand": "A"
+        }
+    },
+    "community_quiz_window": {
+        "title": "Community Quizzes",
+        "build": "Build",
+        "categories": {
+            "public": "Public",
+            "official": "Official",
+            "favorites": "Favorites",
+            "friends": "Friends",
+            "my_quizzes": "My Quizzes"
+        },
+        "sorting": {
+            "trending": "Trending",
+            "newest": "Newest",
+            "most_liked": "Most Liked",
+            "most_played": "Most Played"
+        },
+        "search_for_quizzes": "Search for Quizzes",
+        "song_types": {
+            "op": "OP",
+            "ed": "ED",
+            "in": "IN"
+        },
+        "difficulties": {
+            "easy": "Easy",
+            "medium": "Medium",
+            "hard": "Hard"
+        },
+        "upload_time": {
+            "last_24_hours": "Last 24 Hours",
+            "last_week": "Last Week",
+            "last_month": "Last Month",
+            "all_time": "All Time"
+        },
+        "play_state": {
+            "played": "Played",
+            "unplayed": "Unplayed"
+        },
+        "slots_available": "Slots Available",
+        "buy_slots": "Buy Slots",
+        "buy_quiz_slots": "Buy Quiz Slots",
+        "unlimited_slots": "Unlimited",
+        "one_slot_entry": {
+            "title": "1 Slot",
+            "description": "Permanently unlock a single quiz slot"
+        },
+        "unlimited_slot_entry": {
+            "title": "Unlimited",
+            "description": "Unlock unlimited slots for a one time payment",
+            "approx_dollar": "Approx. $_NUMBER_"
+        },
+        "patreon_promo": "Become a level 3+ Patreon Backer to _BREAK_ unlock unlimited slots and more perks",
+        "creator": "Creator",
+        "description": "Description",
+        "tags": "Tags",
+        "quiz_stats": {
+            "title": "Quiz Stats",
+            "plays": "Plays:",
+            "likes": "Likes:",
+            "songs": "Songs:",
+            "age": "Age:",
+            "song_types": "Song Types:",
+            "difficulty": "Difficulty:",
+            "selection": "Selection:",
+            "selection_types": {
+                "random": "Random",
+                "watched": "Watched"
+            }
+        },
+        "highscores": {
+            "title": "Highscores",
+            "friends": "Friends",
+            "personal": "Personal",
+            "no_plays": "No Plays",
+            "score": "Score",
+            "name": "Name",
+            "multiple_choice_toggle": "Toggle Displaying Multiple Choice Entries"
+        },
+        "quiz_buttons": {
+            "delete": "Delete",
+            "edit": "Edit",
+            "clone": "Clone",
+            "share": "Share",
+            "unshare": "Unshare",
+            "publish": "Publish",
+            "play": "Play",
+            "select": "Select"
+        },
+        "no_quiz_selected": "No Quiz Selected",
+        "messages": {
+            "error_cloning": {
+                "title": "Error Cloning Quiz",
+                "description": "An error occurred while trying to clone the quiz. Please try again later."
+            },
+            "quiz_cloned": {
+                "title": "Quiz Cloned",
+                "description": "The quiz has been successfully cloned."
+            },
+            "quiz_reported": {
+                "title": "Quiz Reported",
+                "description": "The quiz has been reported to the moderators for review."
+            },
+            "quiz_deleted": {
+                "title": "Quiz Deleted",
+                "description": "The quiz has been successfully deleted."
+            },
+            "slot_unlocked": "Quiz Slot Unlocked",
+            "unlimited_slots_unlocked": "Unlimited Quiz Slots Unlocked",
+            "no_slots_available": {
+                "title": "No Slots Available",
+                "description": "All quiz slots are currently in use. Unlock more slots or delete an old quiz before creating a new one."
+            },
+            "delete_quiz_confirmation": {
+                "title": "Delete Quiz",
+                "description": "Are you sure you want to permanently delete this quiz?"
+            },
+            "clone_quiz": {
+                "title": "Clone Quiz",
+                "input_text": "New Name",
+                "confirm_button": "Clone"
+            },
+            "publish_quiz_confirmation": {
+                "title": "Publish Quiz",
+                "description": "Public quizzes can be played by anyone, once a quiz is public you can no longer edit or delete it.",
+                "confirm_button": "Publish"
+            },
+            "report_quiz": {
+                "title": "Report Quiz",
+                "input_text": "Please provide a reason for reporting this quiz.",
+                "confirm_button": "Report"
+            },
+            "report_failed": {
+                "title": "Report Failed",
+                "description": "You must provide a reason for reporting the quiz."
+            },
+            "error_sharing": {
+                "title": "Error Sharing Quiz",
+                "description": "An error occurred while trying to share the quiz. Please try again later."
+            },
+            "error_publishing": {
+                "title": "Error Publishing Quiz",
+                "description": "An error occurred while trying to publish the quiz. Please try again later."
+            },
+            "not_enough_songs": {
+                "title": "Not Enough Songs",
+                "description": "The quiz must have at least 5 songs to be published."
+            },
+            "publish_limit_reached": {
+                "title": "Publish Limit Reached",
+                "description": "You have reached the maximum number of 10 published quizzes within 24 hours, please try again later."
+            },
+            "quiz_published": {
+                "title": "Quiz Published",
+                "description": "The quiz has been successfully published."
+            }
+        },
+        "popovers": {
+            "share": "Share this quiz with friends",
+            "unshare": "Unshare this quiz with friends",
+            "creation_date": "Creation Date",
+            "quiz_id": "Quiz ID"
+        },
+        "checkout": {
+            "unlock": "Unlock Community Quiz Slots",
+            "one_slot": "1 Slot",
+            "unlimited": "Unlimited Slots"
+        },
+        "host_community_quiz": {
+            "title": "Host Community Quiz",
+            "room_type": "Room Type",
+            "room_info": "Room Info",
+            "optional_password": "Optional Password"
+        }
+    },
+    "community_quiz_tags": {
+        "training": "Training",
+        "challenge": "Challenge",
+        "themed": "Themed",
+        "favorites": "Favorites",
+        "top_list": "Top List"
+    },
+    "game_settings": {
+        "setup_game": "Setup Game",
+        "select_settings_to_load": "Select Settings to Load",
+        "load_from_code": "Load from Code",
+        "tabs": {
+            "quick": "Quick",
+            "advanced": "Advanced",
+            "save": "Save",
+            "load": "Load"
+        },
+        "categories": {
+            "mode": "Mode",
+            "general": "General",
+            "quiz": "Quiz",
+            "anime": "Anime"
+        },
+        "quiz_mode": {
+            "standard_quiz": "Standard Quiz",
+            "community_quiz": "Community Quiz"
+        },
+        "buttons": {
+            "exit": "Exit",
+            "host": "Host",
+            "create": "Create",
+            "update": "Update",
+            "change": "Change",
+            "join": "Join",
+            "spectate": "Spectate",
+            "invite_link": "Invite Link",
+            "invite_link_copied": "Copied!",
+            "reset_to_default": "Reset to Default"
+        },
+        "room_name": "Room Name",
+        "private_room": "Private Room",
+        "game_modes": {
+            "ranked": "Ranked",
+            "event": "Event",
+            "jam": "Jam",
+            "themed": "Themed",
+            "solo": "Solo",
+            "multiplayer": "Multiplayer"
+        },
+        "game_mode_display": "_NAME_ Mode",
+        "game_mode_settings_display": "_NAME_ Game Settings",
+        "algorithm_block_settings": "Algorithm Block Settings",
+        "randomize": "Randomize",
+        "custom": "Custom",
+        "empty": "Empty",
+        "search": "Search",
+        "random": "Random",
+        "invite_description": "Create an invite link to this room",
+        "swap_button_description": "Swap between community and standard quiz",
+        "game_mode": {
+            "title": "Game Mode",
+            "standard": {
+                "title": "Standard Quiz",
+                "description": "Compete in guessing the most songs"
+            },
+            "hint": {
+                "title": "Hint",
+                "description": "Get hints for songs, but earn fewer points when hints are used"
+            },
+            "quick_draw": {
+                "title": "Quick Draw",
+                "description": "Earn more points the quicker you guessed the song"
+            },
+            "lives": {
+                "title": "Lives",
+                "description": "Start with lives, losing one each time you miss a show"
+            },
+            "battle_royale": {
+                "title": "Battle Royale",
+                "description": "Start in a looting phase, collecting the shows that will appear in the quiz"
+            },
+            "boss_fight": {
+                "title": "Boss Fight",
+                "description": "Players take turns being the boss, playing with only their songs and power-ups the boss can use against the other players"
+            }
+        },
+        "player_score": {
+            "title": "Player Score",
+            "description": "Limit songs to anime that players have scored on their list within the given range."
+        },
+        "anime_score": {
+            "title": "Anime Score",
+            "description": "Limit songs to anime with a score on Anime News Network within the given range."
+        },
+        "vintage": {
+            "title": "Vintage",
+            "description": "Year and season the anime was released.",
+            "add_to_advanced": "Add to Advanced Filter"
+        },
+        "season_selector": {
+            "winter": {
+                "title": "Winter",
+                "shorthand": "W"
+            },
+            "spring": {
+                "title": "Spring",
+                "shorthand": "S"
+            },
+            "summer": {
+                "title": "Summer",
+                "shorthand": "S"
+            },
+            "fall": {
+                "title": "Fall",
+                "shorthand": "F"
+            }
+        },
+        "anime_type": {
+            "title": "Type",
+            "tv": "TV",
+            "movie": "Movie",
+            "ova": "OVA",
+            "ona": "ONA",
+            "special": "Special",
+            "one_must_be_selected": "At least one anime type must be selected"
+        },
+        "genre": {
+            "title": "Genre",
+            "description": "Genres are determined using AniList. If optional is used, at least one optional genre will be required by the anime."
+        },
+        "tags": {
+            "title": "Tags",
+            "description": "Tags are determined using AniList. If optional is used, at least one optional tag will be required by the anime."
+        },
+        "number_of_players": {
+            "title": "Number of Players",
+            "unlimited": "Unlimited"
+        },
+        "number_of_songs": {
+            "title": "Number of Songs"
+        },
+        "team_size": {
+            "title": "Team Size",
+            "solo": "Solo"
+        },
+        "song_selection": {
+            "title": "Song Selection",
+            "description": "How songs are chosen for the quiz. Watched covers all anime watched by any player.",
+            "watched": "Watched",
+            "unwatched": "Unwatched",
+            "random": "Random",
+            "mix": "Mix"
+        },
+        "watched_distribution": {
+            "title": "Watched Distribution",
+            "description": "How watched songs are chosen between players, either at random, weighted where larger lists gets more songs or an equal amount from each list.",
+            "random": "Random",
+            "weighted": "Weighted",
+            "equal": "Equal"
+        },
+        "song_types": {
+            "title": "Song Types",
+            "openings": "Openings",
+            "endings": "Endings",
+            "inserts": "Insert Songs",
+            "one_type_must_be_selected": "At least one song type must be selected"
+        },
+        "song_categories": {
+            "title": "Song Categories",
+            "description": "Filter what category of songs is selected for each song type. Hover over the categories below to get a description of them.",
+            "standard": {
+                "title": "Standard",
+                "description": "Songs not in any of the other categories"
+            },
+            "chanting": {
+                "title": "Chanting",
+                "description": "Songs with chanting as the only main vocals"
+            },
+            "instrumental": {
+                "title": "Instrumental",
+                "description": "Songs without any vocals"
+            },
+            "character": {
+                "title": "Character",
+                "description": "Songs sung by characters without being part of a musical performance"
+            },
+            "inserts": "Inserts",
+            "one_opening_type_must_be_selected": "At least one opening category must be selected",
+            "one_ending_type_must_be_selected": "At least one ending category must be selected",
+            "one_insert_type_must_be_selected": "At least one insert category must be selected"
+        },
+        "scoring": {
+            "title": "Scoring",
+            "count": {
+                "title": "Count",
+                "description": "Players earn 1 point for each show they guess correctly"
+            },
+            "hint": {
+                "title": "Hint",
+                "description": "Players can get hints for songs, but earn fewer points when hints are used."
+            },
+            "speed": {
+                "title": "Speed",
+                "description": "Players earn more points the quicker they guessed the song"
+            },
+            "lives": {
+                "title": "Lives",
+                "description": "Players start with a set amount of lives, and lose 1 each time they get a song wrong another player guessed"
+            },
+            "boss": {
+                "title": "Boss",
+                "description": "Players take turns being the boss, playing with only their songs and a set amount of lives. The boss earns points the more songs they guess before they’re outed by the other players."
+            }
+        },
+        "show_selection": {
+            "title": "Show Selection",
+            "description": "How shows are selected for the quiz",
+            "auto": {
+                "title": "Auto",
+                "description": "Game randomly picks shows from within the settings"
+            },
+            "looting": {
+                "title": "Looting",
+                "description": "Play a looting phase before the quiz, where players move around collecting the shows used for the quiz"
+            }
+        },
+        "answering": {
+            "title": "Answering",
+            "description": "How players submit answers.",
+            "typing": {
+                "title": "Typing",
+                "description": "Players write their answers, with dropdown suggestions to select from"
+            },
+            "mix": {
+                "title": "Mix",
+                "description": "All players can choose between typing and multiple choice answering"
+            },
+            "multiple_choice": {
+                "title": "Multiple Choice",
+                "description": "Players get possible 4 answers to choose from"
+            }
+        },
+        "lives": {
+            "title": "Lives",
+            "description": "The amount of lives players start with."
+        },
+        "boss_lives": {
+            "title": "Boss Lives",
+            "description": "The amount of lives boss players start with."
+        },
+        "boss_power_ups": {
+            "title": "Boss Power-ups",
+            "description": "The amount of different power-ups the boss players can use."
+        },
+        "boss_max_song_count": {
+            "title": "Boss Max Song Count",
+            "description": "The max number of songs a boss player can get. If they survive all songs, they earn bonus points based on the amount of lives they have left."
+        },
+        "inventory_size": {
+            "title": "Inventory Size",
+            "description": "Number of shows players can carry during the looting phase"
+        },
+        "looting_time": {
+            "title": "Looting Time",
+            "description": "Time players have to spend looting",
+            "time_display": "_NUMBER_ seconds",
+            "time_range_display": "_NUMBER_-_NUMBER2_ seconds"
+        },
+        "loot_dropping": {
+            "title": "Loot Dropping",
+            "description": "Allow players to drop collected shows during the looting phase"
+        },
+        "guess_time": {
+            "title": "Guess Time",
+            "description": "Time players have, with the song playing, to submit their answer",
+            "time_display": "_NUMBER_ seconds",
+            "time_range_display": "_NUMBER_-_NUMBER2_ seconds"
+        },
+        "extra_guess_time": {
+            "title": "Extra Guess Time",
+            "description": "Additional time players have to submit their answer after the song has finished playing",
+            "time_display": "_NUMBER_ seconds",
+            "time_range_display": "_NUMBER_-_NUMBER2_ seconds"
+        },
+        "sample_point": {
+            "title": "Sample Point",
+            "description": "The point songs are played from",
+            "percent_into_song": "% Into Song",
+            "start": "Start",
+            "middle": "Middle",
+            "end": "End",
+            "percent_range_display": "_NUMBER_%-_NUMBER2_% Into Song"
+        },
+        "playback_speed": {
+            "title": "Playback Speed",
+            "description": "The speed songs are played at"
+        },
+        "song_difficulty": {
+            "title": "Song Difficulty",
+            "description": "Difficulty of songs selected",
+            "easy": "Easy",
+            "medium": "Medium",
+            "hard": "Hard",
+            "percent_guessed_correct": "% Guessed Correct",
+            "percent_range_display": "_NUMBER_%-_NUMBER2_% Correct Guesses",
+            "one_difficulty_must_be_selected": "At least one difficulty must be selected"
+        },
+        "song_popularity": {
+            "title": "Song Popularity",
+            "description": "Popularity of songs selected",
+            "disliked": "Disliked",
+            "mixed": "Mixed",
+            "liked": "Liked",
+            "percent_liked": "% Liked",
+            "percent_range_display": "_NUMBER_%-_NUMBER2_% Liked Songs",
+            "one_popularity_must_be_selected": "At least one popularity must be selected"
+        },
+        "modifiers": {
+            "title": "Modifiers",
+            "skip_guessing": {
+                "title": "Skip Guessing",
+                "description": "Allow voting skip during the guessing phase"
+            },
+            "skip_results": {
+                "title": "Skip Results",
+                "description": "Allow voting skip during the results phase"
+            },
+            "queueing": {
+                "title": "Queueing",
+                "description": "Allow spectators to queue up for joining the game"
+            },
+            "duplicate_shows": {
+                "title": "Duplicate Shows",
+                "description": "Allow shows to have multiple of their songs selected in the same game"
+            },
+            "rebroadcast_songs": {
+                "title": "Rebroadcast Songs",
+                "description": "Allow songs from rebroadcasts to be selected"
+            },
+            "dub_songs": {
+                "title": "Dub Songs",
+                "description": "Allow songs from dubbed versions to be selected (legacy setting with limited songs)"
+            },
+            "full_song_range": {
+                "title": "Full Song Range",
+                "description": "Allow songs to play up to the very ending of the song, can cause silence while answers are revealed"
+            }
+        },
+        "filter_types": {
+            "include": "Include",
+            "exclude": "Exclude",
+            "optional": "Optional"
+        },
+        "alerts": {
+            "room_name_missing": "Room name is required",
+            "room_name_too_long": {
+                "title": "Room Name Too Long",
+                "description": "Room name cannot exceed 20 characters"
+            },
+            "password_missing": "Password is required for private rooms",
+            "one_player_score_required": "At least one player score must be toggled on",
+            "one_anime_score_required": "At least one anime score must be toggled on",
+            "one_playback_speed_required": "At least one playback speed must be selected"
+        },
+        "errors": {
+            "too_many_tag_genre": {
+                "title": "Error Saving Settings",
+                "description": "Vintage/Tag/Genre limit exceeded"
+            },
+            "value_already_filter": "Value Already in Filter",
+            "error_decoding_code": "Error Decoding Code",
+            "error_decoding_settings": "Error Decoding Settings",
+            "error_deleting_setting": "Error Deleting Setting",
+            "error_saving_setting": "Error Saving Setting"
+        },
+        "load_setting_from_code": {
+            "title": "Load Settings from Code",
+            "placeholder": "Setting Code",
+            "confirm_button": "Load",
+            "must_provide_code": "You must provide a code",
+            "loading_disabled": "Loading Disabled"
+        },
+        "select_name_for_setting": {
+            "title": "Select Name for Setting",
+            "placeholder": "Setting Name",
+            "confirm_button": "Save",
+            "setting_saved": "Setting Saved",
+            "must_provide_name": "You must provide a name",
+            "name_too_long": "Name must be at most _NUMBER_ characters",
+            "max_saved_settings": "Max number of _NUMBER_ saved settings reached"
+        },
+        "delete_saved_setting": {
+            "title": "Delete Saved Setting",
+            "confirm_button": "Delete"
+        },
+        "get_code": {
+            "title": "Get Code for Settings",
+            "setting_code": "Setting Code"
+        }
+    },
+    "room_browser": {
+        "filters": {
+            "only": {
+                "title": "Only:",
+                "public": "Public",
+                "in_lobby": "In Lobby",
+                "open": "Open",
+                "friends": "Friends"
+            },
+            "search_placeholder": "Search",
+            "show_selection": {
+                "title": "Show Selection",
+                "auto": "Auto",
+                "looting": "Looting"
+            },
+            "answering_mode": {
+                "title": "Answering Mode",
+                "typing": "Typing",
+                "multiple_choice": "Multiple Choice"
+            },
+            "song_type": {
+                "title": "Song Types",
+                "openings": "Openings",
+                "endings": "Endings",
+                "inserts": "Inserts"
+            },
+            "song_selection": {
+                "title": "Song Selection",
+                "watched": "Watched",
+                "unwatched": "Unwatched",
+                "random": "Random"
+            },
+            "scoring": {
+                "title": "Scoring",
+                "count": "Count",
+                "hint": "Hint",
+                "speed": "Speed",
+                "lives": "Lives",
+                "boss": "Boss"
+            },
+            "number_of_players": "Number of Players",
+            "number_of_songs": "Number of Songs",
+            "guess_time": "Guess Time",
+            "difficulty": "Difficulty",
+            "anime_type": {
+                "title": "Anime Type",
+                "tv": "TV",
+                "movie": "Movie",
+                "ova": "OVA",
+                "ona": "ONA",
+                "special": "Special"
+            },
+            "only_non_default": {
+                "title": "Only Non-Default Settings",
+                "sample_point": "Sample Point",
+                "playback_speed": "Playback Speed",
+                "anime_score": "Anime Score",
+                "vintage": "Vintage",
+                "genre": "Genre",
+                "tag": "Tag",
+                "popularity": "Popularity"
+            }
+        },
+        "host_room": "Host Room",
+        "games": " Games",
+        "room_tile": {
+            "host": "Host: _SPANC_ _NAME_ _SPANC_",
+            "popovers": {
+                "spectators": "Spectators",
+                "songs_left": "Songs Left",
+                "players": "Players",
+                "game_mode": "Game Mode",
+                "guess_time": "Guess Time",
+                "number_of_songs": "Number of Songs",
+                "song_selection": "Song Selection",
+                "all_settings": "All Settings",
+                "song_types": "Song Types",
+                "friends": "Friends"
+            },
+            "song_types": {
+                "opening": "Opening",
+                "ending": "Ending",
+                "insert": "Insert"
+            },
+            "join": "Join",
+            "spectate": "Spectate",
+            "game_mode": {
+                "community": "Community",
+                "battle_royale": "Battle Royale",
+                "hint": "Hint",
+                "last_man_standing": "Last Man Standing",
+                "quick_draw": "Quick Draw",
+                "boss_fight": "Boss Fight",
+                "amq_awards": "AMQ Awards",
+                "standard": "Standard"
+            },
+            "song_selection": {
+                "random": "Random",
+                "mix": "Mix",
+                "watched": "Watched",
+                "custom": "Custom"
+            },
+            "room_closed": "Room Closed",
+            "password": {
+                "title": "Password Required",
+                "placeholder": "Enter Password",
+                "confirm_button": "Join"
+            }
+        }
     }
 }
