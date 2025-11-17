@@ -516,7 +516,7 @@
             "change_nickname_messages": {
                 "banned": "Ditt konto är förbjudet från att ändra smeknamn",
                 "success": "Smeknamn ändrat",
-                "no_token": "Inga namnändringspoletter tillgängliga"
+                "no_token": "Inga namnändringspolletter tillgängliga"
             }
         },
         "alerts": {
