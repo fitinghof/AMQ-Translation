@@ -511,7 +511,7 @@
             "nickname_not_available": {
                 "title": "Smeknamn ej tillgängligt",
                 "already_in_use": "Detta smeknamn används redan",
-                "banned": "Detta smeknam är förbjudet"
+                "banned": "Detta smeknamn är förbjudet"
             },
             "change_nickname_messages": {
                 "banned": "Ditt konto är förbjudet från att ändra smeknamn",
