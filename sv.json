@@ -1185,213 +1185,213 @@
     },
     "avatar_lore": {
         "hibiki": {
-            "MISSING-thief": "Hibiki is a well known happy go lucky adventurer, with a knack for getting in where she isn’t supposed to be and out with more than she entered with. A skill she’s often found boasting about at local taverns.",
-            "MISSING-monster_trainer": "Never being one to settle down for long, it didn’t surprise anyone when Hibiki set out to explore the world once she met her partner Hineko. Together the two of them make a powerhouse of a team, and are quickly making a name for themselves.",
-            "MISSING-fast_food_employee": "Finding herself in a new city, Hibiki had to quickly find a new job. Luckily, she ended up landing a great job up a local fast food joint, where she now spends her days working with great colleagues, while preparing for the next leg of her journey."
+            "thief": "Hibiki är en välkänd, sorglös äventyrare med en talang för att ta sig in där hon inte borde vara och ta sig ut igen med mer än hon kom dit med. En förmåga hon ofta skryter om på krogen.",
+            "monster_trainer": "Eftersom hon aldrig varit den som stannar på ett ställe särskilt länge, var det ingen som blev förvånad när Hibiki gav sig ut för att utforska världen efter att hon mött sin partner Hineko. Tillsammans utgör de ett riktigt starkt team och gör snabbt ett namn för sig.",
+            "fast_food_employee": "När hon hamnade i en ny stad var Hibiki tvungen att snabbt hitta ett nytt jobb. Som tur var lyckades hon få ett bra jobb på ett lokalt snabbmatställe, där hon nu tillbringar dagarna med trevliga kollegor medan hon förbereder sig för nästa etapp av sin resa."
         },
         "honoka": {
-            "MISSING-standard": "Being weak of health, Honoka spent most of her life at her family's estate, only kept company by her books and personal maid Kyouko, until recently when she by chance ran into Ritsu and the two became friends.",
-            "MISSING-druid": "Honoka hails from a nation of druids, but is now traveling the world in search of new knowledge, the final test given to novice scholars of her people. Her travels are currently shared with Kyouko, a local knight, assigned to be her guide in this kingdom."
+            "standard": "Eftersom Honoka är svag till hälsan har hon tillbringat större delen av sitt liv på familjens egendom, med bara sina böcker och sin personliga tjänare Kyouko som sällskap. Nyligen stötte hon av en slump på Ritsu och de två blev vänner.",
+            "druid": "Honoka kommer från en nation av druider, men reser nu världen runt i jakt på ny kunskap, det sista provet som ges till lärjungar i hennes folk. För tillfället färdas hon tillsammans med Kyouko, en lokal riddare som blivit utsedd att vara hennes guide i detta kungarike."
         },
         "kyouko": {
-            "MISSING-standard": "Kyouko has been working as Honoka’s personal maid for several years. Her energetic nature and natural clumsiness have resulted in several accidents that would have gotten her fired if not for her friendship with Honoka.",
-            "MISSING-knight": "As the newest member of the royal guard, Kyouko was tasked with assisting Honoka, a scholar from an allied tribe of druids, in her travels around the country. Her days are therefore spent on the road, serving as Honoka's guard and guide.",
-            "MISSING-bodyguard": "Kyouko was dismissed as Honoka’s maid, due to security changes. Still wanting to help Honoka, Kyouko studied to become a bodyguard, though her clumsiness often causes issues, Honoka let it slide as she likes spending time with Kyouko."
+            "standard": "Kyouko har arbetat som Honokas personliga tjänare i flera år. Hennes energiska natur och naturliga klumpighet har lett till flera olyckor som annars skulle ha fått henne att bli avskedad, om det inte vore för hennes vänskap med Honoka.",
+            "knight": "Som nyaste medlemmen i kungliga gardet fick Kyouko i uppdrag att assistera Honoka, en lärd från en allierad druidstam, under hennes resor runt om i landet. Därför tillbringar hon dagarna på vägen, som Honokas skydd och guide.",
+            "bodyguard": "Kyouko fick sparken som Honokas tjänare på grund av förändringar i säkerheten. Hon ville ändå fortsätta hjälpa Honoka och studerade dörför till livvakt, men hennes klumpighet orsakar ofta problem. Honoka lät det passera eftersom hon tycker om att spendera tid med Kyouko."
         },
         "ritsu": {
-            "MISSING-standard": "An energetic high school student with a passion for music, and club president of her school's music club. Ritsu is often found attending live concerts around the city, and it was at one of these she met and befriended an out of place Honoka.",
-            "MISSING-bard": "Ritsu was never a fan of the quiet life at her family’s farm, so when she got the chance, she ran away with a group of travelling entertainers. She now travels from town to town, sharing her music and exploring the world.",
-            "MISSING-park_ranger": "As a young girl, Ritsu fell in love with the nature in national parks on an overseas vacation. So after finishing her education, she joined the park ranger program, and now spends her days protecting the wild nature in the parks.",
-            "MISSING-kitsune": "In a certain city, there’s an urban legend about a Kitsune who hangs out around the city, joining in on the fun events going on. Ritsu has heard the rumor, but is unaware of the Kitsune bound to her, who sneaks out in her body from time to time.",
-            "MISSING-summer_games": "In what quickly have become a yearly tradition, athletes from all the different worlds meet up every summer to compete in friendly competition. This year, Ritsu is one of the favorites for winning the 100-meter sprint.",
-            "MISSING-queen": "Ritsu didn’t expect to end up as the queen of the country, but after a sudden turn of events she ended up with the crown. Although it’s all very new to her, she puts on a confident look, dedicated to not repeat her predecessors mistakes."
+            "standard": "En energisk gymnasieelev med en passion för musik och ordförande för skolans musikklubb. Ritsu syns ofta på livekonserter runt om i staden och det var på en av dessa som hon träffade och blev vän med en vilsen Honoka.",
+            "bard": "Ritsu har aldrig varit särskilt förtjust i det stillsamma livet på familjens gård, så när hon fick chansen rymde hon med en grupp kringresande underhållare. Nu reser hon från stad till stad, delar med sig av sin musik och utforskar världen.",
+            "park_ranger": "Som ung flicka förälskade sig Ritsu i naturen i olika nationalparker under en utlandsresa. Så efter att hon avslutat sin utbildning gick hon med i parkvaktsprogrammet och nu tillbringar hon sina dagar med att skydda den vilda naturen i parkerna.",
+            "kitsune": "I en viss stad finns det ett rykte om en kitsune som stryker omkring och deltar i stadens alla roliga evenemang. Ritsu har hört ryktet, men är ovetande om kitsunen som är bunden till henne och som då och då smiter ut i världen genom hennes kropp.",
+            "summer_games": "Det som snabbt har blivit en årlig tradition är att idrottare från alla de olika världarna samlas varje sommar för att tävla i vänskapliga matcher. I år är Ritsu en av favoriterna att vinna 100-metersloppet.",
+            "queen": "Ritsu hade inte räknat med att bli landets drottning, men efter en plötslig händelseutveckling hamnade kronan på hennes huvud. Även om allt är helt nytt för henne, visar hon ett självsäkert yttre och är fast besluten att inte upprepa sina föregångares misstag."
         },
         "hikari": {
-            "MISSING-standard": "As a young easy going person, Hikari enjoys his simple life as a high school math teacher. He’s also ended up as the club advisor for the music club led by Ritsu, since her leadership allows him to spend most of the time relaxing.",
-            "MISSING-scholar": "As a leading scholar at the royal academy, most would suspect Hikari to spend his days buried in dusty old tomes, and not exploring ancient ruins in search for lost arcane knowledge from past civilizations.",
-            "MISSING-fireman": "As a boy, Hikari was saved by a firefighter, which sparked his love for the job. He’s now a beloved firefighter in his local community, spending his days helping the locals and saving people when accidents occur."
+            "standard": "Som en ung, avslappnad person njuter Hikari av sitt enkla liv som matematiklärare på gymnasiet. Han har dessutom blivit handledare för musikklubben som Ritsu leder, eftersom hennes ledarskap gör att han kan tillbringa större delen av tiden med att ta det lugnt.",
+            "scholar": "Som ledande forskare vid det kungliga akademin skulle de flesta nog anta att Hikari tillbringar dagarna med näsan i dammiga gamla böcker, snarare än att utforska gamla ruiner på jakt efter förlorad magisk kunskap från tidigare civilisationer.",
+            "fireman": "Som pojke blev Hikari räddad av en brandman, vilket väckte hans kärlek för yrket. Nu är han en omtyckt brandman i sitt lokalsamhälle och tillbringar dagarna med att hjälpa invånarna och rädda människor vid olyckor."
         },
         "komugi": {
-            "MISSING-standard": "A local fox spirit of a half forgotten shrine in the countryside, Komugi is known for pulling pranks on the locals. Her shrine rarely gets visitors due to a larger shrine nearby, so she enjoys the visits she gets from Noel.",
-            "MISSING-tribal_sorcerer": "Coming from a tribe of kitsune, Komugi mastered the art of fire sorcery at an early age. But after growing bored of the peaceful village life, she set out looking for adventure and fun.",
-            "MISSING-pirate": "Known as a friend in port and a menace to all who run across her at sea. Komugi is a highly sought-after pirate for hire by anyone who has enough gold and adventures grand enough to satisfy her."
+            "standard": "Komugi är en lokal rävsjäl från ett halvt glömt tempel på landsbygden, känd för att spela spratt på de lokala invånarna. Hennes tempel får sällan besökare på grund av ett större tempel i närheten, så hon uppskattar de besök hon får från Noel.",
+            "tribal_sorcerer": "Komugi kommer från en stam av kitsune och bemästrade eldmagi redan i ung ålder. Men efter att ha tröttnat på det fridfulla bylivet gav hon sig ut på jakt efter äventyr och nöjen.",
+            "pirate": "Känd som en vän i hamnen och ett hot mot alla som möter henne till sjöss. Komugi är en mycket eftertraktad pirat som kan hyras av den som har tillräckligt med guld och äventyr stora nog att tillfredsställa henne."
         },
         "noel": {
-            "MISSING-standard": "As a self proclaimed master detective, Noel finds mysteries and riddles to solve in everything, no case is too big for detective Noel! After finding an old forgotten shrine, she now also drags its spirit Komugi along on her \"detective work\".",
-            "MISSING-brawler": "Noel never liked the strict nature of the temple she grew up in, so when she got the chance, she ran away to explore the world. She has now teamed up with Komugi, and together they travel around, getting into all kinds of adventures.",
-            "MISSING-catgirl": "During a case, Noel ended up possessed by a bakeneko. It wasn’t powerful enough to control Noel, but it still influenced her demeanor and made her sprout cat ears and tail, much to the dismay of Komugi who had to cover it all up."
+            "standard": "Som självutnämnd mästerdetektiv hittar Noel mysterier och gåtor att lösa överallt, inget fall är för stort för detektiv Noel! Efter att ha upptäckt ett gammalt bortglömt tempel drar hon nu också med dess ande Komugi på sitt \"detektivsarbete\".",
+            "brawler": "Noel gillade aldrig det strikta livet på templet hon växte upp i, så när hon fick chansen flydde hon för att utforska världen. Hon har nu slagit sig ihop med Komugi. Tillsammans reser de runt och hamnar i alla möjliga äventyr.",
+            "catgirl": "Under ett fall blev Noel besatt av en bakeneko. Den var inte tillräckligt kraftfull för att kontrollera Noel, men påverkade ändå hennes uppträdande och fick henne att få kattöron och svans, till Komugis stora irritation som var tvungen att dölja alltihop."
         },
         "kuriko": {
-            "MISSING-standard": "Even among witches, Kuriko is seen as especially powerful, but her carefree attitude often keeps her from using her full powers. She can often be found having fun during the conflicts between technology and magic that occur in her world.",
-            "MISSING-sorceress": "Hailing from a nomadic tribe in the far southern countries, Kuriko has traveled all the way to the kingdom on a mission to spread the word of her people, but more often she ends up tricking people into joining her on crazy adventures."
+            "standard": "Även bland häxor anses Kuriko vara särskilt kraftfull, men hennes sorglösa inställning hindrar henne ofta från att använda sin fulla potential. Hon syns ofta ha roligt mitt i de konflikter mellan teknik och magi som uppstår i hennes värld.",
+            "sorceress": "Kuriko kommer från en nomadstam i de fjärran södra länderna och har rest hela vägen till kungariket på ett uppdrag att sprida sitt folks budskap. Men oftare än inte lyckas hon istället lura med folk på sina galna äventyr."
         },
         "miyu": {
-            "MISSING-standard": "As a bright and cheerful girl, Miyu lived an uneventful life until her last year of middle school when she found a star shaped gem which allowed her to materialise her dormant magical powers.",
-            "MISSING-valkyrie": "Miyu showed immense potential with magic at an early age, and was recruited as an royal magical knight, where her powers quickly earned her the rank of high knight and the nickname Valkyrie.",
-            "MISSING-ice_princess": "During one of her battles, Miyu ended up defending a tribe of ice sprites, who as Miyu was about to be defeated, bestowed their powers to her. Transforming her into a magical ice princess, giving her the power to defeat the enemy.",
-            "MISSING-idol": "After a mysterious evil organization infiltrated the idol industry, Miyu had to go undercover as an idol, to figure out and put a stop to their evil schemes. So, assisted by her magic, Miyu took to the stage as a world known idol.",
-            "MISSING-summer_games": "Being a timid girl, people didn’t have much trust in Miyu being able to become a professional gymnast. But her talent and hard work proved them all wrong, and she’s now ready to display her skills at the yearly summer games."
+            "standard": "Som en glad och positiv flicka levde Miyu ett händelselöst liv tills hennes sista år på högstadiet, då hon hittade en stjärnformad ädelsten som gjorde det möjligt för henne att förverkliga sina vilande magiska krafter.",
+            "valkyrie": "Miyu visade tidigt en enorm talang för magi och rekryterades som kunglig magisk riddare, där hennes krafter snabbt gav henne rang som högriddare och smeknamnet Valkyria.",
+            "ice_princess": "Under en av sina strider försvarade Miyu en stam med isandar, som när Miyu var nära att besegras överlämnade sina krafter till henne. Hon förvandlades till en magisk isprinsessa och fick kraften att besegra fienden.",
+            "idol": "Efter att en mystisk ond organisation infiltrerat idolbranschen var Miyu tvungen att gå undercover som idol för att avslöja och stoppa deras onda planer. Med hjälp av sin magi tog Miyu plats på scenen som en världsberömd idol.",
+            "summer_games": "Som en blyg flicka litade folk inte mycket på att Miyu skulle kunna bli en professionell gymnast. Men hennes talang och hårda arbete motbevisade alla och nu är hon redo att visa sina färdigheter vid de årliga sommarspelen."
         },
         "shiina": {
-            "MISSING-standard": "Spending her childhood watching idols on television, Shiina dreamed of becoming one herself. Her dream finally started to come true as she began in highschool and was able to land the job as a local idol for her city."
+            "standard": "Under sin barndom, när hon tittade på idoler på TV, drömde Shiina om att bli en själv. Hennes dröm började slutligen gå i uppfyllelse när hon började på gymnasiet och fick jobbet som lokal idol i sin stad."
         },
         "mizuki": {
-            "MISSING-standard": "Mizuki serves as the shrine maiden at her popular shrine, sharing her blessing with its many visitors. Blessings which often end up in her favor. She often gets visits from Komugi who’s annoyed that the shrine is leaving Komugi’s forgotten.",
-            "MISSING-high_priest": "Being the High Priest of her tribe, Mizuki was enjoying her life. That all changed when Komugi broke the rules and left the tribe, forcing Mizuki to set out to bring her back. She now travels around the world, trying to catch Komugi."
+            "standard": "Mizuki arbetar som tempeljungfru vid sitt populära tempel och delar sina välsignelser med de många besökarna, välsignelser som ofta gynnar henne själv. Hon får ofta besök av Komugi, som är irriterad över att templet lämnar Komugi bortglömd.",
+            "high_priest": "Som höghövding i sin stam njöt Mizuki av sitt liv. Allt förändrades när Komugi bröt mot reglerna och lämnade stammen, vilket tvingade Mizuki att ge sig ut för att hämta tillbaka henne. Nu reser hon runt i världen och försöker fånga Komugi."
         },
         "marine": {
-            "MISSING-standard": "Due to her hardworking, stubborn and proud nature, Marine broke several records when she reached the rank of captain at her early age. A rank she has proven worthy of, after winning several battles against the neighboring magical nations.",
-            "MISSING-buccaneer": "Most people look twice when meeting Marine for the first time, but few who comment on her size live to tell the tale. Any doubts in her skills also quickly disappear after seeing her jump between decks, grinning as she brandishes her lance."
+            "standard": "På grund av sin hårt arbetande, envisa och stolta natur slog Marine flera rekord när hon nådde kaptensgrad vid ung ålder. En grad hon har visat sig värdig efter att ha vunnit flera strider mot de närliggande magiska nationerna.",
+            "buccaneer": "De flesta tittar en extra gång när de träffar Marine för första gången, men få som kommenterar hennes storlek lever för att berätta om det. Eventuella tvivel på hennes skicklighet försvinner också snabbt när man ser henne hoppa mellan däcken, leende medan hon svingar sin lans."
         },
         "akira": {
-            "MISSING-standard": "A lot of Akira’s fans wouldn't expect that the normally cool and composed idol grew up as the oldest of several siblings. Working several jobs to help support them, until he by coincidence was scouted by a major idol agency.",
-            "MISSING-samurai": "As the crown prince of an eastern country, Akira wanted to experience the world before having to take over as a ruler. But being the crown prince, he has to travel in secret, to avoid getting caught in local politics."
+            "standard": "Många av Akiras fans skulle inte förvänta sig att den normalt lugna och samlade idolen växte upp som äldst bland flera syskon. Han arbetade på flera jobb för att hjälpa till att försörja dem, tills han av en slump blev scoutad av en stor idolagentur.",
+            "samurai": "Som kronprins i ett östligt land ville Akira uppleva världen innan han måste ta över som härskare. Men som kronprins måste han resa i hemlighet för att undvika att bli indragen i lokalpolitik."
         },
         "rinko": {
-            "MISSING-standard": "To most of her classmates, Rinko appears as a normal hard working high school student, they wouldn’t expect her to be a big fan of gothic lolita, who spends most weekends dressing up and attending events."
+            "standard": "För de flesta av hennes klasskamrater framstår Rinko som en vanlig, hårt arbetande gymnasieelev. De skulle inte förvänta sig att hon är ett stort fan av gotisk lolita och tillbringar större delen av helgerna med att klä upp sig och gå på evenemang."
         },
         "alisa": {
-            "MISSING-standard": "Most people know Alisa as a gentle and proud girl, but due to her immense talent with the sword and magic she’s often leading the charge against the technological nations. She is also one of the few people who can stand Kuriko’s antics."
+            "standard": "De flesta känner Alisa som en mild och stolt flicka, men på grund av hennes enorma talang med svärd och magi leder hon ofta anfallet mot de teknologiska nationerna. Hon är också en av de få som står ut med Kurikos påhitt."
         },
         "chika": {
-            "MISSING-standard": "As a self proclaimed genius and master scientist, Chika lets nothing stand between her and her next experiment! This has earned her a bit of a reputation at her school, where she’s the president of the science club."
+            "standard": "Som självutnämnd geni och mästarforskare låter Chika inget stå mellan henne och hennes nästa experiment! Detta har gett henne ett visst rykte på skolan, där hon är ordförande för vetenskapsklubben."
         },
         "yumemi": {
-            "MISSING-standard": "Yumemi is usually found sleeping at any chance she gets. Most people are therefore surprised when they hear she’s the vice president of the science club, though she only joined to help her childhood friend Chika get enough members."
+            "standard": "Yumemi hittar man oftast sovande närhelst hon får chansen. De flesta blir därför förvånade när de hör att hon är vice ordförande för vetenskapsklubben, även om hon bara gick med för att hjälpa sin barndomsvän Chika att få tillräckligt många medlemmar."
         },
         "katsu": {
-            "MISSING-standard": "Being a prominent player of the Zetto card game, Katsu is trying to collect the ancient precursor cards, which are said to hold the power to change the world. This often leads to battle against a shadowy organization who’re also seeking them."
+            "standard": "Som en framstående spelare av Zetto-kortspelet försöker Katsu samla de uråldriga förloppkorten, som sägs besitta kraften att förändra världen. Detta leder ofta till strider mot en skuggig organisation som också är på jakt efter dem."
         },
         "riku": {
-            "MISSING-standard": "Riku is known by most as Rika, a famous live streamer and vlogger who’s known for getting access to places he’s not supposed to be. Riku himself mainly just enjoys the thrill of exploring and sharing his antics."
+            "standard": "Riku är mest känd som Rika, en berömd livestreamer och vloggare som är känd för att ta sig in på platser han egentligen inte borde vara på. Riku själv njuter mest av spänningen i att utforska och dela med sig av sina upptåg."
         },
         "yuki": {
-            "MISSING-standard": "As a young girl, Yuki fell in love with the cheerful Christmas atmosphere. So she’s often found at cosplay events giving out presents to kids and friends. It was at one of these events she met and befriended Rinko."
+            "standard": "Som ung flicka förälskade sig Yuki i den glada julstämningen. Hon syns därför ofta på cosplay-evenemang där hon delar ut presenter till barn och vänner. Det var på ett av dessa evenemang som hon träffade och blev vän med Rinko."
         },
         "fuwagi": {
-            "MISSING-standard": "Most people know Fuwagi as a lucky rabbit, as luck seems to conspire with her to get her out of any situation she finds herself in. Though, she views herself as unlucky, as it’s bad luck that gets her into those situations.",
-            "MISSING-traveling_merchant": "Known as the lucky bunny, Fuwagi travels from town to town selling her wares. She got the lucky nickname because misfortune never affects her goods, but she views herself as unlucky, as every permanent store she sets up is destroyed in some accident."
+            "standard": "De flesta känner Fuwagi som en lycklig kanin eftersom tur verkar samverka med henne och ta henne ur alla situationer hon hamnar i. Men hon ser själv sig som olycklig eftersom det är otur som får henne i dessa situationer från första början.",
+            "traveling_merchant": "Känd som den lyckliga kaninen reser Fuwagi från stad till stad och säljer sina varor. Hon fick sitt lyckonamn eftersom otur aldrig påverkar hennes varor, men hon ser själv sig som olycklig eftersom varje permanent butik hon öppnar förstörs i någon olycka."
         },
         "yuuna": {
-            "MISSING-standard": "Being the child of a famous chef, Yuuna fell in love with the art of cooking at a young age. She now travels the world, on a journey to hone her skills and prove she can live up to her mom’s legacy.",
-            "MISSING-painter": "Loving to explore and experience the world, Yuuna set out on a trip across the globe to discover its beauty. She travels leisurely from place to place, taking the time to capture the surrounding beauty on her canvas."
+            "standard": "Som barn till en berömd kock förälskade sig Yuuna tidigt i matlagningens konst. Nu reser hon runt i världen på en resa för att finslipa sina färdigheter och visa att hon kan leva upp till sin mammas arv.",
+            "painter": "Med en kärlek för att utforska och uppleva världen gav sig Yuuna ut på en resa över hela jordklotet för att upptäcka dess skönhet. Hon reser lugnt från plats till plats och tar sig tid att fånga den omgivande skönheten på sin duk."
         },
         "haruki": {
-            "MISSING-standard": "Being closely attuned to nature, Haruki is one of the most powerful one-tailed kitsune and can even rival some nine tails. He’s often tasked with breaking up the fights between Komugi and Mizuki, a task he loathes."
+            "standard": "Eftersom han är mycket i samklang med naturen är Haruki en av de mest kraftfulla ensvansade kitsune och kan till och med mäta sig med vissa nio-svansar. Han får ofta i uppdrag att stoppa slagsmålen mellan Komugi och Mizuki, ett uppdrag han avskyr."
         },
         "asuka": {
-            "MISSING-standard": "Asuka’s skills in the sky have earned her the title of flying ace, and is therefore often called into battle against the neighboring countries. Personally, Asuka couldn’t care less about the war, and is just happy to fly freely through the sky."
+            "standard": "Asukas färdigheter i luften har gett henne titeln flygess och hon kallas därför ofta in i strider mot de närliggande länderna. Personligen bryr sig Asuka inte det minsta om kriget, utan är bara glad över att få flyga fritt genom himlen."
         },
         "fira": {
-            "MISSING-standard": "Fira wields immense powers as the heir to the dark dragon clan. Though, as she can’t stand the politics, she ran away from her home and is currently staying at Fuwagi’s house. Much to the dismay of Fuwagi who doesn’t dare ask her to leave."
+            "standard": "Fira besitter enorma krafter som arvinge till den mörka drakklanen. Men eftersom hon inte står ut med politik flydde hon hemifrån och bor för närvarande hos Fuwagi. Till Fuwagis stora irritation, som inte vågar be henne att lämna."
         },
         "naomi": {
-            "MISSING-standard": "Due to her direct attitude and nature, Naomi quickly became the leader of the delinquent group at her school. Though she doesn’t seek out fights, she often ends up in them, as she isn’t one to hold back if others starts one."
+            "standard": "På grund av sin raka attityd och personlighet blev Naomi snabbt ledare för skolans bråkiga grupp. Hon söker visserligen inte konflikter, men hamnar ofta i dem eftersom hon inte drar sig för att slå tillbaka om andra startar en."
         },
         "kumiko": {
-            "MISSING-standard": "Kumiko has been haunting her local village and pulling pranks on its inhabitants since she died over a century ago. Even though she’s known as a prankster, she’s well liked by the villagers and part of the local legends."
+            "standard": "Kumiko har hemsökt sin hemby och spelat spratt på dess invånare sedan hon dog för över ett sekel sedan. Även om hon är känd som en skojare är hon omtyckt av byborna och en del av de lokala sägnerna."
         },
         "sachiko": {
-            "MISSING-standard": "Due to Sachiko's leadership, her squad has become known as an elite squad, carrying out critical tasks in the war against the magical nation. She also got a rivalry going with Marine, trying to prove the army’s importance over the navy."
+            "standard": "Tack vare Sachikos ledarskap har hennes enhet blivit känd som en elitstyrka som utför avgörande uppdrag i kriget mot den magiska nationen. Hon har också en rivalitet med Marine, där hon försöker bevisa arméns betydelse över flottan."
         },
         "kasumi": {
-            "MISSING-standard": "Kasumi comes from a secluded clan that has hunted evil yokai since ancient time. She recently finished her training and became a kunochi of the clan, though her inexperience still shown when she’s out on missions."
+            "standard": "Kasumi kommer från en avskild klan som har jagat onda yokai sedan urminnes tider. Hon har nyligen avslutat sin träning och blivit en kunochi i klanen, men hennes oerfarenhet märks fortfarande när hon är ute på uppdrag."
         },
         "shin": {
-            "MISSING-standard": "Shin is known locally as a street cat, as he enjoys spending his time exploring the urban environment of his home city and interacting with the different people in it. Though, his curiosity does land him in trouble from time to time.",
-            "MISSING-maid": "Some friends wanted to pull a prank on Shin, and tricked him into helping out at a local maid café. But much to their surprise and dismay, Shin ended up being an extremely skillful maid, quickly becoming the café’s most popular."
+            "standard": "Shin är lokalt känd som en gatukatt eftersom han gillar att tillbringa sin tid med att utforska stadsmiljön i sin hemstad och interagera med de olika människorna där. Hans nyfikenhet leder honom dock ibland i trubbel.",
+            "maid": "Några vänner ville spela ett spratt på Shin och lurade honom att hjälpa till på ett lokalt maidcafé. Men till deras stora förvåning och förtret visade det sig att Shin var en oerhört skicklig tjänarinna, och han blev snabbt caféets mest populära."
         },
         "lilith": {
-            "MISSING-standard": "Lilith comes from a long line of ancient vampires, but currently enjoy a normal high school life. Though she doesn’t hide her vampire origins, people around her doesn’t believe it, and just thinks it’s a quick of her personality.",
-            "MISSING-school_girl": "Living her highschool life to her fullest, Lilith looks almost like any other energetic highschool girl, beside the fact she’s a vampire. While she doesn’t hide this, everyone around her just thinks she’s joking around."
+            "standard": "Lilith kommer från en lång rad av gamla vampyrer, men njuter för närvarande av ett vanligt gymnasieliv. Även om hon inte döljer sina vampyrursprung tror inte människorna omkring henne på det, utan ser det bara som ett sätt hon är på.",
+            "school_girl": "Lilith lever sitt gymnasieliv till fullo och ser nästan ut som vilken energisk gymnasieflicka som helst, bortsett från att hon är en vampyr. Även om hon inte försöker dölja det, tror alla omkring henne bara att hon skojar."
         },
         "mao": {
-            "MISSING-standard": "Mao was born with the reincarnated demon kings spirit sealed inside her, granting her the ability to tab into his powers, power which might corrupt her and free the demon king. Or that’s what she’ll tell you when you ask what she’s doing.",
-            "MISSING-student_president": "After a random series of events, Mao ended up as the student council president of her school. Taking up the responsibility, she’s now ready to rule the school with an iron fist and show everyone how a true student president acts!",
-            "MISSING-demon_lord": "Suddenly finding themselves summoned to another world as a demon lord would shock a lot of people, but not Mao, who relished in finally having the power she always dreamed of. Though, she still has to learn how to use them."
+            "standard": "Mao föddes med den återfödda demonkungens själ förseglad inom sig, vilket ger henne förmågan att använda hans krafter, krafter som kan fördärva henne och frigöra demonkungen. Eller åtminstone är det vad hon säger när man frågar vad hon sysslar med.",
+            "student_president": "Efter en rad slumpmässiga händelser blev Mao skolans elevrådsordförande. Hon tog på sig ansvaret och är nu redo att styra skolan med järnhand och visa alla hur en riktig elevrådsordförande agerar!",
+            "demon_lord": "Att plötsligt bli kallad till en annan värld som demonhärskarinna skulle chocka många, men inte Mao, som njöt av att äntligen få den makt hon alltid drömt om. Hon måste dock fortfarande lära sig hur hon ska använda den."
         },
         "kei": {
-            "MISSING-standard": "Being born without magical talent, Kei decided to dedicate herself to developing trinkets and gadgets, utilizing the magical artifacts found in her country. Due to the conflict with the nearby technological nations, this have earned her both friends and foes."
+            "standard": "Eftersom Kei föddes utan magisk talang bestämde hon sig för att ägna sig åt att utveckla prylar och apparater med hjälp av de magiska artefakter som finns i hennes land. På grund av konflikten med de närliggande teknologiska nationerna har detta skaffat henne både vänner och fiender."
         },
         "akane": {
-            "MISSING-standard": "As the leader of a clan of lamia, Akane decided to stay neutral in the ongoing conflicts between the magical and science nations. Though her and clan members does sometime lend their skills of seduction to the magical nations."
+            "standard": "Som ledare för en klan av lamia valde Akane att förbli neutral i de pågående konflikterna mellan de magiska och de vetenskapliga nationerna. Dock brukar hon och klanmedlemmarna ibland låna ut sina förförelsetalanger till de magiska nationerna."
         },
         "umi": {
-            "MISSING-standard": "Umi visited the marine city Venity at a young age, and was instantly charmed by its calm beauty. So when Umi grew up, she decided to move to Venity, where she now enjoys life as a gondolier in her favorite city.",
-            "MISSING-drummer": "Most people know Umi as an elegant gondolier, so they’re pretty surprised the first time they see her let loose as the drummer of The Wave, letting out all that energy she keeps under wrap during her gondolier work."
+            "standard": "Umi besökte den marina staden Venity som ung och blev genast förtrollad av dess lugna skönhet. När Umi växte upp bestämde hon sig därför för att flytta till Venity, där hon nu njuter av livet som gondoljär i sin favoritstad.",
+            "drummer": "De flesta känner Umi som en elegant gondoljär, så de blir ganska förvånade första gången de ser henne släppa loss som trummis i The Wave, och släppa ut all den energi hon håller tillbaka under sitt arbete som gondoljär."
         },
         "etsuko": {
-            "MISSING-standard": "Watching her mother, a professional athlete, Etsuko fell in love with track and field sports. Though her hard work and skills, she’s now looking towards qualifying to the national championship as her school's ace runner."
+            "standard": "När Etsuko såg sin mamma, en professionell idrottare, blev hon förälskad i friidrott. Genom sitt hårda arbete och sina färdigheter siktar hon nu på att kvalificera sig till de nationella mästerskapen som skolans stjärnlöpare."
         },
         "yasuko": {
-            "MISSING-standard": "Yasuko enjoys her life in Venity, working at one of the city major companies. While many of her colleagues rushes around, Yasuko take life slowly, making sure to often sample the cities hot spring, often inviting Umi along."
+            "standard": "Yasuko njuter av sitt liv i Venity och arbetar på ett av stadens största företag. Medan många av hennes kollegor rusar runt tar Yasuko livet i lugn takt och ser ofta till att besöka stadens varma källor. Ofta med Umi som sällskap."
         },
         "yin_yan": {
-            "MISSING-standard": "Twins are a rare occurrence in the Kitsune world, so Yin and Yan were seen as a divine blessing by their clan. They now work as messengers for the clan, traveling the country bringing messages between its members.",
-            "MISSING-mahou_shoujo": "After getting caught up in one of Miyu’s battle, the twins Yin and Yan ended up catching a magical gem, allowing one of them to transform into a magical girl, while the other take the shape of a fox. Power they use to fight together with Miyu."
+            "standard": "Tvillingar är ovanliga i Kitsune-världen, så Yin och Yan sågs som en gudomlig välsignelse av sin klan. De arbetar nu som budbärare för klanen och reser runt i landet för att leverera meddelanden mellan dess medlemmar.",
+            "mahou_shoujo": "Efter att ha blivit indragna i en av Miyus strider råkade tvillingarna Yin och Yan fånga en magisk ädelsten, som gav den ena förmågan att förvandlas till en magisk flicka medan den andra tog formen av en räv. En kraft de använder för att strida tillsammans med Miyu."
         },
         "ayu": {
-            "MISSING-standard": "Ayu was never one for following the norm or caring much about other people's expectations. As a self-proclaimed life enjoyer, she enjoys her days relaxing with her friends and hanging out in the city after school."
+            "standard": "Ayu har aldrig varit den som följer normen eller bryr sig särskilt mycket om andras förväntningar. Som självutnämnd livsnjutare tillbringar hon sina dagar med att koppla av tillsammans med sina vänner och hänga i staden efter skolan."
         },
         "miku": {
-            "MISSING-standard": "Known by her fellow soldiers as their cheerful goddess of victory, Miku boast her skill as head strategist of magic nation's flying forces, while not shying away from leading from the front lines. To the dismay of the technological nations."
+            "standard": "Känd av sina medsoldater som deras glada segergudinna, stoltserar Miku med sin skicklighet som huvudstrateg för de magiska nationernas flygande styrkor, samtidigt som hon inte tvekar att leda från fronten. Till de teknologiska nationernas stora förtret."
         },
         "eksu": {
-            "MISSING-standard": "Eksu was created in an experiment that was discarded as a failure, so when Eksu materialized she found herself alone in an urban city. She quickly learned to stay hidden, but enjoys lurking around the city, watching the lights and people."
+            "standard": "Eksu skapades i ett experiment som avskrevs som ett misslyckande, så när Eksu materialiserade sig fann hon sig själv ensam i en stadsmiljö. Hon lärde sig snabbt att hålla sig gömd, men tycker om att smyga runt i staden och betrakta ljusen och människorna."
         },
         "victoria": {
-            "MISSING-standard": "Victoria went to a private school for rich ladies in England, while she enjoyed her time there, she always found it too restrictive. She now often joins her family on business trips, where she gets to experience others and share her own culture."
+            "standard": "Victoria gick på en privatskola för rika flickor i England. Även om hon njöt av sin tid där tyckte hon alltid att det var för begränsande. Nu följer hon ofta med sin familj på affärsresor, där hon får uppleva andra kulturer och dela med sig av sin egen."
         },
         "kiku": {
-            "MISSING-standard": "Kiku's family disagreed with her pursuing an education in music, but Kiku still enrolled in the music program at a large university. A decision she hasn't regretted, as she spends her days studying and playing the music she loves."
+            "standard": "Kikus familj var emot att hon skulle satsa på en musikutbildning, men Kiku skrev sig ändå in på musikprogrammet vid ett stort universitet. Ett beslut hon inte har ångrat eftersom hon tillbringar sina dagar med att studera och spela den musik hon älskar."
         },
         "sera": {
-            "MISSING-standard": "Living in the celestial realm, many angels don’t spend much time thinking about the mortal world, but Sera have always had a fascination of humans, loving to observe them, and sometimes sneaking down to the mortal world."
+            "standard": "Som invånare i det himmelska riket tänker många änglar inte mycket på den dödliga världen, men Sera har alltid varit fascinerad av människor. Hon älskar att betrakta dem och smyger ibland ner till den dödliga världen."
         },
         "ignis": {
-            "MISSING-standard": "Ignis the Flaming Justice is a well known hero who defends the masses when evil is afoot. Though many people have meet Ignis, no one have been able to figure out who’s behind the mask, and he has yet to share the secret with anyone.",
-            "MISSING-adventurer": "Ignis is known as a mysterious adventurer that rushes to the aid of people in need, no matter if it’s a caravan getting ambushed by monsters or farmers being harassed by corrupt knights, as he travels through the kingdom."
+            "standard": "Ignis, den flammande rättvisan, är en välkänd hjälte som försvarar folket när ondska är på gång. Även om många har träffat Ignis har ingen kunnat lista ut vem som döljer sig bakom masken, och han har ännu inte delat sin hemlighet med någon.",
+            "adventurer": "Ignis är känd som en mystisk äventyrare som skyndar till hjälp för människor i nöd, oavsett om det är en karavan som blir överfallen av monster eller bönder som trakasseras av korrupta riddare, när han reser genom kungariket."
         },
         "rin": {
-            "MISSING-standard": "Having a hard time with bullies in school, Rin quickly accepted when a strange entity offered her magical powers. Drunk on her new powers, Rin started enacting revenge on her former bullies, often leading her to clash with Miyu."
+            "standard": "Eftersom Rin hade det svårt med mobbare i skolan tog hon snabbt emot när en märklig varelse erbjöd henne magiska krafter. Berusad av sina nya krafter började Rin hämnas på sina tidigare mobbare, vilket ofta ledde till konflikter med Miyu."
         },
         "emiri": {
-            "MISSING-standard": "Looking forward to enjoying her dream high school life, Emiri was shocked to find Chika and Yumemi in her class. Their crazy antics often end up dragging her into them, interrupting her idea of the perfect high school life."
+            "standard": "När Emiri såg fram emot att njuta av sitt drömgymnasieliv blev hon chockad över att hitta Chika och Yumemi i sin klass. Deras galna upptåg drar ofta med henne, vilket stör hennes bild av det perfekta gymnasielivet."
         },
         "ichika": {
-            "MISSING-standard": "Scouted while in high school, Ichika turned out to be a prodigy in the field of acting. Quickly growing to become one of Japans most famous actors. Ichika herself loves bringing characters to life, and working with people in the industry."
+            "standard": "När Ichika blev scoutad under gymnasiet visade det sig att hon var ett underbarn inom skådespeleri. Hon växte snabbt till att bli en av Japans mest kända skådespelare. Ichika själv älskar att ge liv åt karaktärer och att arbeta med människor inom branschen."
         },
         "neoko": {
-            "MISSING-standard": "Neoko surprised everyone with her sudden appearance on the v-tuber scene, quickly gaining a large audience who enjoy her quirky and passionate live-streaming. She now streams regularly, enjoying hanging out with chat and sharing her passions."
+            "standard": "Neoko överraskade alla med sin plötsliga entré på v-tuber-scenen och fick snabbt en stor publik som uppskattar hennes udda och passionerade livestreaming. Nu sänder hon regelbundet, njuter av att umgås med chatten och dela sina intressen."
         },
         "elika": {
-            "MISSING-standard": "Elika enjoy a quiet life in the French countryside, where she loves to emerge herself in detective novels. She often shares the story she reads with her younger cousin and pen pal Noel, who currently live in the far away land of Japan."
+            "standard": "Elika njuter av ett lugnt liv på den franska landsbygden, där hon älskar att fördjupa sig i detektivromaner. Hon delar ofta med sig av berättelserna hon läser med sin yngre kusin och brevvän Noel, som för närvarande bor i det avlägsna landet Japan."
         },
         "mofuji": {
-            "MISSING-standard": "Mofuji runs a small café in the countryside, but the location is often caught up in the battles between the technological and magic nations. Mofuji doesn’t mind this, and often keeps the café open while bombs and spell rains down around it."
+            "standard": "Mofuji driver ett litet café på landsbygden, men platsen hamnar ofta mitt i striderna mellan de teknologiska och de magiska nationerna. Mofuji har inget emot detta och håller ofta caféet öppet medan bomber och trollformler regnar ner runt det."
         },
         "arai": {
-            "MISSING-standard": "Arai runs her own underground quiz tournaments, which have made her infamous in some circles and famous in others. Despite the questionability of her being both the host and a participant, her tournaments draw huge crowds."
+            "standard": "Arai håller i sina egna underjordiska frågesportstävlingar, vilket har gjort henne ökänd i vissa kretsar och berömd i andra. Trots att det är tveksamt att hon både är värd och deltagare lockar hennes tävlingar stora publikmassor."
         },
         "yua": {
-            "MISSING-standard": "Since high school, Yua has lowed tailoring and dressmaking, with a huge passion for wedding gowns. She secretly loves dressing up in them, dreaming of getting wed one day, but would die of embarrassment if her friends found out."
+            "standard": "Sedan gymnasiet har Yua älskat skrädderi och klädtillverkning, med en stor passion för brudklänningar. Hon älskar hemligt att klä upp sig i dem och drömmer om att gifta sig en dag, men skulle dö av skam om hennes vänner fick reda på det."
         },
         "kaori": {
-            "MISSING-standard": "Kaori just started highschool where she’s the quiet and nervous girl in her class, but get her talking about frogs and she forgets all that. She managed to make a couple of good friends, who have to live with Kaori trying to buy all frog merch she finds."
+            "standard": "Kaori har precis börjat på gymnasiet där hon är den tysta och nervösa flickan i klassen, men prata om grodor med henne och hon glömmer allt det. Hon har lyckats få ett par goda vänner, som får stå ut med att Kaori försöker köpa all grodmerch hon hittar."
         },
         "saki": {
-            "MISSING-standard": "Due to being born with albinism, Saki spent most of her life indoors reading books. This has given her a lot of knowledge for her young age, something she loves to show off and can be rather cocky about."
+            "standard": "Eftersom Saki föddes med albinism har hon tillbringat större delen av sitt liv inomhus med att läsa böcker. Detta har gett henne mycket kunskap för sin unga ålder, något hon älskar att visa upp och kan vara ganska stolt över."
         },
         "hanabi": {
-            "MISSING-standard": "Hanabi is the proud hair to the red dragon clan, and doesn’t accept any disrespect towards it. She can’t stand the rivaling dark dragon clan, except for Fira, who she think is insanely cute and will do anything to protect."
+            "standard": "Hanabi är den stolta arvtagaren till den röda drakklanen och accepterar ingen respektlöshet mot den. Hon står inte ut med den rivaliserande mörka drakklanen, förutom Fira, som hon tycker är otroligt söt och skulle göra allt för att skydda."
         },
         "fukami": {
-            "MISSING-standard": "While her kind usually takes part in the conflicts between the magic and technology nations, Fukami doesn’t care much about them. But much to the dismay of Marine, she loves sneaking into the technology nations to steal their fun toys."
+            "standard": "Medan hennes art vanligtvis deltar i konflikterna mellan de magiska och de vetenskapliga nationerna bryr sig Fukami inte mycket om dem. Men till Marines stora förtret älskar hon att smyga in i de vetenskapliga nationerna för att stjäla deras roliga prylar."
         },
         "asahi": {
-            "MISSING-standard": "Asahi is the captain of her school's track team, and got a reputation as a tough person who always speak her mind. But she’s actually rather chill, and enjoys her high school days hanging out with her friends without too much drama."
+            "standard": "Asahi är kapten för skolans friidrottslag och har fått rykte om sig att vara tuff och alltid säga vad hon tycker. Men hon är faktiskt ganska avslappnad och njuter av sina gymnasiedagar med att umgås med sina vänner utan alltför mycket drama."
         },
-        "MISSING-unknown": "Unknown"
+        "unknown": "Okänd"
     },
     "song_library": {
         "MISSING-title": "Song Library",
