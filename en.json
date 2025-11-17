@@ -35,6 +35,7 @@
             "play": "Play",
             "use_button": "Use",
             "claim_button": "Claim",
+            "claimed_button": "Claimed",
             "chat": "Chat",
             "block": "Block",
             "report": "Report",
@@ -344,7 +345,11 @@
             "anonymous_donation": "Anonymous Donation",
             "free_donation": "Use Free Donation",
             "free_donation_amount": "Amount: _NUMBER_€",
-            "approx_dollars": "Approx. $",
+            "approx_dollars_2": "Approx. $_SPAN_ _NUMBER_ _SPAN_",
+            "donation_choice_text": {
+                "nomination": "Nomination",
+                "secondary_choice": "Secondary Choice"
+            },
             "checkout": "Checkout",
             "popover": {
                 "no_free_donation": "Free donation already used this month"
@@ -496,7 +501,23 @@
         "change_nickname_modal": {
             "description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you're a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
             "current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
-            "check_availability": "Check Availability"
+            "check_availability": "Check Availability",
+            "new_nickname": "New Nickname",
+            "change_message": {
+                "title": "Change Nickname to _NAME_",
+                "text": "Ones changed you can't go back to your current name without using a name change token"
+            },
+            "nickname_available": "Nickname Available",
+            "nickname_not_available": {
+                "title": "Nickname Not Available",
+                "already_in_use": "This nickname is already in use",
+                "banned": "This nickname is banned"
+            },
+            "change_nickname_messages": {
+                "banned": "Your Account is Banned from Changing Nickname",
+                "success": "Nickname Changed",
+                "no_token": "No Name Change Tokens Available"
+            }
         },
         "alerts": {
             "error_getting_profile": "Error Getting Player Profile",
@@ -967,6 +988,7 @@
             }
         },
         "filters": {
+            "title": "Filters",
             "locked": {
                 "title": "Locked",
                 "description": "Show content you haven't unlocked"
@@ -1067,6 +1089,7 @@
             "gift_target": "Gift Target",
             "gift_no_target_message": "Select Friend to Gift",
             "gift_clear": "Clear",
+            "gift_message_placeholder": "Enter a gift message (optional)",
             "gift_message": {
                 "title": "Buying Ticket Gift for _NAME_",
                 "placeholder": "Gift message: _MESSAGE_"
@@ -1122,7 +1145,8 @@
             "sale_text": {
                 "unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ Unlock(s) Remaining",
                 "days_remaining": "_SPANC_ _NUMBER_ _SPANC_ Days Remaining",
-                "getting_started_pack": "Getting Started Pack"
+                "getting_started_pack": "Getting Started Pack",
+                "promo": "Promo"
             },
             "subtotal": "Subtotal",
             "sales_tax": "Sales Tax",
@@ -1454,6 +1478,7 @@
             "unrated": "Unrated",
             "disliked": "Disliked",
             "vintage": "Vintage",
+            "more_filters": "More Filters",
             "song_categories": {
                 "title": "Song Categories",
                 "standard": "Standard",
@@ -1490,6 +1515,7 @@
                 "summer": "Summer _YEAR_",
                 "fall": "Fall _YEAR_"
             },
+            "more_info": "More Info",
             "genre": "Genre",
             "names": "Names",
             "tags": "Tags",
@@ -1501,6 +1527,7 @@
                 "ed": "ED_NUMBER_",
                 "in": "IN"
             },
+            "anime_header": "Anime:",
             "dub": "Dub",
             "rebroadcast": "Rebroad",
             "composer": "Composer",
@@ -1529,7 +1556,10 @@
             "upload_state_messages": {
                 "missing": "Missing",
                 "pending": "Pending Approval",
-                "uploaded": "Click to View"
+                "uploaded": {
+                    "title": "Uploaded",
+                    "description": "Click to View"
+                }
             }
         },
         "faq": {
@@ -1616,6 +1646,7 @@
     "community_quiz_window": {
         "title": "Community Quizzes",
         "build": "Build",
+        "browse": "Browse",
         "categories": {
             "public": "Public",
             "official": "Official",
@@ -1784,6 +1815,36 @@
             "room_type": "Room Type",
             "room_info": "Room Info",
             "optional_password": "Optional Password"
+        },
+        "medal_descriptions": {
+            "unearned": {
+                "title": "Quiz Medals",
+                "description": "Public quizzes awards medals based on your best result, ranging from bronze to diamond medals. Multiple choice are capped at silver medals"
+            },
+            "bronze": {
+                "title": "Bronze Medal",
+                "description": "Got 40% correct (80% for multiple choice) on this quiz! Next up is silver at 60% (100% for multiple choice)"
+            },
+            "silver": {
+                "title": "Silver Medal",
+                "description": "Got 60% correct (100% for multiple choice) on this quiz! Next up is gold at 80%"
+            },
+            "gold": {
+                "title": "Gold Medal",
+                "description": "Got 80% correct on this quiz! Next up is diamond at 100%"
+            },
+            "diamond": {
+                "title": "Diamond Medal",
+                "description": "Got 100% correct on this quiz!"
+            }
+        },
+        "create_new_quiz_tile": {
+            "message": "Create New Quiz",
+            "title": "New Quiz"
+        },
+        "unlock_at_tile": {
+            "message": "Unlock at Level _NUMBER_",
+            "title": "Locked"
         }
     },
     "community_quiz_tags": {
@@ -2292,8 +2353,180 @@
             "password": {
                 "title": "Password Required",
                 "placeholder": "Enter Password",
-                "confirm_button": "Join"
+                "confirm_button": "Join",
+                "wrong_password": "Wrong Password",
+                "game_closed": "Game Doesn't Exist Anymore"
             }
         }
+    },
+    "quiz_builder": {
+        "title": "Quiz Builder",
+        "save": "Save",
+        "name": "Name",
+        "quiz_name": "Quiz Name",
+        "rule_button": {
+            "title": "Rule Block",
+            "description": "Rule blocks are used to containers for other blocks and allow you to set specific quiz settings for songs in it"
+        },
+        "algorithm_button": {
+            "title": "Algorithm Block",
+            "description": "Algorithm blocks are used to use the games song selection algorithm to select songs for this quiz"
+        },
+        "message_button": {
+            "title": "Message Block",
+            "description": "Message blocks adds a message displayed to the players between songs in the quiz"
+        },
+        "title_button": {
+            "title": "Title Block",
+            "description": "Title blocks sets a title displayed during the quiz"
+        },
+        "sample_selector": {
+            "start": "Start",
+            "end": "End"
+        },
+        "save_window": {
+            "title": "Save Quiz",
+            "description": {
+                "title": "Description",
+                "placeholder": "Enter a description for your quiz"
+            },
+            "tags": "Tags",
+            "tags_max_warning": "Max 2 tags allowed",
+            "save_button": "Save",
+            "saving": "Saving"
+        },
+        "algorithm_block": {
+            "song_type": {
+                "opening": "OP",
+                "ending": "ED",
+                "insert": "IN"
+            },
+            "genres": "_SPANC_ _NUMBER_ _SPANC_ Genres",
+            "tags": "_SPANC_ _NUMBER_ _SPANC_ Tags",
+            "popovers": {
+                "number_of_songs_selected": "Number of songs selected by this block",
+                "number_of_songs_matched": "Number of songs matching the settings",
+                "watched_matching": "Number depends on playing users list",
+                "song_selection": "Song Selection",
+                "song_difficulty": "Song Difficulty",
+                "vintage": "Vintage",
+                "genre_count": "Number of selected genres",
+                "tag_count": "Number of selected tags",
+                "song_types": "Song Types"
+            },
+            "song_selection": {
+                "watched": "Watched",
+                "unwatched": "Unwatched",
+                "random": "Random",
+                "mixed": "Mixed"
+            }
+        },
+        "anime_block": {
+            "song_type": {
+                "opening": "OP _NUMBER_",
+                "ending": "ED _NUMBER_",
+                "insert": "IN _NUMBER_"
+            },
+            "number_of_songs_selected": {
+                "description": "Number of Songs Selected from this Anime Block",
+                "label": "Song Count"
+            }
+        },
+        "rule_block": {
+            "title": "Rule Block",
+            "tutorial_text": "Double Click or Drag Anime/Song/Algorithm to add to the Rule Block",
+            "popovers": {
+                "block_info": "Block Info",
+                "block_info_content": "Song Count: _NUMBER_ _BREAK_ Unique Anime: _NUMBER2_ _BREAK_ Unique Songs: _NUMBER3_",
+                "allow_duplicates": "Allow duplicate shows to be selected from this block",
+                "guess_time_description": "The default guess time for songs in this block",
+                "sample_point_description": "The default sample point for songs in this block",
+                "playback_speed_description": "The default playback speed for songs in this block"
+            },
+            "delete_message": {
+                "title": "Delete Rule Block",
+                "description": "Are you sure you want to delete this rule block?",
+                "confirm": "Delete"
+            },
+            "cannot_delete_message": {
+                "title": "Cannot Delete Rule Block",
+                "description": "At least one rule block must exist in the quiz"
+            },
+            "order_rule": {
+                "description": "The order songs are selected from this block",
+                "random": "Random",
+                "sequential": "Sequential"
+            },
+            "song_count": {
+                "description": "Number of songs to select from this block",
+                "label": "Song Count"
+            }
+        },
+        "song_block": {
+            "song_by_artist": "_SPANC_ _NAME_ _SPANC_ by _SPANC2_ _NAME2_ _SPANC2_",
+            "song_types": {
+                "opening": "OP_NUMBER_",
+                "ending": "ED_NUMBER_",
+                "insert": "IN"
+            }
+        },
+        "no_songs_warning": {
+            "title": "No Songs in Block",
+            "description": "No songs found in this block"
+        },
+        "rule_labels": {
+            "guess_time": "Guess Time",
+            "extra_guess_time": "Extra Guess Time",
+            "playback_speed": "Playback Speed",
+            "sample_point": "Sample Point",
+            "override_guess_time": "Override the default guess time for this block",
+            "override_sample_point": "Override the default sample point for this block",
+            "override_playback_speed": "Override the default playback speed for this block"
+        },
+        "alerts": {
+            "max_rule_block_count": {
+                "title": "Max Rule Block Count Reached",
+                "description": "You have reached the maximum number of _NUMBER_ rule blocks"
+            },
+            "max_rule_block_song_count": {
+                "title": "Max Rule Block Song Count Reached",
+                "description": "All _NUMBER_ songs are already assigned to rule blocks, reduced the song count set on rule blocks before creating a new one"
+            },
+            "max_algorithm_block_count": {
+                "title": "Max Algorithm Block Count Reached",
+                "description": "You have reached the maximum number of _NUMBER_ algorithm blocks"
+            },
+            "max_message_block_count": {
+                "title": "Max Message Block Count Reached",
+                "description": "You have reached the maximum number of _NUMBER_ message blocks"
+            },
+            "max_title_block_count": {
+                "title": "Max Title Block Count Reached",
+                "description": "You have reached the maximum number of _NUMBER_ title blocks"
+            },
+            "leave_warning": {
+                "title": "Leave Quiz Builder",
+                "description": "Are you sure you want to leave the quiz builder? Unsaved changes will be lost.",
+                "confirm": "Leave"
+            },
+            "no_quiz_name": {
+                "title": "No Quiz Name",
+                "description": "You must provide a name for your quiz before saving"
+            },
+            "quiz_saved": "Quiz Saved",
+            "save_failed": {
+                "title": "Save Failed",
+                "description": "An error occurred while trying to save your quiz. Please try again later."
+            },
+            "error_loading": {
+                "title": "Error Loading Quiz",
+                "description": "An error occurred while trying to load the quiz. Please try again later."
+            },
+            "block_limit_reached": {
+                "title": "Block Limit Reached",
+                "description": "You have reached the maximum number of _NUMBER_ blocks allowed in a quiz."
+            }
+        },
+        "page_close_warning": "Leaving the page will cause you to lose any unsaved progress."
     }
 }
