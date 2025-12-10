@@ -193,7 +193,7 @@
                 "lunar": "Månfestivalrea!",
                 "valentine": "Alla hjärtans dag rea!",
                 "summer_games": "Sommarspelsrea!",
-                "MISSING-anniversary": "Anniversary Sale!"
+                "anniversary": " Jubileumsrea!"
             },
             "sale_text": "Få mest för pengarna!",
             "skin_header": "Exklusiva",
@@ -500,8 +500,8 @@
         "edit": "Ändra",
         "change_nickname": "Ändra smeknamn",
         "change_nickname_modal": {
-            "description": "Du kan ändra ditt smeknamn (namnet som visas i spelet) genom att spendera en namnändringspolett. Ditt konto får en polett varje år och ytterligare en polett varje månad om du är en nivå 4 eller högre patreon supporter. _BREAK_ Om du ändrar ditt smeknamn kommer namnet bli tillgängligt för vem som helst att använda (även om det är ditt ursprungliga namn). _BREAK_ Ditt ursprungliga namn kommer fortfarande synas på din profil.",
-            "current_tokens": "Nuvarande namnändringspoletter: _SPAN_ _NUMBER_ _SPAN_",
+            "description": "Du kan ändra ditt smeknamn (namnet som visas i spelet) genom att spendera en namnändringspollett. Ditt konto får en pollett varje år och ytterligare en pollett varje månad om du är en nivå 4 eller högre Patreon-supporter. _BREAK_ Om du ändrar ditt smeknamn kommer namnet bli tillgängligt för vem som helst att använda (även om det är ditt ursprungliga namn). _BREAK_ Ditt ursprungliga namn kommer fortfarande synas på din profil.",
+            "current_tokens": "Nuvarande namnändringspolletter: _SPAN_ _NUMBER_ _SPAN_",
             "check_availability": "Kolla tillgänglighet",
             "new_nickname": "Nytt smeknamn",
             "change_message": {
@@ -868,128 +868,128 @@
         "self": "Jag",
         "friends": "Vänner",
         "top": "Topp",
-        "MISSING-ranked": "Ranked",
+        "ranked": "Tävlingsinriktat",
         "all": "Alla",
-        "MISSING-champs": "Champs",
+        "champs": "Mästare",
         "regions": {
-            "MISSING-west": "West Region",
-            "MISSING-central": "Central Region",
-            "MISSING-east": "East Region"
+            "west": "Västra regionen",
+            "central": "Centrala regionen",
+            "east": "Östra regionen"
         }
     },
     "tutorial_window": {
         "title": "Instruktioner",
-        "MISSING-start": "Start",
-        "MISSING-reset": "Reset",
+        "start": "Starta",
+        "reset": "Återställ",
         "nexus_tutorials": "Nexus instruktioner",
         "tutorials": {
-            "MISSING-gameplay": "Gameplay",
+            "gameplay": "Spel",
             "avatars": "Avatarer",
-            "MISSING-social": "Social",
-            "MISSING-dungeon": "Dungeon",
-            "MISSING-workshop": "Workshop",
+            "social": "Socialt",
+            "dungeon": "Dungeon",
+            "workshop": "Verkstad",
             "rune_setup": "Runuppsättning"
         },
         "status": {
             "locked": "Låst",
             "unlocked": "Upplåst",
-            "MISSING-completed": "Completed"
+            "completed": "Avklarat"
         }
     },
     "guidelines_window": {
         "title": "Riktlinjer",
-        "MISSING-description": "Anime Music Quiz is meant to be fair and enjoyable for everyone. To ensure this it’s important you follow the below guidelines, as well as any instructions from moderators. Failure to follow these guidelines will result in chat or game bans depending on the case.",
+        "description": "Anime Music Quiz är menat att vara rättvist och underhållande för alla. För att säkerställa detta är det viktigt att du följer riktlinjerna nedan, samt eventuella instruktioner från moderatorer. Brott mot dessa riktlinjer kommer leda till avstängning från chatten eller spelet, beroende på fall.",
         "dont_cheat": {
             "title": "Fuska inte",
-            "MISSING-text": "Using any type of external software or tool that gives an unfair advantage is considered cheating. This in general covers, but is not limited to tools that reveal extra information about the song, video or show."
+            "text": "Användning av extern programvara eller verktyg som ger en orättvis fördel anses vara fusk. Detta inkluderar generellt sätt, men är inte begränsat till verktyg som avslöjar extra information om låten, videon eller showen."
         },
         "no_teaming": {
-            "title": "Inget sammarbete i Tävlingintriktat",
-            "MISSING-text": "Ranked is meant to be a test of individual skill, teaming or sharing answers with other players is therefore strictly prohibited. Outside of ranked (and jam mode) you are more than welcome to share answers with friends if the hosts of the room are okay with it, but keep the sharing out of ranked."
+            "title": "Inget samarbete i tävlingintriktat",
+            "text": "Tävlingsinriktat är menat att vara ett test av individuell skicklighet, och det är därför strängt förbjudet att samarbeta eller dela svar med andra spelare. Utanför tävlingsinriktat (och jam-läge) är du mer än välkommen att dela svar med vänner ifall värden i rummet är okej med det, men håll det utanför tävlingsinriktat."
         },
         "no_automated_grind": {
-            "MISSING-title": "No (Semi-)Automated Grind",
-            "MISSING-text": "It’s okay to grind for notes and tickets, as long as you put in the work for it. But using any tools or method to automate or semi automate the grind is strictly against the rules, and will resolve in a perma ban. This includes AFK grinding in team lobbies."
+            "title": "Ingen (halv-) automatisk grind",
+            "text": "Det är okej att grinda för noter och biljetter, så länge du lägger ner arbetet för det. Men att använda verktyg eller metoder för att automatisera eller halvautomatisera grindet är strikt mot reglerna, och kommer därför leda till en permanent avstängning. Detta inkluderar AFK-grinding i laglobbyer."
         },
         "dont_harass": {
             "title": "Trakassera inte andra spelare",
-            "MISSING-text": "The game is for everyone, so harassment of others is not tolerated. It’s of course okay to banter between friends, but make sure everyone is in on it."
+            "text": "Spelet är för alla, så trakasserier av andra tolereras ej. Det är naturligtvis okej att skämta mellan vänner, men se till att alla är med på det."
         },
         "no_hate_speech": {
             "title": "Ingen hets mot folkgrupp eller rasism",
-            "MISSING-text": "Detta säger sig själv. Var snälla mot varandra och använd inte rasistiska skällsord."
+            "text": "Detta säger sig själv. Var snälla mot varandra och använd inte rasistiska skällsord."
         }
     },
     "about_window": {
         "title": "Om",
-        "MISSING-developed_by": "Developed by _NAME_",
-        "MISSING-development": "Development",
-        "MISSING-art": "Art",
-        "MISSING-sound_and_audio": "Sound and Audio",
-        "MISSING-special_thanks": "Special Thanks",
-        "MISSING-credits": "Credits"
+        "developed_by": "Utvecklat av _NAME_",
+        "development": "Utveckling",
+        "art": "Konst",
+        "sound_and_audio": "Ljud",
+        "special_thanks": "Speciellt tack",
+        "credits": "Credits"
     },
     "avatar_window": {
-        "MISSING-nothing_selected": "Nothing Selected _BREAK_ Select Above",
-        "MISSING-collapse_all": "Collapse All",
-        "MISSING-open_all": "Open All",
+        "nothing_selected": "Inget valt _BREAK_ Välj ovanför",
+        "collapse_all": "Göm alla",
+        "open_all": "Öppna alla",
         "rhythm": {
             "title": "Rytm",
-            "MISSING-description": "Currency gained by rolling duplicates in the Ticket System. Can be used to unlock ticket rewards.",
-            "MISSING-duplicate": "Duplicate, rhythm awarded"
+            "description": "Valuta som intjänas genom att få dubbletter i biljettsystemet. Kan användas för att låsa upp biljettbelöningar.",
+            "duplicate": "Dubblett, rytm tilldelad"
         },
         "resonance_system": {
-            "MISSING-target": "Target",
-            "MISSING-title": "Resonance System",
+            "target": "Mål",
+            "title": "Resonanssystem",
             "target_messages": {
-                "MISSING-target_message": "Target in Resonance System",
-                "MISSING-require_base_skin": "Require Base Skin to Target",
-                "MISSING-rare_common": "Rare/Common skins cannot be targeted"
+                "target_message": "Mål i resonanssystemet",
+                "require_base_skin": "Kräver basutklädnad för att sätta som mål",
+                "rare_common": "Sällsynta/vanliga utklädnader kan inte bli satta som mål"
             },
-            "MISSING-no_target": "No Target Selected",
-            "MISSING-no_target_description": "Target a skin/avatar by targeting it from the shop",
-            "MISSING-target_set": "Resonance Target Set",
+            "no_target": "Inget mål satt",
+            "no_target_description": "Rikta in dig på en utklädnad/avatar genom att sätta den som mål från butiken",
+            "target_set": "Resonansmål satt",
             "how_it_works": {
-                "title": "Hur det går till",
-                "MISSING-description": "Target an epic or legendary avatar/skin in the shop, and gain points towards it every time you roll in the Ticket System, double points if you use an avatar token for the target. _BREAK_ Once you’ve gained enough points (200 for epic, 500 for legendary) the target is unlocked! _BREAK_ You can swap your target at any time, but it halves your point. _BREAK_ You can target seasonal/limited-time avatars, but you can only gain points towards them while they are in rotation."
+                "title": "Hur det fungerar",
+                "description": "Rikta in dig på en episk eller legendarisk avatar/utklädnad i butiken, och få poäng mot den varje gång du snurrar i biljettsystemet. Dubbla poäng om du använder avatarpolletter för målet. _BREAK_ När du har tjänat in tillräckligt med poäng (200 för episk, 500 för legendarisk) kommer målet att låsas upp! _BREAK_ Du kan byta mål när som helst, men dina poäng kommer halveras. _BREAK_ DU kan rikta in dig på säsongs/tidsbegränsade avatarer, men du kan bara tjäna in poäng mot dem medan de är i rotation."
             },
             "set_target_prompt": {
-                "MISSING-title": "Set Skin as Resonance Target?",
-                "MISSING-description": "Ticket rolls will earn points towards guaranteeing unlocking this avatar/skin. Targets can be changed, at the cost of 50% of gathered resonance points.",
-                "MISSING-confirm_button": "Set Target"
+                "title": "Sätt utklädnad som resonansmål?",
+                "description": "Biljettspinns ger poäng som garanterar upplåsning av denna avatar/utklädnad. Mål kan ändras, till en kostnad av 50% av insamlade resonanspoäng.",
+                "confirm_button": "Sätt som mål"
             },
             "seasonal_target_prompt": {
-                "MISSING-title": "Seasonal Target",
-                "MISSING-description": "Resonance points can only be earned towards it while it's in rotation. Target anyway?",
-                "MISSING-confirm_button": "Yes"
+                "title": "Säsongsmål",
+                "description": "Resonanspoäng kan endast tjänas mot den medan den är i rotation. Sätt som mål ändå?",
+                "confirm_button": "Ja"
             },
             "swap_target_prompt": {
-                "MISSING-title": "Swap Resonance Target?",
-                "MISSING-description": "This will cost 50% of your current resonance points.",
-                "MISSING-confirm_button": "Swap Target"
+                "title": "Byt resonansmål?",
+                "description": "Detta kommer kosta 50% av dina nuvarande resonanspoäng.",
+                "confirm_button": "Byt mål"
             },
             "target_no_active_warning": {
-                "MISSING-title": "Resonance Target Not Active",
-                "MISSING-description": "Resonance points can’t be earned towards inactive targets, so roll won’t award resonance points."
+                "title": "Resonansmålet är ej aktivt",
+                "description": "Resonanspoäng kan inte tjänas mot inaktiva mål, så snurren kommer inte ge resonanspoäng."
             },
             "resonance_limit_warning": {
-                "MISSING-title": "Resonance Limit Reached",
-                "MISSING-description": "Earn points from your rolls towards guaranteeing unlocks, by targeting a roll-able epic or legendary avatar/skin. Points are lost without a target. For details, hover the target tab to the left."
+                "title": "Resonansgränsen är nådd",
+                "description": "Samla poäng från dina snurr för att garantera upplåsningar genom att rikta in dig på en episk eller legendarisk avatar/utklädnad. Poäng förloras utan ett mål. För mer information, håll muspekaren över målfliken till vänster."
             },
             "resonance_different_target_warning": {
-                "MISSING-title": "Target Different From Resonance",
-                "MISSING-description": "Token target different from resonance target, roll won't award extra resonance points."
+                "title": "Målet skiljer sig från resonansmålet",
+                "description": "Pollettmålet skiljer sig från resonansmålet, så snurr kommer inte ge extra resonanspoäng."
             }
         },
         "favorites": {
-            "MISSING-no_favorite_selected": "No Favorites Selected _BREAK_ Set Some by Clicking the _BREAK_ _ICON_ on Unlocked Avatars",
+            "no_favorite_selected": "Inga favoriter valda _BREAK_ Välj någon genom att klicka på _BREAK_ _ICON_ på upplåsta avatarer.",
             "auto_switch": {
-                "MISSING-description": "Auto switch between favorited avatars at the end of each game",
-                "MISSING-auto_switch": "Auto Switch",
+                "description": "Automatiskt byte mellan favoritavatarer vid slutet av varje spel",
+                "auto_switch": "Auto-byte",
                 "mode": {
-                    "MISSING-random": "Random",
-                    "MISSING-off": "Off",
-                    "MISSING-cycle": "Cycle"
+                    "random": "Slumpmässigt",
+                    "off": "Av",
+                    "cycle": "Växla"
                 }
             }
         },
@@ -1035,7 +1035,7 @@
         },
         "poses": "Poser",
         "pose_names": {
-            "MISSING-base": "Base",
+            "base": "Bas",
             "thinking": "Tänker",
             "waiting": "Väntar",
             "no_answer": "Inget svar",
@@ -1044,7 +1044,7 @@
         },
         "avatar_action_button": {
             "active": "Aktivera",
-            "MISSING-missing_skin": "Missing Skin Bonus",
+            "missing_skin": "Saknar bonusutklädnad",
             "background_locked": "Bakgrund låst",
             "use": "Använd",
             "unavailable": "Otillgänglig",
@@ -1052,152 +1052,152 @@
             "unlock": "Lås upp"
         },
         "avatar_bonus": {
-            "title": "Avatar bonus",
+            "title": "Avatarbonus",
             "description": "Lås upp tio olika utklädnader/varianter för denna avatar och få deras medalj"
         },
         "skin_bonus": {
-            "title": "Utklädnad bonus",
-            "MISSING-description": "Unlock 10 different versions of this skin to unlock its backgrounds for other avatars"
+            "title": "Utklädnadsbonus",
+            "description": "Lås upp 10 olika versioner av denna utklädnad för att låsa upp dess bakgrund för andra avatarer"
         },
         "world": "Värld",
-        "artist": "Artist",
-        "version_artist": "Version artist",
-        "MISSING-background_story": "Background Story",
+        "artist": "Konstnär",
+        "version_artist": "Versionskonstnär",
+        "background_story": "Bakgrundshistoria",
         "ticket_system": {
             "ticket": "Biljett",
             "tickets": "Biljetter",
-            "MISSING-avatar_token": "Avatar Token",
-            "MISSING-avatar_tokens": "Avatar Tokens",
+            "avatar_token": "Avatarpollett",
+            "avatar_tokens": "Avatarpolletter",
             "menu": {
                 "use": "Använd",
                 "history": "Historik",
                 "buy": "Köp",
                 "gift": "Gåva"
             },
-            "MISSING-redeem_code": "Redeem Ticket Code",
+            "redeem_code": "Lös in biljettkod",
             "ticket_code_input": {
                 "title": "Skriv in biljettkod",
-                "MISSING-placeholder": "Ticket Code",
-                "MISSING-redeem": "Redeem"
+                "placeholder": "Biljettkod",
+                "redeem": "Lös in"
             },
             "invalid_ticket_code": "Ogiltig biljettkod",
             "ticket_code_redeemed_message": {
-                "MISSING-title": "Ticket Code Redeemed!",
-                "MISSING-description": "_NUMBER_ tickets and _NUMBER2_ tokens claimed."
+                "title": "Biljettkod inlöst!",
+                "description": "_NUMBER_ biljetter och _NUMBER2_ polletter mottagna."
             },
             "approx_dollar": "Cirka $_NUMBER_",
             "patreon_promo": {
-                "MISSING-line_one": "Back the Patreon to get",
-                "MISSING-line_two": "the Most Tickets for Your Money!"
+                "line_one": "Stöd Patreon för att få",
+                "line_two": "flest biljetter för pengarna!"
             },
             "one_ticket": "En biljett",
-            "MISSING-ticket_pack": "_NUMBER_ Pack",
-            "MISSING-gift_target": "Gift Target",
-            "MISSING-gift_no_target_message": "Select Friend to Gift",
+            "ticket_pack": "_NUMBER_-pack",
+            "gift_target": "Gåvomål",
+            "gift_no_target_message": "Välj vän att ge gåva till",
             "gift_clear": "Rensa",
-            "MISSING-gift_message_placeholder": "Enter a gift message (optional)",
+            "gift_message_placeholder": "Skriv in ett gåvomeddelande (frivilligt)",
             "gift_message": {
-                "MISSING-title": "Buying Ticket Gift for _NAME_",
-                "MISSING-placeholder": "Gift message: _MESSAGE_"
+                "title": "Köper biljettgåva till _NAME_",
+                "placeholder": "Gåvomeddelande: _MESSAGE_"
             },
             "no_gift_target_message": {
-                "MISSING-title": "No Gift Target Selected",
-                "MISSING-description": "Select one below"
+                "title": "Inget gåvomål valt",
+                "description": "Välj ett nedanför"
             },
             "gift_no_friends": {
                 "title": "Inga vänner i vänlistan",
-                "MISSING-description": "You're only able to gift tickets to friends in your friend list."
+                "description": "Du kan endast ge biljetter till vänner i din vänlista."
             },
-            "MISSING-no_past_rolls": "No Past _BREAK_ Ticket Rolls",
-            "MISSING-one_roll": "1 Roll",
+            "no_past_rolls": "Inga tidigare _BREAK_ biljettsnurr",
+            "one_roll": "1 snurr",
             "ten_roll": {
-                "MISSING-title": "10 Rolls",
-                "MISSING-description": "Rare or Higher Item Guaranteed!"
+                "title": "10 snurr",
+                "description": "Garanterat sällsynt eller högre!"
             },
-            "MISSING-token_description": "Select an avatar for _BREAK_ 50% chance for it _BREAK_ on all rolls",
-            "MISSING-token_description_dropdown": "Select an avatar above and all rolls will have a 50% chance of being of that avatar",
-            "MISSING-roll": "Roll",
+            "token_description": "Välj en avatar för _BREAK_ 50% chans att få den _BREAK_ på alla snurr",
+            "token_description_dropdown": "Välj en avatar ovan så kommer alla snurr ha 50% chans att vara den avataren",
+            "roll": "Snurr",
             "animated_promo": {
-                "MISSING-title": "Animated Promo",
-                "MISSING-description": "Rollable without base skin",
-                "MISSING-ends_in": "Ends in _NUMBER_ days",
-                "MISSING-extended_description": "Promo event that allows you to roll the animated _NAME_ alt. version in the ticket system without first unlocking the base _NAME2_ legendary skin."
+                "title": "Animerad kampanj",
+                "description": "Snurrbar utan basutklädnad",
+                "ends_in": "Slutar om _NUMBER_ dagar",
+                "extended_description": "Kampanjevent som tillåter dig att snurra den animerade alternativa versionen av _NAME_ i biljettsystemet utan att först låsa upp den legendariska basutklädnaden till _NAME2_."
             },
             "info": {
-                "MISSING-title": "Ticket System",
-                "MISSING-description": "The Ticket System allows players to spend tickets to unlock exclusive skins, skin versions, emotes, avatar backgrounds and decorations.",
+                "title": "Biljettsystem",
+                "description": "Biljettsystemet tillåter spelare att spendera biljetter för att låsa upp exklusiva utklädnader, utklädnadsversioner, emotes, avatarbakgrunder och dekorationer.",
                 "how_to_earn": {
-                    "MISSING-title": "How to Earn Tickets",
-                    "MISSING-text": "Players receive one ticket each time they level up, with a bonus 5 tickets every 10th level. Tickets can also be bought directly or be earned by backing the games Patreon."
+                    "title": "Hur man tjänar biljetter",
+                    "text": "Spelare får en biljett varje gång de går upp i level, med 5 bonusbiljetter var tionde level. Biljetter kan också köpas eller tjänas genom att stödja spelet på Patreon."
                 },
                 "how_do_rolls_work": {
-                    "MISSING-title": "How Do Rolls Work?",
-                    "MISSING-text": "You can spend tickets to roll for exclusive rewards in the ticket system. Each roll costs 2 tickets. Rewards are split into 4 rarities, with different chances of being rolled:",
-                    "MISSING-common": "(Common) 85% chance: Simple skin recolors and Emotes.",
-                    "MISSING-rare": "(Rare) 10% chance: Advanced skin versions and decorations.",
-                    "MISSING-epic": "(Epic) 4.5% chance: Major skin version, seasonal skins and unique backgrounds.",
-                    "MISSING-legendary": "(Legendary) 0.5% chance: Unique skins and animated versions.",
-                    "MISSING-info_footer": "Skin versions for a ticket reward skin can’t be rolled until the skin has been unlocked."
+                    "title": "Hur fungerar snurret?",
+                    "text": "Du kan spendera biljetter för att snurra för exklusiva belöningar i biljettsystemet. Varje snurr kostar 2 biljetter. Belöningar är uppdelade i 4 sällsyntheter, med olika chans att få dem i ett snurr.",
+                    "common": "(Vanlig) 85% chans: Simpla färgvarianter för utklädnader och emotes.",
+                    "rare": "(Sällsynt) 10% chans: Avancerade utklädnadsversioner och dekorationer.",
+                    "epic": "(Episk) 4.5% chans: Stora utklädnadsversioner, säsongsutklädnader och unika bakgrunder.",
+                    "legendary": "(Legendarisk) 0.5% chans: Unika utklädnader och animerade versioner.",
+                    "info_footer": "Utklädnadsversioner för biljettbelöningsutklädnader går inte att få förrän utklädnaden är upplåst."
                 },
                 "how_does_rhythm_work": {
-                    "MISSING-title": "How Does Rhythm Work?",
-                    "MISSING-text": "If you roll a reward you have already unlocked, you earn an amount of rhythm based on the reward's rarity. Rhythm can be spent to unlock any specific reward item once enough of it has been collected."
+                    "title": "Hur fungerar rytm?",
+                    "text": "Om du får en belöning som du redan har låst upp, tjänar du en mängd rytm baserat på belöningens sällsynthet.Rytm kan användas för att låsa upp et specifikt belöningsföremål när tillräckligt mycket har samlats in."
                 },
                 "how_does_avatar_tokens_work": {
-                    "MISSING-title": "How Do Avatar Tokens Work?",
-                    "MISSING-text": "When buying tickets or backing the Patron, you’ll receive avatar tokens. These tokens can be used to focus ticket rolls towards specific avatars or seasonal skins, by selecting a target before doing a roll. When an avatar/season is focused, each individual roll will have a 50% chance of being a non duplicate (if any available) of that avatar/season. _BREAK_ The rarity pull ratio remains the same when using avatar tokens."
+                    "title": "Hur fungerer avatarpolletter?",
+                    "text": "När du köper biljetter eller stödjer Patreon får du avatarpolletter. Dessa polletter kan användas för att fokusera biljettsnurr mot specifika avaterer eller säsongsutklädnader, genom att välja ett mål innan du gör ett snurr. När en avatar/säsong är i fokus har varje snurr 50% chans att vara en icke-duplikat (om någon finns tillgänglig) av den avataren/säsongen. _BREAK_ Sällsynthetsförhållandet förblir detsamma när du använder avatarpolletter."
                 }
             },
             "sale_text": {
-                "MISSING-unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ Unlock(s) Remaining",
-                "MISSING-days_remaining": "_SPANC_ _NUMBER_ _SPANC_ Days Remaining",
-                "MISSING-getting_started_pack": "Getting Started Pack",
-                "MISSING-promo": "Promo"
+                "unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ upplåsning(ar) kvar",
+                "days_remaining": "_SPANC_ _NUMBER_ _SPANC_ dagar kvar",
+                "getting_started_pack": "Komma igång-pack",
+                "promo": "Kampanj"
             },
-            "MISSING-subtotal": "Subtotal",
-            "MISSING-sales_tax": "Sales Tax",
-            "MISSING-total": "Total"
+            "subtotal": "Delsumma",
+            "sales_tax": "Moms",
+            "total": "Summa"
         },
         "avatar_tokens": {
-            "MISSING-title": "Avatar Tokens",
-            "MISSING-description": "Tokens used to roll for specific avatars, gained by purchasing tickets or being a Patreon backer.",
+            "title": "Avatarpolletter",
+            "description": "Polletter som används för att snurra för specifika avatarer, erhållna genom att köpa biljetter eller vara en Patreon-supporter.",
             "not_enough_tokens": {
-                "MISSING-title": "Not Enough Avatar Tokens",
-                "MISSING-description": "You're missing _NUMBER_ avatar token(s) to be able to perform the roll with an avatar target. Avatar tokens are obtained by buying tickets or supporting the Patreon"
+                "title": "Ej tillräckligt med avatarpolletter",
+                "description": "Du saknar _NUMBER_ avatarpollett(er) för att kunna utföra snurren med ett avatarmål. Avatarpolletter erhålls genom att köpa biljetter eller stödja Patreon."
             },
-            "MISSING-not_enough_tickets": "Not Enough Tickets"
+            "not_enough_tickets": "Ej tillräckligt med biljetter"
         },
         "unlock_checkout": {
             "title": "Lås upp",
             "buy": "Köp",
             "gift": "Ge bort",
             "tickets": "Biljetter",
-            "MISSING-open_checkout": "Open Checkout",
-            "skin_entry": "Utklädnad (Default: _NAME_)",
-            "MISSING-version_entry": "Version: _NAME_",
-            "MISSING-location_background": "Location Background",
+            "open_checkout": "Gå till kassan",
+            "skin_entry": "Utklädnad (Standard: _NAME_)",
+            "version_entry": "Version: _NAME_",
+            "location_background": "Platsbakgrund",
             "decorations": "Dekorationer",
             "errors": {
-                "MISSING-failed_to_create_payment": "Failed to create payment, please try again.",
-                "MISSING-unlimited_slots_already_unlocked": "Unlimited slots already unlocked",
-                "MISSING-insufficient_notes": "Insufficient Notes",
-                "MISSING-insufficient_notes_message": "You don't have enough notes to unlock this item.",
-                "MISSING-insufficient_rhythm": "Insufficient Rhythm",
-                "MISSING-insufficient_rhythm_message": "You don't have enough rhythm to unlock this item.",
-                "MISSING-error_unlocking": "Error Unlocking"
+                "failed_to_create_payment": "Kunde inte skapa betalningen, försök igen senare.",
+                "unlimited_slots_already_unlocked": "Obegränsat antal platser är redan upplåst",
+                "insufficient_notes": "Otillräckligt antal noter",
+                "insufficient_notes_message": "Du har inte tillräckligt med noter för att låsa upp detta föremål.",
+                "insufficient_rhythm": "Otillräckligt antal rytm",
+                "insufficient_rhythm_message": "Du har inte tillräckligt med rytm för att låsa upp detta föremål.",
+                "error_unlocking": "Fel vid upplåsning"
             }
         },
         "toggle_favorite": "Lägg till i favoriter",
         "avatar_states": {
-            "MISSING-unavailable": "Unavailable",
-            "MISSING-limited": "Limited",
+            "unavailable": "Otillgänglig",
+            "limited": "Begränsad",
             "exclusive": "Exklusiv",
             "standard": "Standard",
             "unique": "Unik"
         },
         "decoration_buttons": {
-            "MISSING-front": "Front",
-            "MISSING-back": "Back"
+            "front": "Fram",
+            "back": "Bak"
         },
         "item_types": {
             "emote": "Emote",
@@ -1206,8 +1206,8 @@
             "skin": "Utklädnad"
         },
         "ticket_reward_tier": "Biljettbelöningsnivå _TIER_",
-        "rhythm_price": "Rytm pris",
-        "MISSING-silver_hibike_description": "Unique launch recolor unlocked by having joined the game during the launch week or by unlocking all non unique recolors for all avatars.",
+        "rhythm_price": "Rytmpris",
+        "silver_hibike_description": "Unik lanseringsfärgvariant som låses upp genom att ha gått med i spelet under lanseringsveckan eller genom att låsa upp alla icke-unika färgvarianter för alla avatarer.",
         "emote_previews": {
             "chat": "Chatt",
             "profile": "Profil"

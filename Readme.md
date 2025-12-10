@@ -16,6 +16,7 @@ Note that this readme is also a work in progress.
 -   Scoreboard - Poängtavla
 -   Name Change Token - Namnändringspollett
 -   Recolors - Färgvarianter
+-   Rolls - Snurr
 
 ## Don't Translate
 
