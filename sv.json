@@ -984,7 +984,7 @@
         "favorites": {
             "no_favorite_selected": "Inga favoriter valda _BREAK_ Välj någon genom att klicka på _BREAK_ _ICON_ på upplåsta avatarer.",
             "auto_switch": {
-                "description": "Automatiskt byte mellan favoritavatarer vid slutet av varje spel",
+                "description": "Byt automatiskt mellan favoritavatarer vid slutet av varje spel",
                 "auto_switch": "Auto-byte",
                 "mode": {
                     "random": "Slumpmässigt",
