@@ -951,7 +951,7 @@
             "target_set": "Resonansmål satt",
             "how_it_works": {
                 "title": "Hur det fungerar",
-                "description": "Rikta in dig på en episk eller legendarisk avatar/utklädnad i butiken, och få poäng mot den varje gång du snurrar i biljettsystemet. Dubbla poäng om du använder avatarpolletter för målet. _BREAK_ När du har tjänat in tillräckligt med poäng (200 för episk, 500 för legendarisk) kommer målet att låsas upp! _BREAK_ Du kan byta mål när som helst, men dina poäng kommer halveras. _BREAK_ DU kan rikta in dig på säsongs/tidsbegränsade avatarer, men du kan bara tjäna in poäng mot dem medan de är i rotation."
+                "description": "Rikta in dig på en episk eller legendarisk avatar/utklädnad i butiken, och få poäng mot den varje gång du snurrar i biljettsystemet. Dubbla poäng om du använder avatarpolletter för målet. _BREAK_ När du har tjänat in tillräckligt med poäng (200 för episk, 500 för legendarisk) kommer målet att låsas upp! _BREAK_ Du kan byta mål när som helst, men dina poäng kommer halveras. _BREAK_ Du kan rikta in dig på säsongs/tidsbegränsade avatarer, men du kan bara tjäna in poäng mot dem medan de är i rotation."
             },
             "set_target_prompt": {
                 "title": "Sätt utklädnad som resonansmål?",
