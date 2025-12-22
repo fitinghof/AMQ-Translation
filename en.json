@@ -334,7 +334,8 @@
             "complete_registration": "Complete Registration",
             "complete_registration_message": "To complete registration, please verify your email by clicking the link sent to _BOLD_ _EMAIL_ _BOLD_"
         },
-        "cookie_disclaimer": "This website uses cookies to store local settings, such as music volume and last used login name. Third party services used by the site may also set cookies. For more details see the Cookie Section of the Privacy Policy. By continuing to use the site, you agree that the site may set these cookies."
+        "cookie_disclaimer": "This website uses cookies to store local settings, such as music volume and last used login name. Third party services used by the site may also set cookies. For more details see the Cookie Section of the Privacy Policy. By continuing to use the site, you agree that the site may set these cookies.",
+        "cookie_learn_more": "Learn More"
     },
     "login_page": {
         "ui": {
@@ -424,9 +425,28 @@
         "ui": {
             "news": "News",
             "stay_connected": "Stay Connected",
-            "merch_store": "Merch Store",
+            "merch": "Merch",
             "song_library": "Song Library",
             "leaderboard": "Leaderboard"
+        },
+        "amq_funding": {
+            "title": "AMQ Funding",
+            "month": {
+                "january": "January Result",
+                "february": "February Result",
+                "march": "March Result",
+                "april": "April Result",
+                "may": "May Result",
+                "june": "June Result",
+                "july": "July Result",
+                "august": "August Result",
+                "september": "September Result",
+                "october": "October Result",
+                "november": "November Result",
+                "december": "December Result"
+            },
+            "yearly": "Yearly Result",
+            "description": "The funding results from last month and overall for the year. AMQ is completely community funded which pays for the server and development costs. All money earned goes to continue improving and expanding the game, thanks for all the support!"
         },
         "carousel": {
             "social_promo": "Earn Free Tickets by Following AMQ on Discord and Patreon!",
@@ -1401,7 +1421,8 @@
                 "unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ Unlock(s) Remaining",
                 "days_remaining": "_SPANC_ _NUMBER_ _SPANC_ Days Remaining",
                 "getting_started_pack": "Getting Started Pack",
-                "promo": "Promo"
+                "promo": "Promo",
+                "sale": "Sale"
             },
             "subtotal": "Subtotal",
             "sales_tax": "Sales Tax",
@@ -2651,6 +2672,7 @@
                 "endings": "Endings",
                 "inserts": "Inserts"
             },
+            "search_placeholder": "Search rooms",
             "song_selection": {
                 "title": "Song Selection",
                 "watched": "Watched",
@@ -2734,6 +2756,44 @@
                 "confirm_button": "Join",
                 "wrong_password": "Wrong Password",
                 "game_closed": "Game Doesn't Exist Anymore"
+            }
+        },
+        "nexus_lobbies": {
+            "title": "Nexus Lobbies",
+            "open": "_NUMBER_ Open",
+            "no_lobbies": "No Open Lobbies",
+            "slot_name": "Slot _NUMBER_",
+            "players_popover_header": "Players in Lobby",
+            "click_to_join": "Click to Join",
+            "lobby_full_message": "Lobby is Full",
+            "unknown_lobby": {
+                "title": "Couldn't Find Nexus Lobby",
+                "description": "The Nexus Lobby you are trying to join doesn't exist or has been closed."
+            },
+            "room_settings": {
+                "type": {
+                    "endless": "Endless",
+                    "standard": "Standard"
+                },
+                "song_type": {
+                    "opening": "OP",
+                    "ending": "ED",
+                    "insert": "IN"
+                },
+                "difficulty": {
+                    "easy": "Easy",
+                    "medium": "Medium",
+                    "hard": "Hard"
+                },
+                "song_selection": {
+                    "watched": "Watched",
+                    "random": "Random"
+                },
+                "answering_mode": {
+                    "typing": "Typing",
+                    "multiple_choice": "Multiple Choice"
+                },
+                "floor": "Floor _NUMBER_"
             }
         }
     },
@@ -3205,7 +3265,17 @@
                 "ona": "ONA",
                 "tv": "TV",
                 "movie": "Movie",
-                "special": "Special"
+                "special": "Special",
+                "easy": "Easy",
+                "medium": "Medium",
+                "hard": "Hard",
+                "openings": "Openings",
+                "endings": "Endings",
+                "inserts": "Inserts",
+                "standard": "Standard",
+                "character": "Character",
+                "chanting": "Chanting",
+                "instrumental": "Instrumental"
             }
         },
         "ranked_rules": {
@@ -3305,6 +3375,11 @@
                 "info": "Info Hint Used",
                 "multiple_choice": "Multiple Choice Hint Used"
             }
+        },
+        "rejoin_prompt": {
+            "title": "Rejoin Disconnect Game",
+            "description": "You where disconnected from your last game, want to rejoin it?",
+            "rejoin_button": "Rejoin"
         },
         "song_info": {
             "title": "Song Info",
@@ -3512,7 +3587,12 @@
                         "join_button": "Join",
                         "description": "Enter the id for the lobby you want to join",
                         "missing_id": "You must provide a lobby ID",
-                        "invalid_id": "Invalid lobby ID"
+                        "invalid_id": "Invalid lobby ID",
+                        "full": "The lobby is full",
+                        "unavailable_guest": {
+                            "title": "Unavailable for Guest Accounts",
+                            "description": "Co-op mode is not available for guest accounts, please create an account to access this feature."
+                        }
                     },
                     "dungeon_mode": "Dungeon Modes",
                     "description_start": "Decide how to challenge the dungeon.",
@@ -3531,13 +3611,17 @@
                     "lobby_id": "ID",
                     "start_button": "Start",
                     "load_button": "Load",
+                    "public_description": {
+                        "make_public": "Make lobby public, so anyone can join",
+                        "make_private": "Make lobby private, so only people with the ID can join"
+                    },
                     "settings": {
                         "song_types": {
                             "title": "Song Types",
                             "description": "Type of songs selected in the dungeon",
                             "op": "OP",
                             "ed": "ED",
-                            "ins": "Ins"
+                            "ins": "IN"
                         },
                         "difficulty": {
                             "title": "Song Difficulty",
@@ -3617,6 +3701,7 @@
                     "change_decorations": "Change Decorations",
                     "change_background": "Change Background",
                     "toggle": "Toggle _NAME_",
+                    "no_toggle": "No Toggle",
                     "set_default": "Set as Default",
                     "add_to_team": "Add to Team",
                     "locked": "Locked",
@@ -3715,7 +3800,8 @@
                 "select_badge_popover": "Select an avatar badge to power up the avatar",
                 "early_access": "In early access for level 4+ Patreons until _DATE_",
                 "character_locked_popover": "Not Unlocked",
-                "character_already_in_party": "Character Already in Party"
+                "character_already_in_party": "Character Already in Party",
+                "clear": "Clear"
             },
             "building_names": {
                 "dungeon": "Dungeon",
@@ -3760,7 +3846,11 @@
                 "select_one_artifact": "Select 1 Artifact",
                 "runes": "Runes",
                 "no_drops": "No Drops",
-                "select_avatar": "Select Avatar"
+                "select_avatar": "Select Avatar",
+                "skip_artifact": {
+                    "text": "Skip Artifact?",
+                    "skip_button": "Skip"
+                }
             },
             "event_window": {
                 "title": "Event",
@@ -3784,7 +3874,18 @@
                 "continue_button": "Continue",
                 "level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
                 "party_wipe": "Party Wipe",
-                "floor_cleared": "Floor Cleared"
+                "floor_cleared": "Floor Cleared",
+                "xp_reward_types": {
+                    "combat": "Combat",
+                    "clear": "Floor Clear"
+                },
+                "unlocks": {
+                    "ability_level": "Ability Up",
+                    "badge": "Badge",
+                    "badge_level": "Badge Up",
+                    "genre_power": "Genre Power",
+                    "rune_slot": "Rune Slot"
+                }
             },
             "next_floor_window": {
                 "title": "Next floor: _SPAN_ _NUMBER_ _SPAN_",
@@ -3800,6 +3901,11 @@
                 "heal_this_avatar": "Heal this avatar",
                 "lock_artifact_description": "Lock in an artifact to bring it to the next floor. Each avatar can only lock in one artifact"
             }
+        },
+        "rejoin_prompt": {
+            "title": "Rejoin Disconnect Nexus Game",
+            "description": "You where disconnected from your last nexus game, want to rejoin it?",
+            "rejoin_button": "Rejoin"
         },
         "avatar": {
             "genre": "Genre",
@@ -5049,7 +5155,8 @@
             },
             "encore_debuff": {
                 "name": "Encore Debuff",
-                "description": "Next attack from _NAME_ is a guaranteed critical hit"
+                "description": "Next attack from _NAME_ is a guaranteed critical hit",
+                "the_caster": "the caster"
             },
             "ice_prison": {
                 "name": "Ice Prison",
@@ -5801,5 +5908,46 @@
         "sports": "Sports",
         "supernatural": "Supernatural",
         "thriller": "Thriller"
+    },
+    "avatar_options": {
+        "bandana": "Bandana",
+        "bow": "Bow",
+        "bows": "Bows",
+        "cardigan": "Cardigan",
+        "chain": "Chain",
+        "crown": "Crown",
+        "drums": "Drums",
+        "earmuffs": "Earmuffs",
+        "earpiece": "Earpiece",
+        "flower": "Flower",
+        "glasses": "Glasses",
+        "goggles": "Goggles",
+        "hair_chain": "Hair Chain",
+        "hair_clips": "Hair Clips",
+        "hair_pins": "Hair Pins",
+        "hairband": "Hairband",
+        "hairclip": "Hairclip",
+        "hairpin": "Hairpin",
+        "hairpins": "Hairpins",
+        "hat": "Hat",
+        "headband": "Headband",
+        "headphones": "Headphones",
+        "headpiece": "Headpiece",
+        "headset": "Headset",
+        "helm": "Helm",
+        "helmet": "Helmet",
+        "hood": "Hood",
+        "jacket": "Jacket",
+        "mask": "Mask",
+        "none": "None",
+        "pins": "pins",
+        "revealed": "Revealed",
+        "ribbon": "Ribbon",
+        "ribbons": "Ribbons",
+        "scarf": "scarf",
+        "tiara": "Tiara",
+        "veil": "Veil",
+        "whistle": "Whistle",
+        "yan": "Yan"
     }
 }
