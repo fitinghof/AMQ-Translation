@@ -334,7 +334,8 @@
             "complete_registration": "Slutför registrering",
             "complete_registration_message": "För att slutföra registreringen, var vänlig verifiera din e-postadress genom att klicka på länken som har skickats till _BOLD_ _EMAIL_ _BOLD_"
         },
-        "MISSING-cookie_disclaimer": "This website uses cookies to store local settings, such as music volume and last used login name. Third party services used by the site may also set cookies. For more details see the Cookie Section of the Privacy Policy. By continuing to use the site, you agree that the site may set these cookies."
+        "MISSING-cookie_disclaimer": "This website uses cookies to store local settings, such as music volume and last used login name. Third party services used by the site may also set cookies. For more details see the Cookie Section of the Privacy Policy. By continuing to use the site, you agree that the site may set these cookies.",
+        "MISSING-cookie_learn_more": "Learn More"
     },
     "login_page": {
         "ui": {
@@ -424,9 +425,28 @@
         "ui": {
             "news": "Nyheter",
             "stay_connected": "Håll kontakten",
-            "merch_store": "Merchbutik",
             "song_library": "Låtbibliotek",
-            "leaderboard": "Topplista"
+            "leaderboard": "Topplista",
+            "merch": "Merch"
+        },
+        "amq_funding": {
+            "MISSING-title": "AMQ Funding",
+            "month": {
+                "MISSING-january": "January Result",
+                "MISSING-february": "February Result",
+                "MISSING-march": "March Result",
+                "MISSING-april": "April Result",
+                "MISSING-may": "May Result",
+                "MISSING-june": "June Result",
+                "MISSING-july": "July Result",
+                "MISSING-august": "August Result",
+                "MISSING-september": "September Result",
+                "MISSING-october": "October Result",
+                "MISSING-november": "November Result",
+                "MISSING-december": "December Result"
+            },
+            "MISSING-yearly": "Yearly Result",
+            "MISSING-description": "The funding results from last month and overall for the year. AMQ is completely community funded which pays for the server and development costs. All money earned goes to continue improving and expanding the game, thanks for all the support!"
         },
         "carousel": {
             "social_promo": "Få gratis biljetter genom att följa AMQ på Discord och Patreon.",
@@ -1401,7 +1421,8 @@
                 "unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ upplåsning(ar) kvar",
                 "days_remaining": "_SPANC_ _NUMBER_ _SPANC_ dagar kvar",
                 "getting_started_pack": "Komma igång-pack",
-                "promo": "Kampanj"
+                "promo": "Kampanj",
+                "MISSING-sale": "Sale"
             },
             "subtotal": "Delsumma",
             "sales_tax": "Moms",
@@ -2651,6 +2672,7 @@
                 "MISSING-endings": "Endings",
                 "MISSING-inserts": "Inserts"
             },
+            "MISSING-search_placeholder": "Search rooms",
             "song_selection": {
                 "MISSING-title": "Song Selection",
                 "MISSING-watched": "Watched",
@@ -2734,6 +2756,44 @@
                 "MISSING-confirm_button": "Join",
                 "MISSING-wrong_password": "Wrong Password",
                 "MISSING-game_closed": "Game Doesn't Exist Anymore"
+            }
+        },
+        "nexus_lobbies": {
+            "MISSING-title": "Nexus Lobbies",
+            "MISSING-open": "_NUMBER_ Open",
+            "MISSING-no_lobbies": "No Open Lobbies",
+            "MISSING-slot_name": "Slot _NUMBER_",
+            "MISSING-players_popover_header": "Players in Lobby",
+            "MISSING-click_to_join": "Click to Join",
+            "MISSING-lobby_full_message": "Lobby is Full",
+            "unknown_lobby": {
+                "MISSING-title": "Couldn't Find Nexus Lobby",
+                "MISSING-description": "The Nexus Lobby you are trying to join doesn't exist or has been closed."
+            },
+            "room_settings": {
+                "type": {
+                    "MISSING-endless": "Endless",
+                    "MISSING-standard": "Standard"
+                },
+                "song_type": {
+                    "MISSING-opening": "OP",
+                    "MISSING-ending": "ED",
+                    "MISSING-insert": "IN"
+                },
+                "difficulty": {
+                    "MISSING-easy": "Easy",
+                    "MISSING-medium": "Medium",
+                    "MISSING-hard": "Hard"
+                },
+                "song_selection": {
+                    "MISSING-watched": "Watched",
+                    "MISSING-random": "Random"
+                },
+                "answering_mode": {
+                    "MISSING-typing": "Typing",
+                    "MISSING-multiple_choice": "Multiple Choice"
+                },
+                "MISSING-floor": "Floor _NUMBER_"
             }
         }
     },
@@ -3205,7 +3265,17 @@
                 "MISSING-ona": "ONA",
                 "MISSING-tv": "TV",
                 "MISSING-movie": "Movie",
-                "MISSING-special": "Special"
+                "MISSING-special": "Special",
+                "MISSING-easy": "Easy",
+                "MISSING-medium": "Medium",
+                "MISSING-hard": "Hard",
+                "MISSING-openings": "Openings",
+                "MISSING-endings": "Endings",
+                "MISSING-inserts": "Inserts",
+                "MISSING-standard": "Standard",
+                "MISSING-character": "Character",
+                "MISSING-chanting": "Chanting",
+                "MISSING-instrumental": "Instrumental"
             }
         },
         "ranked_rules": {
@@ -3305,6 +3375,11 @@
                 "MISSING-info": "Info Hint Used",
                 "MISSING-multiple_choice": "Multiple Choice Hint Used"
             }
+        },
+        "rejoin_prompt": {
+            "MISSING-title": "Rejoin Disconnect Game",
+            "MISSING-description": "You where disconnected from your last game, want to rejoin it?",
+            "MISSING-rejoin_button": "Rejoin"
         },
         "song_info": {
             "MISSING-title": "Song Info",
@@ -3512,7 +3587,12 @@
                         "MISSING-join_button": "Join",
                         "MISSING-description": "Enter the id for the lobby you want to join",
                         "MISSING-missing_id": "You must provide a lobby ID",
-                        "MISSING-invalid_id": "Invalid lobby ID"
+                        "MISSING-invalid_id": "Invalid lobby ID",
+                        "MISSING-full": "The lobby is full",
+                        "unavailable_guest": {
+                            "MISSING-title": "Unavailable for Guest Accounts",
+                            "MISSING-description": "Co-op mode is not available for guest accounts, please create an account to access this feature."
+                        }
                     },
                     "MISSING-dungeon_mode": "Dungeon Modes",
                     "MISSING-description_start": "Decide how to challenge the dungeon.",
@@ -3531,13 +3611,17 @@
                     "MISSING-lobby_id": "ID",
                     "MISSING-start_button": "Start",
                     "MISSING-load_button": "Load",
+                    "public_description": {
+                        "MISSING-make_public": "Make lobby public, so anyone can join",
+                        "MISSING-make_private": "Make lobby private, so only people with the ID can join"
+                    },
                     "settings": {
                         "song_types": {
                             "MISSING-title": "Song Types",
                             "MISSING-description": "Type of songs selected in the dungeon",
                             "MISSING-op": "OP",
                             "MISSING-ed": "ED",
-                            "MISSING-ins": "Ins"
+                            "MISSING-ins": "IN"
                         },
                         "difficulty": {
                             "MISSING-title": "Song Difficulty",
@@ -3620,7 +3704,8 @@
                     "MISSING-set_default": "Set as Default",
                     "MISSING-add_to_team": "Add to Team",
                     "MISSING-locked": "Locked",
-                    "MISSING-background_locked": "Unlock 10 versions of this skin _BREAK_ to unlock the backgrounds"
+                    "MISSING-background_locked": "Unlock 10 versions of this skin _BREAK_ to unlock the backgrounds",
+                    "MISSING-no_toggle": "No Toggle"
                 },
                 "team_setup": {
                     "MISSING-rename": "Rename Team",
@@ -3715,7 +3800,8 @@
                 "MISSING-select_badge_popover": "Select an avatar badge to power up the avatar",
                 "MISSING-early_access": "In early access for level 4+ Patreons until _DATE_",
                 "MISSING-character_locked_popover": "Not Unlocked",
-                "MISSING-character_already_in_party": "Character Already in Party"
+                "MISSING-character_already_in_party": "Character Already in Party",
+                "MISSING-clear": "Clear"
             },
             "building_names": {
                 "MISSING-dungeon": "Dungeon",
@@ -3760,7 +3846,11 @@
                 "MISSING-select_one_artifact": "Select 1 Artifact",
                 "MISSING-runes": "Runes",
                 "MISSING-no_drops": "No Drops",
-                "MISSING-select_avatar": "Select Avatar"
+                "MISSING-select_avatar": "Select Avatar",
+                "skip_artifact": {
+                    "MISSING-text": "Skip Artifact?",
+                    "MISSING-skip_button": "Skip"
+                }
             },
             "event_window": {
                 "MISSING-title": "Event",
@@ -3784,7 +3874,18 @@
                 "MISSING-continue_button": "Continue",
                 "MISSING-level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
                 "MISSING-party_wipe": "Party Wipe",
-                "MISSING-floor_cleared": "Floor Cleared"
+                "MISSING-floor_cleared": "Floor Cleared",
+                "xp_reward_types": {
+                    "MISSING-combat": "Combat",
+                    "MISSING-clear": "Floor Clear"
+                },
+                "unlocks": {
+                    "MISSING-ability_level": "Ability Up",
+                    "MISSING-badge": "Badge",
+                    "MISSING-badge_level": "Badge Up",
+                    "MISSING-genre_power": "Genre Power",
+                    "MISSING-rune_slot": "Rune Slot"
+                }
             },
             "next_floor_window": {
                 "MISSING-title": "Next floor: _SPAN_ _NUMBER_ _SPAN_",
@@ -3800,6 +3901,11 @@
                 "MISSING-heal_this_avatar": "Heal this avatar",
                 "MISSING-lock_artifact_description": "Lock in an artifact to bring it to the next floor. Each avatar can only lock in one artifact"
             }
+        },
+        "rejoin_prompt": {
+            "MISSING-title": "Rejoin Disconnect Nexus Game",
+            "MISSING-description": "You where disconnected from your last nexus game, want to rejoin it?",
+            "MISSING-rejoin_button": "Rejoin"
         },
         "avatar": {
             "MISSING-genre": "Genre",
@@ -5049,7 +5155,8 @@
             },
             "encore_debuff": {
                 "MISSING-name": "Encore Debuff",
-                "MISSING-description": "Next attack from _NAME_ is a guaranteed critical hit"
+                "MISSING-description": "Next attack from _NAME_ is a guaranteed critical hit",
+                "MISSING-the_caster": "the caster"
             },
             "ice_prison": {
                 "MISSING-name": "Ice Prison",
@@ -5801,5 +5908,46 @@
         "MISSING-sports": "Sports",
         "MISSING-supernatural": "Supernatural",
         "MISSING-thriller": "Thriller"
+    },
+    "avatar_options": {
+        "MISSING-bandana": "Bandana",
+        "MISSING-bow": "Bow",
+        "MISSING-bows": "Bows",
+        "MISSING-cardigan": "Cardigan",
+        "MISSING-chain": "Chain",
+        "MISSING-crown": "Crown",
+        "MISSING-drums": "Drums",
+        "MISSING-earmuffs": "Earmuffs",
+        "MISSING-earpiece": "Earpiece",
+        "MISSING-flower": "Flower",
+        "MISSING-glasses": "Glasses",
+        "MISSING-goggles": "Goggles",
+        "MISSING-hair_chain": "Hair Chain",
+        "MISSING-hair_clips": "Hair Clips",
+        "MISSING-hair_pins": "Hair Pins",
+        "MISSING-hairband": "Hairband",
+        "MISSING-hairclip": "Hairclip",
+        "MISSING-hairpin": "Hairpin",
+        "MISSING-hairpins": "Hairpins",
+        "MISSING-hat": "Hat",
+        "MISSING-headband": "Headband",
+        "MISSING-headphones": "Headphones",
+        "MISSING-headpiece": "Headpiece",
+        "MISSING-headset": "Headset",
+        "MISSING-helm": "Helm",
+        "MISSING-helmet": "Helmet",
+        "MISSING-hood": "Hood",
+        "MISSING-jacket": "Jacket",
+        "MISSING-mask": "Mask",
+        "MISSING-none": "None",
+        "MISSING-pins": "pins",
+        "MISSING-revealed": "Revealed",
+        "MISSING-ribbon": "Ribbon",
+        "MISSING-ribbons": "Ribbons",
+        "MISSING-scarf": "scarf",
+        "MISSING-tiara": "Tiara",
+        "MISSING-veil": "Veil",
+        "MISSING-whistle": "Whistle",
+        "MISSING-yan": "Yan"
     }
 }
